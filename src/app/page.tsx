@@ -108,24 +108,24 @@ function CustomSelect({
         disabled={disabled}
         onClick={() => setIsOpen(!isOpen)}
         onKeyDown={handleKeyDown}
-        className={`w-full text-left bg-white/10 border border-white/20 rounded-xl px-4 py-3.5 text-white transition-all duration-200 hover:bg-white/15 focus:outline-none focus:ring-2 focus:ring-emerald-400/50 focus:border-emerald-400/50 disabled:opacity-50 flex justify-between items-center ${disabled ? 'cursor-not-allowed' : 'cursor-pointer'
+        className={`w-full text-left bg-white/5 border border-white/10 rounded-xl px-4 py-4 text-white transition-all duration-150 hover:bg-white/10 focus:outline-none focus:ring-2 focus:ring-emerald-500/50 focus:border-emerald-500/30 disabled:opacity-50 flex justify-between items-center active:scale-[0.99] ${disabled ? 'cursor-not-allowed' : 'cursor-pointer'
           }`}
       >
-        <span className={selectedOption ? 'text-white' : 'text-emerald-200/50'}>
+        <span className={`font-medium ${selectedOption ? 'text-white' : 'text-slate-400'}`}>
           {selectedOption ? selectedOption.name : placeholder}
         </span>
         <svg
-          className={`w-5 h-5 text-emerald-200/50 transition-transform duration-200 ${isOpen ? 'rotate-180' : ''}`}
+          className={`w-4 h-4 text-slate-400 transition-transform duration-200 ${isOpen ? 'rotate-180' : ''}`}
           fill="none"
           stroke="currentColor"
           viewBox="0 0 24 24"
         >
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M19 9l-7 7-7-7" />
         </svg>
       </button>
 
       {isOpen && !disabled && (
-        <div className="absolute z-50 w-full mt-2 bg-slate-800 border border-white/10 rounded-xl shadow-xl max-h-60 overflow-y-auto overflow-x-hidden animate-in fade-in zoom-in-95 duration-200 scrollbar-thin scrollbar-thumb-emerald-600 scrollbar-track-slate-700">
+        <div className="absolute z-50 w-full mt-2 bg-[#1A3A5A] border border-white/10 rounded-xl shadow-2xl max-h-60 overflow-y-auto overflow-x-hidden animate-in fade-in zoom-in-95 duration-200 scrollbar-thin scrollbar-thumb-emerald-600/50 scrollbar-track-transparent">
           {options.length > 0 ? (
             options.map((option) => (
               <div
@@ -135,8 +135,8 @@ function CustomSelect({
                   onChange(option.value);
                   setIsOpen(false);
                 }}
-                className={`px-4 py-3 cursor-pointer text-sm transition-colors duration-150 ${option.value === value
-                  ? 'bg-emerald-600/20 text-emerald-400'
+                className={`px-4 py-3.5 cursor-pointer text-sm font-medium transition-colors duration-150 ${option.value === value
+                  ? 'bg-emerald-600/30 text-emerald-400'
                   : 'text-slate-200 hover:bg-white/5'
                   }`}
               >
@@ -144,7 +144,7 @@ function CustomSelect({
               </div>
             ))
           ) : (
-            <div className="px-4 py-3 text-sm text-slate-400 text-center">Seçenek yok</div>
+            <div className="px-4 py-4 text-sm text-slate-400 text-center italic">Seçenek bulunamadı</div>
           )}
         </div>
       )}
@@ -250,7 +250,7 @@ export default function Home() {
 
       const blob = await response.blob();
       const url = window.URL.createObjectURL(blob);
-      setPreparedFile({ url, name: `${finalName}_Namaz_Vakitleri.txt` });
+      setPreparedFile({ url, name: `${finalName}.txt` });
       setPrepStatus('ready');
     } catch (e) {
       console.error(e);
@@ -284,20 +284,18 @@ export default function Home() {
   const canDownload = cityObj?.leaf || selectedDistrict;
 
   return (
-    <main className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-emerald-950 flex flex-col md:flex-row items-center justify-center p-4 gap-6 font-sans">
-      {/* Background glow effects */}
-      <div className="fixed inset-0 overflow-hidden pointer-events-none">
-        <div className="absolute -top-40 -right-40 w-80 h-80 bg-emerald-500/20 rounded-full blur-3xl"></div>
-        <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-teal-500/20 rounded-full blur-3xl"></div>
-      </div>
+    <main className="min-h-screen bg-[#0F2A44] flex flex-col items-center justify-center p-6 gap-6 font-sans antialiased text-white">
+      {/* Background Subtle Gradient */}
+      <div className="fixed inset-0 pointer-events-none bg-gradient-to-b from-white/5 to-transparent"></div>
 
-      <div className="relative bg-white/5 backdrop-blur-xl rounded-3xl p-8 w-full max-w-md shadow-2xl border border-white/10 z-10">
-        <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-white mb-1 tracking-tight">
-            Vakit Dosyası Oluşturucu
+      <div className="relative bg-[#1A3A5A]/30 backdrop-blur-md rounded-[32px] p-10 w-full max-w-lg shadow-[0_20px_50px_rgba(0,0,0,0.3)] border border-white/10 z-10 transition-all duration-500">
+        {/* Header */}
+        <div className="text-center mb-10">
+          <h1 className="text-3xl font-bold tracking-tight text-white/95 mb-2">
+            Namaz Vakti Dosyası Oluşturucu - 2026
           </h1>
-          <p className="text-emerald-300/70 text-sm font-medium">
-            vakitmatikler için
+          <p className="text-slate-400 font-medium text-sm tracking-wide">
+            Bu dosya yalnızca Vakitmatik cihazlarında kullanılır
           </p>
         </div>
 
@@ -344,92 +342,87 @@ export default function Home() {
           )}
 
           {/* Download Button */}
+          {/* Download Button */}
           <button
             onClick={handlePrepare}
             disabled={!canDownload || prepStatus !== 'idle'}
-            className={`w-full py-4 rounded-xl font-bold text-lg transition-all duration-300 transform mt-2 border ${canDownload && prepStatus === 'idle'
-              ? 'bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-400 hover:to-teal-400 text-white shadow-lg shadow-emerald-500/30 hover:shadow-emerald-500/50 hover:scale-[1.02] active:scale-[0.98] border-transparent'
-              : 'bg-white/5 text-white/20 cursor-not-allowed border-white/5'
+            className={`w-full py-5 rounded-2xl font-semibold text-lg transition-all duration-200 active:scale-[0.97] mt-4 flex items-center justify-center gap-3 ${canDownload && prepStatus === 'idle'
+              ? 'bg-[#1F7A4D] hover:bg-[#258a58] text-white shadow-xl shadow-emerald-900/20'
+              : 'bg-white/5 text-slate-500 cursor-not-allowed border border-white/5'
               }`}
           >
             {prepStatus === 'preparing' ? (
               <span className="inline-flex items-center gap-3">
                 <LoadingDots /> <span className="animate-pulse">Hazırlanıyor...</span>
               </span>
-            ) : prepStatus === 'ready' ? (
-              <span className="inline-flex items-center gap-2">
-                <span className="text-xl">✅</span> <span>Hazır!</span>
-              </span>
             ) : (
-              <span className="inline-flex items-center gap-2">
-                <span className="text-xl">📄</span> <span>Dosya Hazırla</span>
-              </span>
+              <>
+                <span className="text-xl opacity-80">📄</span>
+                <span>Dosya Hazırla</span>
+              </>
             )}
           </button>
         </div>
 
-        {/* Footer */}
-        <p className="text-white/20 text-[10px] uppercase tracking-widest text-center mt-10 font-semibold">
-          Diyanet İşleri Başkanlığı Verileri
-        </p>
+        {/* Note Footer */}
+        <div className="mt-10 pt-6 border-t border-white/5 text-center">
+          <p className="text-[#6B7280] text-[10px] font-medium uppercase tracking-[0.15em] mb-4">
+            bu işlem biraz zaman alabilir
+          </p>
+          <div className="flex justify-between items-center opacity-40 hover:opacity-100 transition-opacity duration-300">
+            <a href="https://reksanreklam.com.tr" target="_blank" rel="noopener noreferrer" className="text-[10px] text-slate-400 hover:text-emerald-400 transition-colors font-medium tracking-wide">
+              reksanreklam.com.tr
+            </a>
+            <a href="https://vakitmatik.org" target="_blank" rel="noopener noreferrer" className="text-[10px] text-slate-400 hover:text-emerald-400 transition-colors font-medium tracking-wide">
+              vakitmatik.org
+            </a>
+          </div>
+        </div>
       </div>
 
-      {/* Preparation Status Card */}
-      {prepStatus !== 'idle' && (
-        <div className="relative bg-white/5 backdrop-blur-xl rounded-3xl p-8 w-full max-w-sm shadow-2xl border border-white/10 z-10 animate-in slide-in-from-left-4 md:slide-in-from-left-8 duration-500 fade-in fill-mode-both">
-          <div className="text-center">
-            <div className="relative mb-6">
-              <div className={`w-20 h-20 mx-auto rounded-2xl flex items-center justify-center text-3xl transition-all duration-500 ${prepStatus === 'preparing'
-                ? 'bg-emerald-500/20 animate-pulse'
-                : 'bg-emerald-500 shadow-lg shadow-emerald-500/30 scale-110'
-                }`}>
-                {prepStatus === 'preparing' ? '⚙️' : '✅'}
+      {/* Result Card Modal / Overlay */}
+      {prepStatus === 'ready' && preparedFile && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-6 animate-in fade-in duration-300">
+          <div className="absolute inset-0 bg-[#0F2A44]/80 backdrop-blur-xl" onClick={resetPrep}></div>
+          <div className="relative bg-[#1A3A5A] rounded-[32px] p-10 w-full max-w-md shadow-2xl border border-white/10 animate-in zoom-in-95 duration-300">
+            <div className="text-center">
+              <div className="w-16 h-16 bg-[#1F7A4D]/20 rounded-full flex items-center justify-center mx-auto mb-6 border border-[#1F7A4D]/30">
+                <span className="text-2xl text-[#1F7A4D]">✓</span>
               </div>
-              {prepStatus === 'preparing' && (
-                <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-24 h-24 border-2 border-emerald-500/30 border-t-emerald-500 rounded-full animate-spin"></div>
-              )}
-            </div>
 
-            <h3 className="text-xl font-bold text-white mb-2">
-              {prepStatus === 'preparing' ? 'Dosya Hazırlanıyor' : 'Dosya Hazır!'}
-            </h3>
-            <p className="text-emerald-300/70 text-sm mb-8 leading-relaxed">
-              {prepStatus === 'preparing'
-                ? 'Veriler Diyanet üzerinden çekiliyor ve sizin için TXT formatına dönüştürülüyor. Bu işlem biraz sürebilir...'
-                : 'Seçtiğiniz konumun 2026 yılı namaz vakitleri başarıyla hazırlandı. Aşağıdaki butondan indirebilirsiniz.'}
-            </p>
+              <h3 className="text-2xl font-bold text-white mb-3">
+                Dosya başarıyla oluşturuldu
+              </h3>
+              <p className="text-slate-400 text-sm mb-10 leading-relaxed px-4">
+                Seçilen konum için 2026 yılı vakitmatik yükleme dosyası hazır.
+              </p>
 
-            <div className="space-y-3">
-              {prepStatus === 'ready' && (
+              <div className="mb-10 p-5 bg-white/5 rounded-2xl border border-white/10 flex flex-col items-center">
+                <span className="text-white font-medium truncate w-full px-2 text-sm opacity-80 mb-1">
+                  {preparedFile.name}
+                </span>
+                <span className="text-[#6B7280] text-xs uppercase tracking-widest font-bold">
+                  HAZIRLANDI
+                </span>
+              </div>
+
+              <div className="space-y-4">
                 <button
                   onClick={handleDownload}
-                  className="w-full py-4 rounded-xl font-bold text-lg bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-400 hover:to-teal-400 text-white shadow-lg shadow-emerald-500/30 hover:shadow-emerald-500/50 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 flex items-center justify-center gap-2"
+                  className="w-full py-5 rounded-2xl font-bold text-lg bg-[#1F7A4D] hover:bg-[#258a58] text-white transition-all duration-200 active:scale-[0.97] flex items-center justify-center gap-2 shadow-lg shadow-emerald-950/40"
                 >
-                  <span className="text-xl">📥</span> Şimdi İndir
+                  Dosyayı İndir
                 </button>
-              )}
 
-              <button
-                onClick={resetPrep}
-                className="w-full py-3 rounded-xl font-medium text-slate-300 hover:text-white hover:bg-white/5 transition-all duration-200"
-              >
-                {prepStatus === 'ready' ? 'Yeni Dosya Hazırla' : 'İptal Et'}
-              </button>
+                <button
+                  onClick={resetPrep}
+                  className="w-full py-3 text-slate-400 hover:text-white transition-colors duration-200 text-sm font-medium"
+                >
+                  Yeni dosya oluştur
+                </button>
+              </div>
             </div>
           </div>
-
-          {/* Decorative small dots for "processing" vibe */}
-          {prepStatus === 'preparing' && (
-            <div className="flex justify-center gap-2 mt-6">
-              {[0, 1, 2, 3, 4].map((i) => (
-                <div
-                  key={i}
-                  className="w-1.5 h-1.5 bg-emerald-500/40 rounded-full animate-bounce"
-                  style={{ animationDelay: `${i * 150}ms` }}
-                ></div>
-              ))}
-            </div>
-          )}
         </div>
       )}
     </main>
