@@ -174,14 +174,17 @@ export default function Home() {
     fetch('/api/countries')
       .then((res) => res.json())
       .then((data: LocationOption[]) => {
-        setCountries(data);
-        setLoadingCountries(false);
-
-        // Auto-select Türkiye
-        const turkiye = data.find(c => c.name.toUpperCase() === 'TÜRKİYE');
-        if (turkiye) {
-          setSelectedCountry(turkiye.value);
+        if (Array.isArray(data)) {
+          setCountries(data);
+          // Auto-select Türkiye
+          const turkiye = data.find(c => c.name.toUpperCase() === 'TÜRKİYE');
+          if (turkiye) {
+            setSelectedCountry(turkiye.value);
+          }
+        } else {
+          console.error('Countries API returned invalid data:', data);
         }
+        setLoadingCountries(false);
       })
       .catch(() => setLoadingCountries(false));
   }, []);
@@ -197,7 +200,11 @@ export default function Home() {
       fetch(`/api/cities?countryId=${selectedCountry}`)
         .then((res) => res.json())
         .then((data) => {
-          setCities(data);
+          if (Array.isArray(data)) {
+            setCities(data);
+          } else {
+            console.error('Cities API returned invalid data:', data);
+          }
           setLoadingCities(false);
         })
         .catch(() => setLoadingCities(false));
@@ -206,7 +213,7 @@ export default function Home() {
 
   // Fetch Districts when city changes (if not leaf)
   useEffect(() => {
-    const cityObj = cities.find((c) => c.value === selectedCity);
+    const cityObj = Array.isArray(cities) ? cities.find((c) => c.value === selectedCity) : null;
     if (selectedCity && cityObj && !cityObj.leaf && selectedCountry) {
       setDistricts([]);
       setSelectedDistrict('');
@@ -214,7 +221,11 @@ export default function Home() {
       fetch(`/api/districts?countryId=${selectedCountry}&cityId=${selectedCity}`)
         .then((res) => res.json())
         .then((data) => {
-          setDistricts(data);
+          if (Array.isArray(data)) {
+            setDistricts(data);
+          } else {
+            console.error('Districts API returned invalid data:', data);
+          }
           setLoadingDistricts(false);
         })
         .catch(() => setLoadingDistricts(false));
@@ -228,12 +239,12 @@ export default function Home() {
     let finalId = '';
     let finalName = '';
 
-    const cityObj = cities.find((c) => c.value === selectedCity);
+    const cityObj = Array.isArray(cities) ? cities.find((c) => c.value === selectedCity) : null;
     if (cityObj?.leaf) {
       finalId = cityObj.value;
       finalName = cityObj.name;
     } else if (selectedDistrict) {
-      const distObj = districts.find((d) => d.value === selectedDistrict);
+      const distObj = Array.isArray(districts) ? districts.find((d) => d.value === selectedDistrict) : null;
       if (distObj) {
         finalId = distObj.value;
         finalName = distObj.name;
