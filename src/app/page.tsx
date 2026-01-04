@@ -1,11 +1,108 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 interface LocationOption {
   value: string;
   name: string;
   leaf?: boolean;
+}
+
+// Loading dots component
+function LoadingDots() {
+  return (
+    <span className="inline-flex items-center gap-1">
+      <span className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce" style={{ animationDelay: '0ms' }}></span>
+      <span className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce" style={{ animationDelay: '150ms' }}></span>
+      <span className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce" style={{ animationDelay: '300ms' }}></span>
+    </span>
+  );
+}
+
+// Custom Select Component
+function CustomSelect({
+  value,
+  onChange,
+  options,
+  placeholder,
+  label,
+  loading = false,
+  disabled = false,
+}: {
+  value: string;
+  onChange: (val: string) => void;
+  options: LocationOption[];
+  placeholder: string;
+  label: React.ReactNode;
+  loading?: boolean;
+  disabled?: boolean;
+}) {
+  const [isOpen, setIsOpen] = useState(false);
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  const selectedOption = options.find((o) => o.value === value);
+
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (containerRef.current && !containerRef.current.contains(event.target as Node)) {
+        setIsOpen(false);
+      }
+    }
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
+
+  return (
+    <div className="relative" ref={containerRef}>
+      <label className="flex items-center gap-2 text-emerald-200/80 text-sm font-medium mb-2">
+        {label}
+        {loading && <LoadingDots />}
+      </label>
+      <button
+        type="button"
+        disabled={disabled}
+        onClick={() => setIsOpen(!isOpen)}
+        className={`w-full text-left bg-white/10 border border-white/20 rounded-xl px-4 py-3.5 text-white transition-all duration-200 hover:bg-white/15 focus:outline-none focus:ring-2 focus:ring-emerald-400/50 focus:border-emerald-400/50 disabled:opacity-50 flex justify-between items-center ${disabled ? 'cursor-not-allowed' : 'cursor-pointer'
+          }`}
+      >
+        <span className={selectedOption ? 'text-white' : 'text-emerald-200/50'}>
+          {selectedOption ? selectedOption.name : placeholder}
+        </span>
+        <svg
+          className={`w-5 h-5 text-emerald-200/50 transition-transform duration-200 ${isOpen ? 'rotate-180' : ''}`}
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+
+      {isOpen && !disabled && (
+        <div className="absolute z-50 w-full mt-2 bg-slate-800 border border-white/10 rounded-xl shadow-xl max-h-60 overflow-y-auto overflow-x-hidden animate-in fade-in zoom-in-95 duration-200 scrollbar-thin scrollbar-thumb-emerald-600 scrollbar-track-slate-700">
+          {options.length > 0 ? (
+            options.map((option) => (
+              <div
+                key={option.value}
+                onClick={() => {
+                  onChange(option.value);
+                  setIsOpen(false);
+                }}
+                className={`px-4 py-3 cursor-pointer text-sm transition-colors duration-150 ${option.value === value
+                    ? 'bg-emerald-600/20 text-emerald-400'
+                    : 'text-slate-200 hover:bg-white/5'
+                  }`}
+              >
+                {option.name}
+              </div>
+            ))
+          ) : (
+            <div className="px-4 py-3 text-sm text-slate-400 text-center">Seçenek yok</div>
+          )}
+        </div>
+      )}
+    </div>
+  );
 }
 
 export default function Home() {
@@ -17,14 +114,21 @@ export default function Home() {
   const [selectedCity, setSelectedCity] = useState('');
   const [selectedDistrict, setSelectedDistrict] = useState('');
 
+  const [loadingCountries, setLoadingCountries] = useState(true);
+  const [loadingCities, setLoadingCities] = useState(false);
+  const [loadingDistricts, setLoadingDistricts] = useState(false);
   const [downloading, setDownloading] = useState(false);
 
   // Fetch Countries on mount
   useEffect(() => {
+    setLoadingCountries(true);
     fetch('/api/countries')
-      .then(res => res.json())
-      .then(data => setCountries(data))
-      .catch(console.error);
+      .then((res) => res.json())
+      .then((data) => {
+        setCountries(data);
+        setLoadingCountries(false);
+      })
+      .catch(() => setLoadingCountries(false));
   }, []);
 
   // Fetch Cities when country changes
@@ -34,23 +138,31 @@ export default function Home() {
       setDistricts([]);
       setSelectedCity('');
       setSelectedDistrict('');
+      setLoadingCities(true);
       fetch(`/api/cities?countryId=${selectedCountry}`)
-        .then(res => res.json())
-        .then(data => setCities(data))
-        .catch(console.error);
+        .then((res) => res.json())
+        .then((data) => {
+          setCities(data);
+          setLoadingCities(false);
+        })
+        .catch(() => setLoadingCities(false));
     }
   }, [selectedCountry]);
 
   // Fetch Districts when city changes (if not leaf)
   useEffect(() => {
-    const cityObj = cities.find(c => c.value === selectedCity);
+    const cityObj = cities.find((c) => c.value === selectedCity);
     if (selectedCity && cityObj && !cityObj.leaf && selectedCountry) {
       setDistricts([]);
       setSelectedDistrict('');
+      setLoadingDistricts(true);
       fetch(`/api/districts?countryId=${selectedCountry}&cityId=${selectedCity}`)
-        .then(res => res.json())
-        .then(data => setDistricts(data))
-        .catch(console.error);
+        .then((res) => res.json())
+        .then((data) => {
+          setDistricts(data);
+          setLoadingDistricts(false);
+        })
+        .catch(() => setLoadingDistricts(false));
     } else {
       setDistricts([]);
       setSelectedDistrict('');
@@ -58,18 +170,15 @@ export default function Home() {
   }, [selectedCity, cities, selectedCountry]);
 
   const handleDownload = async () => {
-    // Determine the final ID and Name
     let finalId = '';
     let finalName = '';
 
-    // Check city leaf logic first
-    const cityObj = cities.find(c => c.value === selectedCity);
+    const cityObj = cities.find((c) => c.value === selectedCity);
     if (cityObj?.leaf) {
       finalId = cityObj.value;
       finalName = cityObj.name;
     } else if (selectedDistrict) {
-      // Find district name
-      const distObj = districts.find(d => d.value === selectedDistrict);
+      const distObj = districts.find((d) => d.value === selectedDistrict);
       if (distObj) {
         finalId = distObj.value;
         finalName = distObj.name;
@@ -100,72 +209,70 @@ export default function Home() {
     }
   };
 
-  const cityObj = cities.find(c => c.value === selectedCity);
+  const cityObj = cities.find((c) => c.value === selectedCity);
   const canDownload = cityObj?.leaf || selectedDistrict;
 
   return (
-    <main className="min-h-screen bg-gradient-to-br from-emerald-900 to-teal-800 flex items-center justify-center p-4">
-      <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-8 w-full max-w-md shadow-2xl border border-white/20">
-        <h1 className="text-3xl font-bold text-white text-center mb-2">
-          🕌 Vakitmatik
-        </h1>
-        <p className="text-emerald-200 text-center mb-8">
-          Yıllık Namaz Vakitleri İndirici
-        </p>
+    <main className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-emerald-950 flex items-center justify-center p-4 font-sans">
+      {/* Background glow effects */}
+      <div className="fixed inset-0 overflow-hidden pointer-events-none">
+        <div className="absolute -top-40 -right-40 w-80 h-80 bg-emerald-500/20 rounded-full blur-3xl"></div>
+        <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-teal-500/20 rounded-full blur-3xl"></div>
+      </div>
 
-        <div className="space-y-4">
-          {/* Country Select */}
-          <div>
-            <label className="block text-emerald-100 text-sm font-medium mb-2">
-              Ülke
-            </label>
-            <select
-              value={selectedCountry}
-              onChange={(e) => setSelectedCountry(e.target.value)}
-              className="w-full bg-white/20 border border-white/30 rounded-lg px-4 py-3 text-white placeholder-emerald-200 focus:outline-none focus:ring-2 focus:ring-emerald-400"
-            >
-              <option value="" className="text-gray-900">Ülke Seçin</option>
-              {countries.map(c => (
-                <option key={c.value} value={c.value} className="text-gray-900">{c.name}</option>
-              ))}
-            </select>
+      <div className="relative bg-white/5 backdrop-blur-xl rounded-3xl p-8 w-full max-w-md shadow-2xl border border-white/10 z-10">
+        {/* Header */}
+        <div className="text-center mb-8">
+          <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-emerald-400 to-teal-500 rounded-2xl mb-4 shadow-lg shadow-emerald-500/30 transform hover:scale-105 transition-transform duration-300">
+            <span className="text-3xl filter drop-shadow-md">🕌</span>
           </div>
+          <h1 className="text-3xl font-bold text-white mb-1 tracking-tight">
+            Vakitmatik
+          </h1>
+          <p className="text-emerald-300/70 text-sm font-medium">
+            Yıllık Namaz Vakitleri İndirici
+          </p>
+        </div>
+
+        <div className="space-y-6">
+          {/* Country Select */}
+          <CustomSelect
+            label={<span>🌍 Ülke</span>}
+            value={selectedCountry}
+            onChange={setSelectedCountry}
+            options={countries}
+            placeholder="Ülke Seçin"
+            loading={loadingCountries}
+            disabled={loadingCountries}
+          />
 
           {/* City Select */}
           {selectedCountry && (
-            <div>
-              <label className="block text-emerald-100 text-sm font-medium mb-2">
-                Şehir
-              </label>
-              <select
+            <div className="animate-in slide-in-from-top-2 duration-300 fade-in fill-mode-both">
+              <CustomSelect
+                label={<span>🏙️ Şehir</span>}
                 value={selectedCity}
-                onChange={(e) => setSelectedCity(e.target.value)}
-                className="w-full bg-white/20 border border-white/30 rounded-lg px-4 py-3 text-white placeholder-emerald-200 focus:outline-none focus:ring-2 focus:ring-emerald-400"
-              >
-                <option value="" className="text-gray-900">Şehir Seçin</option>
-                {cities.map(c => (
-                  <option key={c.value} value={c.value} className="text-gray-900">{c.name}</option>
-                ))}
-              </select>
+                onChange={setSelectedCity}
+                options={cities}
+                placeholder="Şehir Seçin"
+                loading={loadingCities}
+                disabled={loadingCities}
+              />
             </div>
           )}
 
           {/* District Select */}
-          {selectedCity && !cityObj?.leaf && districts.length > 0 && (
-            <div>
-              <label className="block text-emerald-100 text-sm font-medium mb-2">
-                İlçe
-              </label>
-              <select
+          {selectedCity && !cityObj?.leaf && (loadingDistricts || districts.length > 0) && (
+            <div className="animate-in slide-in-from-top-2 duration-300 fade-in fill-mode-both">
+              <CustomSelect
+                label={<span>📍 İlçe</span>}
                 value={selectedDistrict}
-                onChange={(e) => setSelectedDistrict(e.target.value)}
-                className="w-full bg-white/20 border border-white/30 rounded-lg px-4 py-3 text-white placeholder-emerald-200 focus:outline-none focus:ring-2 focus:ring-emerald-400"
-              >
-                <option value="" className="text-gray-900">İlçe Seçin</option>
-                {districts.map(d => (
-                  <option key={d.value} value={d.value} className="text-gray-900">{d.name}</option>
-                ))}
-              </select>
+                onChange={setSelectedDistrict}
+                options={districts}
+                placeholder="İlçe Seçin"
+                loading={loadingDistricts}
+                disabled={loadingDistricts}
+              />
             </div>
           )}
 
@@ -173,17 +280,26 @@ export default function Home() {
           <button
             onClick={handleDownload}
             disabled={!canDownload || downloading}
-            className={`w-full py-4 rounded-lg font-semibold text-lg transition-all duration-300 ${canDownload && !downloading
-              ? 'bg-emerald-500 hover:bg-emerald-400 text-white shadow-lg hover:shadow-emerald-500/50'
-              : 'bg-gray-500/50 text-gray-300 cursor-not-allowed'
+            className={`w-full py-4 rounded-xl font-bold text-lg transition-all duration-300 transform mt-2 border ${canDownload && !downloading
+                ? 'bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-400 hover:to-teal-400 text-white shadow-lg shadow-emerald-500/30 hover:shadow-emerald-500/50 hover:scale-[1.02] active:scale-[0.98] border-transparent'
+                : 'bg-white/5 text-white/20 cursor-not-allowed border-white/5'
               }`}
           >
-            {downloading ? '⏳ Çevriliyor...' : '📥 TXT İndir'}
+            {downloading ? (
+              <span className="inline-flex items-center gap-3">
+                <LoadingDots /> <span className="animate-pulse">Hazırlanıyor...</span>
+              </span>
+            ) : (
+              <span className="inline-flex items-center gap-2">
+                <span className="text-xl">📥</span> <span>TXT İndir</span>
+              </span>
+            )}
           </button>
         </div>
 
-        <p className="text-emerald-200/60 text-xs text-center mt-6">
-          Diyanet İşleri Başkanlığı verilerinden oluşturulmuştur.
+        {/* Footer */}
+        <p className="text-white/20 text-[10px] uppercase tracking-widest text-center mt-10 font-semibold">
+          Diyanet İşleri Başkanlığı Verileri
         </p>
       </div>
     </main>
