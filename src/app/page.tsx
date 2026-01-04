@@ -52,6 +52,51 @@ function CustomSelect({
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
 
+  const handleKeyDown = (e: React.KeyboardEvent) => {
+    if (disabled || options.length === 0) return;
+
+    // Open on space or enter
+    if (!isOpen && (e.key === ' ' || e.key === 'Enter')) {
+      e.preventDefault();
+      setIsOpen(true);
+      return;
+    }
+
+    // Close on escape
+    if (isOpen && e.key === 'Escape') {
+      setIsOpen(false);
+      return;
+    }
+
+    // Letter search logic
+    if (e.key.length === 1 && e.key.match(/[a-z0-9İıĞğÜüŞşÖö]/i)) {
+      const searchChar = e.key.toLowerCase();
+      const currentIndex = options.findIndex(o => o.value === value);
+
+      // Look for the next option starting with this character
+      let nextIndex = options.findIndex((o, i) => i > currentIndex && o.name.toLowerCase().startsWith(searchChar));
+
+      // If not found, wrap around and look from the start
+      if (nextIndex === -1) {
+        nextIndex = options.findIndex(o => o.name.toLowerCase().startsWith(searchChar));
+      }
+
+      if (nextIndex !== -1) {
+        onChange(options[nextIndex].value);
+        if (!isOpen) setIsOpen(true);
+      }
+    }
+  };
+
+  useEffect(() => {
+    if (isOpen && containerRef.current) {
+      const selectedItem = containerRef.current.querySelector('[data-selected="true"]');
+      if (selectedItem) {
+        selectedItem.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+      }
+    }
+  }, [isOpen, value]);
+
   return (
     <div className="relative" ref={containerRef}>
       <label className="flex items-center gap-2 text-emerald-200/80 text-sm font-medium mb-2">
@@ -62,6 +107,7 @@ function CustomSelect({
         type="button"
         disabled={disabled}
         onClick={() => setIsOpen(!isOpen)}
+        onKeyDown={handleKeyDown}
         className={`w-full text-left bg-white/10 border border-white/20 rounded-xl px-4 py-3.5 text-white transition-all duration-200 hover:bg-white/15 focus:outline-none focus:ring-2 focus:ring-emerald-400/50 focus:border-emerald-400/50 disabled:opacity-50 flex justify-between items-center ${disabled ? 'cursor-not-allowed' : 'cursor-pointer'
           }`}
       >
@@ -84,13 +130,14 @@ function CustomSelect({
             options.map((option) => (
               <div
                 key={option.value}
+                data-selected={option.value === value}
                 onClick={() => {
                   onChange(option.value);
                   setIsOpen(false);
                 }}
                 className={`px-4 py-3 cursor-pointer text-sm transition-colors duration-150 ${option.value === value
-                    ? 'bg-emerald-600/20 text-emerald-400'
-                    : 'text-slate-200 hover:bg-white/5'
+                  ? 'bg-emerald-600/20 text-emerald-400'
+                  : 'text-slate-200 hover:bg-white/5'
                   }`}
               >
                 {option.name}
@@ -118,15 +165,23 @@ export default function Home() {
   const [loadingCities, setLoadingCities] = useState(false);
   const [loadingDistricts, setLoadingDistricts] = useState(false);
   const [downloading, setDownloading] = useState(false);
+  const [prepStatus, setPrepStatus] = useState<'idle' | 'preparing' | 'ready'>('idle');
+  const [preparedFile, setPreparedFile] = useState<{ url: string; name: string } | null>(null);
 
   // Fetch Countries on mount
   useEffect(() => {
     setLoadingCountries(true);
     fetch('/api/countries')
       .then((res) => res.json())
-      .then((data) => {
+      .then((data: LocationOption[]) => {
         setCountries(data);
         setLoadingCountries(false);
+
+        // Auto-select Türkiye
+        const turkiye = data.find(c => c.name.toUpperCase() === 'TÜRKİYE');
+        if (turkiye) {
+          setSelectedCountry(turkiye.value);
+        }
       })
       .catch(() => setLoadingCountries(false));
   }, []);
@@ -169,7 +224,7 @@ export default function Home() {
     }
   }, [selectedCity, cities, selectedCountry]);
 
-  const handleDownload = async () => {
+  const handlePrepare = async () => {
     let finalId = '';
     let finalName = '';
 
@@ -187,33 +242,49 @@ export default function Home() {
 
     if (!finalId) return;
 
+    setPrepStatus('preparing');
     setDownloading(true);
     try {
       const response = await fetch(`/api/download?id=${finalId}&name=${encodeURIComponent(finalName)}`);
-      if (!response.ok) throw new Error('İndirme başarısız');
+      if (!response.ok) throw new Error('Hazırlama başarısız');
 
       const blob = await response.blob();
       const url = window.URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = `${finalName}_Namaz_Vakitleri.txt`;
-      document.body.appendChild(a);
-      a.click();
-      window.URL.revokeObjectURL(url);
-      document.body.removeChild(a);
+      setPreparedFile({ url, name: `${finalName}_Namaz_Vakitleri.txt` });
+      setPrepStatus('ready');
     } catch (e) {
       console.error(e);
-      alert('İndirme sırasında bir hata oluştu. Lütfen tekrar deneyin.');
+      alert('Dosya hazırlanırken bir hata oluştu. Lütfen tekrar deneyin.');
+      setPrepStatus('idle');
     } finally {
       setDownloading(false);
     }
+  };
+
+  const handleDownload = () => {
+    if (!preparedFile) return;
+
+    const a = document.createElement('a');
+    a.href = preparedFile.url;
+    a.download = preparedFile.name;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+  };
+
+  const resetPrep = () => {
+    if (preparedFile) {
+      window.URL.revokeObjectURL(preparedFile.url);
+    }
+    setPrepStatus('idle');
+    setPreparedFile(null);
   };
 
   const cityObj = cities.find((c) => c.value === selectedCity);
   const canDownload = cityObj?.leaf || selectedDistrict;
 
   return (
-    <main className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-emerald-950 flex items-center justify-center p-4 font-sans">
+    <main className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-emerald-950 flex flex-col md:flex-row items-center justify-center p-4 gap-6 font-sans">
       {/* Background glow effects */}
       <div className="fixed inset-0 overflow-hidden pointer-events-none">
         <div className="absolute -top-40 -right-40 w-80 h-80 bg-emerald-500/20 rounded-full blur-3xl"></div>
@@ -221,16 +292,12 @@ export default function Home() {
       </div>
 
       <div className="relative bg-white/5 backdrop-blur-xl rounded-3xl p-8 w-full max-w-md shadow-2xl border border-white/10 z-10">
-        {/* Header */}
         <div className="text-center mb-8">
-          <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-emerald-400 to-teal-500 rounded-2xl mb-4 shadow-lg shadow-emerald-500/30 transform hover:scale-105 transition-transform duration-300">
-            <span className="text-3xl filter drop-shadow-md">🕌</span>
-          </div>
           <h1 className="text-3xl font-bold text-white mb-1 tracking-tight">
-            Vakitmatik
+            Vakit Dosyası Oluşturucu
           </h1>
           <p className="text-emerald-300/70 text-sm font-medium">
-            Yıllık Namaz Vakitleri İndirici
+            vakitmatikler için
           </p>
         </div>
 
@@ -278,20 +345,24 @@ export default function Home() {
 
           {/* Download Button */}
           <button
-            onClick={handleDownload}
-            disabled={!canDownload || downloading}
-            className={`w-full py-4 rounded-xl font-bold text-lg transition-all duration-300 transform mt-2 border ${canDownload && !downloading
-                ? 'bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-400 hover:to-teal-400 text-white shadow-lg shadow-emerald-500/30 hover:shadow-emerald-500/50 hover:scale-[1.02] active:scale-[0.98] border-transparent'
-                : 'bg-white/5 text-white/20 cursor-not-allowed border-white/5'
+            onClick={handlePrepare}
+            disabled={!canDownload || prepStatus !== 'idle'}
+            className={`w-full py-4 rounded-xl font-bold text-lg transition-all duration-300 transform mt-2 border ${canDownload && prepStatus === 'idle'
+              ? 'bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-400 hover:to-teal-400 text-white shadow-lg shadow-emerald-500/30 hover:shadow-emerald-500/50 hover:scale-[1.02] active:scale-[0.98] border-transparent'
+              : 'bg-white/5 text-white/20 cursor-not-allowed border-white/5'
               }`}
           >
-            {downloading ? (
+            {prepStatus === 'preparing' ? (
               <span className="inline-flex items-center gap-3">
                 <LoadingDots /> <span className="animate-pulse">Hazırlanıyor...</span>
               </span>
+            ) : prepStatus === 'ready' ? (
+              <span className="inline-flex items-center gap-2">
+                <span className="text-xl">✅</span> <span>Hazır!</span>
+              </span>
             ) : (
               <span className="inline-flex items-center gap-2">
-                <span className="text-xl">📥</span> <span>TXT İndir</span>
+                <span className="text-xl">📄</span> <span>Dosya Hazırla</span>
               </span>
             )}
           </button>
@@ -302,6 +373,65 @@ export default function Home() {
           Diyanet İşleri Başkanlığı Verileri
         </p>
       </div>
+
+      {/* Preparation Status Card */}
+      {prepStatus !== 'idle' && (
+        <div className="relative bg-white/5 backdrop-blur-xl rounded-3xl p-8 w-full max-w-sm shadow-2xl border border-white/10 z-10 animate-in slide-in-from-left-4 md:slide-in-from-left-8 duration-500 fade-in fill-mode-both">
+          <div className="text-center">
+            <div className="relative mb-6">
+              <div className={`w-20 h-20 mx-auto rounded-2xl flex items-center justify-center text-3xl transition-all duration-500 ${prepStatus === 'preparing'
+                ? 'bg-emerald-500/20 animate-pulse'
+                : 'bg-emerald-500 shadow-lg shadow-emerald-500/30 scale-110'
+                }`}>
+                {prepStatus === 'preparing' ? '⚙️' : '✅'}
+              </div>
+              {prepStatus === 'preparing' && (
+                <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-24 h-24 border-2 border-emerald-500/30 border-t-emerald-500 rounded-full animate-spin"></div>
+              )}
+            </div>
+
+            <h3 className="text-xl font-bold text-white mb-2">
+              {prepStatus === 'preparing' ? 'Dosya Hazırlanıyor' : 'Dosya Hazır!'}
+            </h3>
+            <p className="text-emerald-300/70 text-sm mb-8 leading-relaxed">
+              {prepStatus === 'preparing'
+                ? 'Veriler Diyanet üzerinden çekiliyor ve sizin için TXT formatına dönüştürülüyor. Bu işlem biraz sürebilir...'
+                : 'Seçtiğiniz konumun 2026 yılı namaz vakitleri başarıyla hazırlandı. Aşağıdaki butondan indirebilirsiniz.'}
+            </p>
+
+            <div className="space-y-3">
+              {prepStatus === 'ready' && (
+                <button
+                  onClick={handleDownload}
+                  className="w-full py-4 rounded-xl font-bold text-lg bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-400 hover:to-teal-400 text-white shadow-lg shadow-emerald-500/30 hover:shadow-emerald-500/50 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 flex items-center justify-center gap-2"
+                >
+                  <span className="text-xl">📥</span> Şimdi İndir
+                </button>
+              )}
+
+              <button
+                onClick={resetPrep}
+                className="w-full py-3 rounded-xl font-medium text-slate-300 hover:text-white hover:bg-white/5 transition-all duration-200"
+              >
+                {prepStatus === 'ready' ? 'Yeni Dosya Hazırla' : 'İptal Et'}
+              </button>
+            </div>
+          </div>
+
+          {/* Decorative small dots for "processing" vibe */}
+          {prepStatus === 'preparing' && (
+            <div className="flex justify-center gap-2 mt-6">
+              {[0, 1, 2, 3, 4].map((i) => (
+                <div
+                  key={i}
+                  className="w-1.5 h-1.5 bg-emerald-500/40 rounded-full animate-bounce"
+                  style={{ animationDelay: `${i * 150}ms` }}
+                ></div>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
     </main>
   );
 }
