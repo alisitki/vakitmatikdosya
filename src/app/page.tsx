@@ -1,65 +1,191 @@
-import Image from "next/image";
+'use client';
+
+import { useState, useEffect } from 'react';
+
+interface LocationOption {
+  value: string;
+  name: string;
+  leaf?: boolean;
+}
 
 export default function Home() {
+  const [countries, setCountries] = useState<LocationOption[]>([]);
+  const [cities, setCities] = useState<LocationOption[]>([]);
+  const [districts, setDistricts] = useState<LocationOption[]>([]);
+
+  const [selectedCountry, setSelectedCountry] = useState('');
+  const [selectedCity, setSelectedCity] = useState('');
+  const [selectedDistrict, setSelectedDistrict] = useState('');
+
+  const [downloading, setDownloading] = useState(false);
+
+  // Fetch Countries on mount
+  useEffect(() => {
+    fetch('/api/countries')
+      .then(res => res.json())
+      .then(data => setCountries(data))
+      .catch(console.error);
+  }, []);
+
+  // Fetch Cities when country changes
+  useEffect(() => {
+    if (selectedCountry) {
+      setCities([]);
+      setDistricts([]);
+      setSelectedCity('');
+      setSelectedDistrict('');
+      fetch(`/api/cities?countryId=${selectedCountry}`)
+        .then(res => res.json())
+        .then(data => setCities(data))
+        .catch(console.error);
+    }
+  }, [selectedCountry]);
+
+  // Fetch Districts when city changes (if not leaf)
+  useEffect(() => {
+    const cityObj = cities.find(c => c.value === selectedCity);
+    if (selectedCity && cityObj && !cityObj.leaf && selectedCountry) {
+      setDistricts([]);
+      setSelectedDistrict('');
+      fetch(`/api/districts?countryId=${selectedCountry}&cityId=${selectedCity}`)
+        .then(res => res.json())
+        .then(data => setDistricts(data))
+        .catch(console.error);
+    } else {
+      setDistricts([]);
+      setSelectedDistrict('');
+    }
+  }, [selectedCity, cities, selectedCountry]);
+
+  const handleDownload = async () => {
+    // Determine the final ID and Name
+    let finalId = '';
+    let finalName = '';
+
+    // Check city leaf logic first
+    const cityObj = cities.find(c => c.value === selectedCity);
+    if (cityObj?.leaf) {
+      finalId = cityObj.value;
+      finalName = cityObj.name;
+    } else if (selectedDistrict) {
+      // Find district name
+      const distObj = districts.find(d => d.value === selectedDistrict);
+      if (distObj) {
+        finalId = distObj.value;
+        finalName = distObj.name;
+      }
+    }
+
+    if (!finalId) return;
+
+    setDownloading(true);
+    try {
+      const response = await fetch(`/api/download?id=${finalId}&name=${encodeURIComponent(finalName)}`);
+      if (!response.ok) throw new Error('İndirme başarısız');
+
+      const blob = await response.blob();
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `${finalName}_Namaz_Vakitleri.txt`;
+      document.body.appendChild(a);
+      a.click();
+      window.URL.revokeObjectURL(url);
+      document.body.removeChild(a);
+    } catch (e) {
+      console.error(e);
+      alert('İndirme sırasında bir hata oluştu. Lütfen tekrar deneyin.');
+    } finally {
+      setDownloading(false);
+    }
+  };
+
+  const cityObj = cities.find(c => c.value === selectedCity);
+  const canDownload = cityObj?.leaf || selectedDistrict;
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
+    <main className="min-h-screen bg-gradient-to-br from-emerald-900 to-teal-800 flex items-center justify-center p-4">
+      <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-8 w-full max-w-md shadow-2xl border border-white/20">
+        <h1 className="text-3xl font-bold text-white text-center mb-2">
+          🕌 Vakitmatik
+        </h1>
+        <p className="text-emerald-200 text-center mb-8">
+          Yıllık Namaz Vakitleri İndirici
+        </p>
+
+        <div className="space-y-4">
+          {/* Country Select */}
+          <div>
+            <label className="block text-emerald-100 text-sm font-medium mb-2">
+              Ülke
+            </label>
+            <select
+              value={selectedCountry}
+              onChange={(e) => setSelectedCountry(e.target.value)}
+              className="w-full bg-white/20 border border-white/30 rounded-lg px-4 py-3 text-white placeholder-emerald-200 focus:outline-none focus:ring-2 focus:ring-emerald-400"
             >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+              <option value="" className="text-gray-900">Ülke Seçin</option>
+              {countries.map(c => (
+                <option key={c.value} value={c.value} className="text-gray-900">{c.name}</option>
+              ))}
+            </select>
+          </div>
+
+          {/* City Select */}
+          {selectedCountry && (
+            <div>
+              <label className="block text-emerald-100 text-sm font-medium mb-2">
+                Şehir
+              </label>
+              <select
+                value={selectedCity}
+                onChange={(e) => setSelectedCity(e.target.value)}
+                className="w-full bg-white/20 border border-white/30 rounded-lg px-4 py-3 text-white placeholder-emerald-200 focus:outline-none focus:ring-2 focus:ring-emerald-400"
+              >
+                <option value="" className="text-gray-900">Şehir Seçin</option>
+                {cities.map(c => (
+                  <option key={c.value} value={c.value} className="text-gray-900">{c.name}</option>
+                ))}
+              </select>
+            </div>
+          )}
+
+          {/* District Select */}
+          {selectedCity && !cityObj?.leaf && districts.length > 0 && (
+            <div>
+              <label className="block text-emerald-100 text-sm font-medium mb-2">
+                İlçe
+              </label>
+              <select
+                value={selectedDistrict}
+                onChange={(e) => setSelectedDistrict(e.target.value)}
+                className="w-full bg-white/20 border border-white/30 rounded-lg px-4 py-3 text-white placeholder-emerald-200 focus:outline-none focus:ring-2 focus:ring-emerald-400"
+              >
+                <option value="" className="text-gray-900">İlçe Seçin</option>
+                {districts.map(d => (
+                  <option key={d.value} value={d.value} className="text-gray-900">{d.name}</option>
+                ))}
+              </select>
+            </div>
+          )}
+
+          {/* Download Button */}
+          <button
+            onClick={handleDownload}
+            disabled={!canDownload || downloading}
+            className={`w-full py-4 rounded-lg font-semibold text-lg transition-all duration-300 ${canDownload && !downloading
+              ? 'bg-emerald-500 hover:bg-emerald-400 text-white shadow-lg hover:shadow-emerald-500/50'
+              : 'bg-gray-500/50 text-gray-300 cursor-not-allowed'
+              }`}
           >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+            {downloading ? '⏳ Çevriliyor...' : '📥 TXT İndir'}
+          </button>
         </div>
-      </main>
-    </div>
+
+        <p className="text-emerald-200/60 text-xs text-center mt-6">
+          Diyanet İşleri Başkanlığı verilerinden oluşturulmuştur.
+        </p>
+      </div>
+    </main>
   );
 }
