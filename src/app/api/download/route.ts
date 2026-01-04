@@ -1,5 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { chromium } from 'playwright';
+import { getBrowser } from '@/lib/browser';
+import * as fs from 'fs';
+import * as path from 'path';
+import * as os from 'os';
 
 // Helper to slugify name for validation (approximate)
 function slugify(text: string) {
@@ -10,8 +13,6 @@ function slugify(text: string) {
         .replace(/^-+/, '')             // Trim - from start of text
         .replace(/-+$/, '');            // Trim - from end of text
 }
-
-const DEFAULT_USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 
 export async function GET(request: NextRequest) {
     const searchParams = request.nextUrl.searchParams;
@@ -24,10 +25,20 @@ export async function GET(request: NextRequest) {
 
     console.log(`[API] Starting download for ID: ${id}, Name: ${name}`);
 
-    const browser = await chromium.launch({ headless: true });
+    // Create temp directory for downloads
+    const downloadPath = path.join(os.tmpdir(), `puppeteer-downloads-${Date.now()}`);
+    fs.mkdirSync(downloadPath, { recursive: true });
+
+    const browser = await getBrowser();
     try {
-        const page = await browser.newPage({
-            userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        const page = await browser.newPage();
+        await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+
+        // Setup CDP session for download handling
+        const client = await page.createCDPSession();
+        await client.send('Page.setDownloadBehavior', {
+            behavior: 'allow',
+            downloadPath: downloadPath,
         });
 
         // 1. Navigate to the location page
@@ -37,47 +48,57 @@ export async function GET(request: NextRequest) {
         // 2. Validate Location (if name provided)
         if (name) {
             try {
-                await page.waitForFunction((expectedName) => {
+                await page.waitForFunction((expectedName: string) => {
                     const text = document.body.innerText.toLocaleLowerCase('tr-TR');
                     return text.includes(expectedName.toLocaleLowerCase('tr-TR'));
-                }, name, { timeout: 5000 });
+                }, { timeout: 5000 }, name);
             } catch (e) {
                 console.warn(`[API] Name validation warning: Could not find "${name}" on page for ID ${id}`);
             }
         }
 
         // 3. Click "Yıllık Namaz Vakti"
-        const yearlyTabSelector = 'a:has-text("Yıllık Namaz Vakti"), button:has-text("Yıllık Namaz Vakti")';
-        const genericYearlySelector = 'text=Yıllık';
-
-        try {
-            await page.waitForSelector(yearlyTabSelector, { timeout: 5000 });
-            await page.click(yearlyTabSelector);
-        } catch (e) {
-            console.log('[API] Specific Yıllık selector failed, trying generic...');
-            try {
-                await page.waitForSelector(genericYearlySelector, { timeout: 5000 });
-                await page.click(genericYearlySelector);
-            } catch (innerE) {
-                console.error('[API] Failed to click Yıllık tab:', innerE);
-                throw new Error('Yıllık sekmesi bulunamadı');
+        const clicked = await page.evaluate(() => {
+            const elements = document.querySelectorAll('a, button');
+            for (const el of elements) {
+                if (el.textContent?.includes('Yıllık')) {
+                    (el as HTMLElement).click();
+                    return true;
+                }
             }
+            return false;
+        });
+
+        if (!clicked) {
+            console.warn('[API] Could not find Yıllık tab, continuing anyway...');
         }
+
+        // Wait for content to load
+        await new Promise(resolve => setTimeout(resolve, 2000));
 
         // 4. Click "Excel" and Handle Download
-        const excelSelector = 'button:has-text("Excel"), a:has-text("Excel"), .buttons-excel';
-        await page.waitForSelector(excelSelector, { timeout: 10000 });
+        await page.evaluate(() => {
+            const elements = document.querySelectorAll('button, a');
+            for (const el of elements) {
+                if (el.textContent?.includes('Excel') || el.classList.contains('buttons-excel')) {
+                    (el as HTMLElement).click();
+                    return;
+                }
+            }
+        });
 
-        const downloadPromise = page.waitForEvent('download', { timeout: 15000 });
-        await page.click(excelSelector);
+        // Wait for download to complete
+        await new Promise(resolve => setTimeout(resolve, 5000));
 
-        const download = await downloadPromise;
-        const stream = await download.createReadStream();
-        const chunks: any[] = [];
-        for await (const chunk of stream) {
-            chunks.push(chunk);
+        // Find downloaded file
+        const files = fs.readdirSync(downloadPath);
+        const excelFile = files.find(f => f.endsWith('.xlsx') || f.endsWith('.xls'));
+
+        if (!excelFile) {
+            throw new Error('Excel dosyası indirilemedi');
         }
-        const buffer = Buffer.concat(chunks);
+
+        const buffer = fs.readFileSync(path.join(downloadPath, excelFile));
 
         // Parse Excel using exceljs
         const ExcelJSModule = await import('exceljs');
@@ -166,6 +187,13 @@ export async function GET(request: NextRequest) {
             txtOutputString += `\x12\n\n`;
         }
 
+        // Cleanup temp directory
+        try {
+            fs.rmSync(downloadPath, { recursive: true, force: true });
+        } catch (e) {
+            console.warn('[API] Failed to cleanup temp directory:', e);
+        }
+
         return new NextResponse(Buffer.from(txtOutputString, 'utf-8'), {
             status: 200,
             headers: {
@@ -176,6 +204,10 @@ export async function GET(request: NextRequest) {
 
     } catch (error) {
         console.error('[API] Download error:', error);
+        // Cleanup on error
+        try {
+            fs.rmSync(downloadPath, { recursive: true, force: true });
+        } catch (e) { }
         return NextResponse.json({ error: 'Download failed', details: String(error) }, { status: 500 });
     } finally {
         await browser.close();
