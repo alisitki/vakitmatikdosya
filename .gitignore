@@ -20,6 +20,8 @@
 # production
 /build
 
+/bulk-downloader
+
 # misc
 .DS_Store
 *.pem

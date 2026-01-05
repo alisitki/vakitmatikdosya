@@ -236,27 +236,34 @@ export default function Home() {
   }, [selectedCity, cities, selectedCountry]);
 
   const handlePrepare = async () => {
-    let finalId = '';
-    let finalName = '';
-
+    // Build the download URL with new format
+    const countryObj = Array.isArray(countries) ? countries.find((c) => c.value === selectedCountry) : null;
     const cityObj = Array.isArray(cities) ? cities.find((c) => c.value === selectedCity) : null;
-    if (cityObj?.leaf) {
-      finalId = cityObj.value;
+
+    if (!countryObj || !cityObj) return;
+
+    let finalName = '';
+    let downloadUrl = `/api/download?country=${encodeURIComponent(countryObj.value)}&city=${encodeURIComponent(cityObj.value)}`;
+
+    if (cityObj.leaf) {
+      // 2-layer country: city is the final destination
       finalName = cityObj.name;
     } else if (selectedDistrict) {
+      // 3-layer country: use district
       const distObj = Array.isArray(districts) ? districts.find((d) => d.value === selectedDistrict) : null;
-      if (distObj) {
-        finalId = distObj.value;
-        finalName = distObj.name;
-      }
+      if (!distObj) return;
+      finalName = distObj.name;
+      downloadUrl += `&district=${encodeURIComponent(distObj.value)}`;
+    } else {
+      return; // No valid selection
     }
 
-    if (!finalId) return;
+    downloadUrl += `&name=${encodeURIComponent(finalName)}`;
 
     setPrepStatus('preparing');
     setDownloading(true);
     try {
-      const response = await fetch(`/api/download?id=${finalId}&name=${encodeURIComponent(finalName)}`);
+      const response = await fetch(downloadUrl);
       if (!response.ok) throw new Error('Hazırlama başarısız');
 
       const blob = await response.blob();

@@ -1,4 +1,5 @@
-import { getBrowser } from './browser';
+import { promises as fs } from 'fs';
+import path from 'path';
 
 export interface Country {
     name: string;
@@ -23,17 +24,6 @@ export interface PrayerData {
     times: PrayerTimes;
 }
 
-interface ColumnMap {
-    imsak: number;
-    gunes: number;
-    ogle: number;
-    ikindi: number;
-    aksam: number;
-    yatsi: number;
-}
-
-const DEFAULT_USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
-
 export class DiyanetError extends Error {
     constructor(message: string, public code: 'FETCH_ERROR' | 'PARSE_ERROR' | 'NOT_FOUND' = 'FETCH_ERROR') {
         super(message);
@@ -41,190 +31,120 @@ export class DiyanetError extends Error {
     }
 }
 
-const DYNAMO_URL = 'https://namazvakitleri.diyanet.gov.tr/tr-TR/';
+// Get the base path for download files
+function getDownloadBasePath(): string {
+    return path.join(process.cwd(), 'public', 'download');
+}
 
+/**
+ * Fetches available countries from the filesystem.
+ * Scans subdirectories in public/download
+ */
 export async function fetchCountries(): Promise<Country[]> {
-    console.log('[Puppeteer] Fetching countries...');
-    const browser = await getBrowser();
+    console.log('[Filesystem] Fetching countries...');
+    const basePath = getDownloadBasePath();
+
     try {
-        const page = await browser.newPage();
-        await page.setUserAgent(DEFAULT_USER_AGENT);
-        await page.goto(DYNAMO_URL, { waitUntil: 'domcontentloaded' });
+        const entries = await fs.readdir(basePath, { withFileTypes: true });
+        const countries = entries
+            .filter(entry => entry.isDirectory() && !entry.name.startsWith('.'))
+            .map(entry => ({
+                name: entry.name,
+                value: entry.name
+            }));
 
-        const selectSelector = 'select[name="country"]';
-        await page.waitForSelector(selectSelector);
-
-        return await page.evaluate((selector: string) => {
-            const select = document.querySelector(selector) as HTMLSelectElement;
-            return Array.from(select.options)
-                .map(opt => ({ name: opt.text.trim(), value: opt.value }))
-                .filter(c => c.value && c.value !== '0');
-        }, selectSelector);
-    } finally {
-        await browser.close();
+        console.log(`[Filesystem] Found ${countries.length} countries`);
+        return countries;
+    } catch (error) {
+        console.error('[Filesystem] Error reading countries:', error);
+        throw new DiyanetError('Ülkeler okunamadı', 'FETCH_ERROR');
     }
 }
 
-// Interfaces for the Diyanet Internal API Response
-interface DiyanetState {
-    SehirID: string;
-    SehirAdi: string;
-    SehirAdiEn: string;
-}
-
-interface DiyanetDistrict {
-    IlceID: string;
-    IlceAdi: string;
-    IlceAdiEn: string;
-}
-
-interface DiyanetResponse {
-    StateList?: DiyanetState[];
-    StateRegionList?: DiyanetDistrict[];
-    HasStateList?: boolean;
-}
-
+/**
+ * Fetches cities for a country from the filesystem.
+ * Scans subdirectories in public/download/{countryId}
+ * Auto-detects 2-layer vs 3-layer structure
+ */
 export async function fetchCities(countryId: string): Promise<Country[]> {
-    console.log(`[Puppeteer] Fetching cities for country: ${countryId}`);
-    const browser = await getBrowser();
+    console.log(`[Filesystem] Fetching cities for country: ${countryId}`);
+    const countryPath = path.join(getDownloadBasePath(), countryId);
+
     try {
-        const page = await browser.newPage();
-        await page.setUserAgent(DEFAULT_USER_AGENT);
-        await page.setExtraHTTPHeaders({
-            'Referer': 'https://namazvakitleri.diyanet.gov.tr/tr-TR/',
-        });
-        await page.goto(DYNAMO_URL, { waitUntil: 'domcontentloaded' });
+        const entries = await fs.readdir(countryPath, { withFileTypes: true });
 
-        // Ensure dropdown exists before interacting
-        await page.waitForSelector('select[name="country"]');
+        const directories = entries.filter(entry =>
+            entry.isDirectory() && !entry.name.startsWith('.')
+        );
+        const txtFiles = entries.filter(entry =>
+            entry.isFile() && entry.name.endsWith('.txt')
+        );
 
-        // Setup response interceptor
-        const responsePromise = new Promise<DiyanetResponse>((resolve, reject) => {
-            const timeout = setTimeout(() => reject(new Error('Response timeout')), 10000);
-            page.on('response', async (response) => {
-                if (response.url().includes('GetRegList') &&
-                    response.url().includes('ChangeType=country') &&
-                    response.status() === 200) {
-                    clearTimeout(timeout);
-                    try {
-                        const json = await response.json();
-                        resolve(json as DiyanetResponse);
-                    } catch (e) {
-                        reject(e);
-                    }
-                }
+        if (directories.length > 0) {
+            // 3-layer structure: return directories as cities
+            const cities = directories.map(entry => ({
+                name: entry.name,
+                value: entry.name
+            }));
+            console.log(`[Filesystem] Found ${cities.length} cities (3-layer structure)`);
+            return cities;
+        } else if (txtFiles.length > 0) {
+            // 2-layer structure: txt files are the final destinations
+            const cities = txtFiles.map(entry => {
+                const name = entry.name.replace('.txt', '');
+                return {
+                    name: name,
+                    value: name,
+                    leaf: true
+                };
             });
-        });
-
-        // Trigger the request
-        await page.select('select[name="country"]', countryId);
-
-        // Wait for JSON response
-        const json = await responsePromise;
-
-        // Logic for countries like Tunisia where HasStateList is false
-        // In these cases, the "Cities" are returned in StateRegionList
-        if (json.HasStateList === false && json.StateRegionList && json.StateRegionList.length > 0) {
-            return json.StateRegionList.map(item => ({
-                name: item.IlceAdi,
-                value: item.IlceID,
-                leaf: true
-            }));
-        }
-
-        if (json.StateList && json.StateList.length > 0) {
-            return json.StateList.map(item => ({
-                name: item.SehirAdi,
-                value: item.SehirID
-            }));
+            console.log(`[Filesystem] Found ${cities.length} locations (2-layer structure)`);
+            return cities;
         }
 
         return [];
-
     } catch (error) {
-        console.error('[Puppeteer] City fetch failed:', error);
-        throw new DiyanetError('Şehirler çekilemedi', 'FETCH_ERROR');
-    } finally {
-        await browser.close();
+        console.error('[Filesystem] Error reading cities:', error);
+        throw new DiyanetError('Şehirler okunamadı', 'FETCH_ERROR');
     }
 }
 
+/**
+ * Fetches districts for a city from the filesystem.
+ * Scans .txt files in public/download/{countryId}/{cityId}
+ */
 export async function fetchDistricts(countryId: string, cityId: string): Promise<Country[]> {
-    console.log(`[Puppeteer] Fetching districts for country: ${countryId}, city: ${cityId}`);
-    const browser = await getBrowser();
+    console.log(`[Filesystem] Fetching districts for country: ${countryId}, city: ${cityId}`);
+    const cityPath = path.join(getDownloadBasePath(), countryId, cityId);
+
     try {
-        const page = await browser.newPage();
-        await page.setUserAgent(DEFAULT_USER_AGENT);
-        await page.goto(DYNAMO_URL, { waitUntil: 'domcontentloaded' });
+        const entries = await fs.readdir(cityPath, { withFileTypes: true });
 
-        // Wait for main element
-        await page.waitForSelector('select[name="country"]');
-
-        // 1. Select Country and wait for its response
-        let countryResponseReceived = false;
-        const countryListener = async (response: any) => {
-            if (response.url().includes('GetRegList') &&
-                response.url().includes('ChangeType=country')) {
-                countryResponseReceived = true;
-            }
-        };
-        page.on('response', countryListener);
-
-        await page.select('select[name="country"]', countryId);
-
-        // Wait briefly for country response
-        await new Promise(resolve => setTimeout(resolve, 1500));
-        page.off('response', countryListener);
-
-        // Wait for the city selector to populate
-        const citySelector = 'select[name="state"]';
-        try {
-            await page.waitForFunction((selector: string) => {
-                const select = document.querySelector(selector) as HTMLSelectElement;
-                return select && select.options.length > 1;
-            }, { timeout: 5000 }, citySelector);
-        } catch (e) {
-            console.log('[Puppeteer] Timeout waiting for cities in fetchDistricts');
-        }
-
-        // Brief stabilization
-        await new Promise(resolve => setTimeout(resolve, 200));
-
-        // 2. Select City and capture response
-        const districtResponsePromise = new Promise<DiyanetResponse | null>((resolve) => {
-            const timeout = setTimeout(() => resolve(null), 2000);
-            page.on('response', async (response) => {
-                if (response.url().includes('GetRegList') &&
-                    response.url().includes('ChangeType=state') &&
-                    response.status() === 200) {
-                    clearTimeout(timeout);
-                    try {
-                        const json = await response.json();
-                        resolve(json as DiyanetResponse);
-                    } catch (e) {
-                        resolve(null);
-                    }
-                }
+        const districts = entries
+            .filter(entry => entry.isFile() && entry.name.endsWith('.txt'))
+            .map(entry => {
+                const name = entry.name.replace('.txt', '');
+                return {
+                    name: name,
+                    value: name
+                };
             });
-        });
 
-        await page.select(citySelector, cityId);
-
-        const json = await districtResponsePromise;
-
-        if (json && json.StateRegionList && json.StateRegionList.length > 0) {
-            return json.StateRegionList.map(item => ({
-                name: item.IlceAdi,
-                value: item.IlceID
-            }));
-        }
-
-        return []; // Empty list in JSON means no districts
-
+        console.log(`[Filesystem] Found ${districts.length} districts`);
+        return districts;
     } catch (error) {
-        console.warn('[Puppeteer] District fetch error (likely 2-level country):', error);
+        console.error('[Filesystem] Error reading districts:', error);
         return [];
-    } finally {
-        await browser.close();
+    }
+}
+
+/**
+ * Gets the file path for a specific location's prayer times file
+ */
+export function getPrayerFilePath(countryId: string, cityId: string, districtId?: string): string {
+    if (districtId) {
+        return path.join(getDownloadBasePath(), countryId, cityId, `${districtId}.txt`);
+    } else {
+        return path.join(getDownloadBasePath(), countryId, `${cityId}.txt`);
     }
 }
