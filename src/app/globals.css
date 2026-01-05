@@ -5,34 +5,30 @@
   --background: #0f172a; /* Slate 900 */
   --foreground: #f8fafc; /* Slate 50 */
   
-  --primary: #10b981;    /* Emerald 500 */
-  --primary-glow: rgba(16, 185, 129, 0.4);
-  
-  --surface: rgba(30, 41, 59, 0.7); /* Slate 800 with opacity */
-  --surface-border: rgba(255, 255, 255, 0.1);
-  
-  --glass-shine: rgba(255, 255, 255, 0.05);
+  --theme-bg: #0B0D10;
+  --theme-card: #161B22;
+  --theme-text: #EAECEF;
+  --theme-text2: #9AA4B2;
+  --theme-accent: #4DA3FF;
+  --theme-border: rgba(255, 255, 255, 0.15);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-inter);
-  
-  --animate-blob: blob 7s infinite;
-  --animate-shimmer: shimmer 2s linear infinite;
-  
-  @keyframes blob {
-    0% { transform: translate(0px, 0px) scale(1); }
-    33% { transform: translate(30px, -50px) scale(1.1); }
-    66% { transform: translate(-20px, 20px) scale(0.9); }
-    100% { transform: translate(0px, 0px) scale(1); }
-  }
-  
-  @keyframes shimmer {
-    from { background-position: 0 0; }
-    to { background-position: -200% 0; }
-  }
+[data-theme="B"] {
+  --theme-bg: #0B0A08;
+  --theme-card: #13110D;
+  --theme-text: #F2EEE7;
+  --theme-text2: #A9A39A;
+  --theme-accent: #D6B25E;
+  --theme-border: rgba(214, 178, 94, 0.1);
+}
+
+[data-theme="C"] {
+  --theme-bg: #F6F7F9;
+  --theme-card: #FFFFFF;
+  --theme-text: #0B1220;
+  --theme-text2: #5B6472;
+  --theme-accent: #2563EB;
+  --theme-border: rgba(0, 0, 0, 0.05);
 }
 
 body {

@@ -1,6 +1,9 @@
-import type { Metadata } from "next";
+"use client";
+
 import { Inter } from "next/font/google";
 import "./globals.css";
+import { useEffect } from 'react';
+import { setThemeVariables } from '@/lib/theme';
 
 const inter = Inter({
   variable: "--font-inter",
@@ -8,16 +11,21 @@ const inter = Inter({
   display: "swap",
 });
 
-export const metadata: Metadata = {
-  title: "Vakitmatik - Namaz Vakti Dosyası Oluşturucu",
-  description: "Vakitmatik cihazlarınız için namaz vakti dosyalarını kolayca oluşturun ve indirin.",
-};
-
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  useEffect(() => {
+    const saved = localStorage.getItem('vakitmatik_ui_prefs');
+    if (saved) {
+      const parsed = JSON.parse(saved);
+      setThemeVariables(parsed.theme);
+    } else {
+      setThemeVariables('A');
+    }
+  }, []);
+
   return (
     <html lang="tr">
       <body className={`${inter.variable} antialiased min-h-screen flex flex-col`}>

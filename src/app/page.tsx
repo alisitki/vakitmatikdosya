@@ -1,8 +1,13 @@
 'use client';
 
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
+import { BackgroundStage } from '@/components/background/BackgroundStage';
+import { Header } from '@/components/layout/Header';
+import { SelectPill } from '@/components/ui/SelectPill';
+import { TimesGrid } from '@/components/prayer/TimesGrid';
+import { YearDownloadCard } from '@/components/download/YearDownloadCard';
+import { Globe, Building, MapPin } from 'lucide-react';
 
-// --- Types ---
 interface LocationOption {
   value: string;
   name: string;
@@ -21,201 +26,10 @@ interface PrayerTimes {
   };
 }
 
-// --- Constants ---
 const MONTHS_TR = [
   "OCAK", "SUBAT", "MART", "NISAN", "MAYIS", "HAZIRAN",
   "TEMMUZ", "AGUSTOS", "EYLUL", "EKIM", "KASIM", "ARALIK"
 ];
-
-// --- Components ---
-
-function LoadingDots() {
-  return (
-    <div className="flex space-x-1.5 items-center justify-center p-1">
-      <div className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce [animation-delay:-0.3s]"></div>
-      <div className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce [animation-delay:-0.15s]"></div>
-      <div className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce"></div>
-    </div>
-  );
-}
-
-function CustomSelect({
-  value,
-  onChange,
-  options,
-  placeholder,
-  label,
-  loading = false,
-  disabled = false,
-  icon,
-  zIndex = 50,
-}: {
-  value: string;
-  onChange: (val: string) => void;
-  options: LocationOption[];
-  placeholder: string;
-  label: string;
-  loading?: boolean;
-  disabled?: boolean;
-  icon: React.ReactNode;
-  zIndex?: number;
-}) {
-  const [isOpen, setIsOpen] = useState(false);
-  const containerRef = useRef<HTMLDivElement>(null);
-  const selectedOption = options.find((o) => o.value === value);
-
-  useEffect(() => {
-    function handleClickOutside(event: MouseEvent) {
-      if (containerRef.current && !containerRef.current.contains(event.target as Node)) {
-        setIsOpen(false);
-      }
-    }
-    document.addEventListener('mousedown', handleClickOutside);
-    return () => document.removeEventListener('mousedown', handleClickOutside);
-  }, []);
-
-  const handleKeyDown = (e: React.KeyboardEvent) => {
-    if (disabled || options.length === 0) return;
-    if (!isOpen && (e.key === ' ' || e.key === 'Enter')) {
-      e.preventDefault();
-      setIsOpen(true);
-      return;
-    }
-    if (isOpen && e.key === 'Escape') {
-      setIsOpen(false);
-      return;
-    }
-    if (e.key.length === 1 && e.key.match(/[a-z0-9İıĞğÜüŞşÖö]/i)) {
-      const char = e.key.toLowerCase();
-      const currIdx = options.findIndex((o) => o.value === value);
-      let nextIdx = options.findIndex((o, i) => i > currIdx && o.name.toLowerCase().startsWith(char));
-      if (nextIdx === -1) nextIdx = options.findIndex((o) => o.name.toLowerCase().startsWith(char));
-      if (nextIdx !== -1) {
-        onChange(options[nextIdx].value);
-        if (!isOpen) setIsOpen(true);
-      }
-    }
-  };
-
-  useEffect(() => {
-    if (isOpen && containerRef.current) {
-      const selectedItem = containerRef.current.querySelector('[data-selected="true"]');
-      selectedItem?.scrollIntoView({ block: 'nearest' });
-    }
-  }, [isOpen, value]);
-
-  return (
-    <div className="relative group" ref={containerRef} style={{ zIndex }}>
-      <label className="block text-xs font-semibold text-emerald-100/60 uppercase tracking-wider mb-2 ml-1">
-        {label}
-      </label>
-
-      <button
-        type="button"
-        disabled={disabled}
-        onClick={() => setIsOpen(!isOpen)}
-        onKeyDown={handleKeyDown}
-        className={`
-          w-full relative flex items-center justify-between
-          bg-slate-800/50 hover:bg-slate-800/70 border border-white/5
-          rounded-xl px-4 py-4 text-left transition-all duration-300
-          focus:outline-none focus:ring-2 focus:ring-emerald-500/50
-          disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-slate-800/50
-          backdrop-blur-sm shadow-inner group-hover:border-white/10
-        `}
-      >
-        <div className="flex items-center gap-3 overflow-hidden">
-          <span className={`text-xl ${disabled ? 'text-slate-600' : 'text-emerald-400'}`}>
-            {loading ? <LoadingDots /> : icon}
-          </span>
-          <span className={`block truncate font-medium ${selectedOption ? 'text-white' : 'text-slate-400'}`}>
-            {selectedOption ? selectedOption.name : placeholder}
-          </span>
-        </div>
-
-        <svg
-          className={`w-5 h-5 text-slate-500 transition-transform duration-300 ${isOpen ? 'rotate-180 text-emerald-400' : ''}`}
-          fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}
-        >
-          <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
-        </svg>
-      </button>
-
-      {isOpen && !disabled && (
-        <div className="absolute top-full left-0 w-full mt-2 bg-slate-900/95 border border-white/10 rounded-xl shadow-2xl shadow-black/50 max-h-72 overflow-y-auto overflow-x-hidden animate-in fade-in zoom-in-95 duration-200 z-[100]">
-          <div className="sticky top-0 h-2 bg-gradient-to-b from-slate-900/95 to-transparent z-10 pointer-events-none" />
-          {options.length > 0 ? (
-            options.map((option) => (
-              <div
-                key={option.value}
-                data-selected={option.value === value}
-                onClick={() => { onChange(option.value); setIsOpen(false); }}
-                className={`
-                  px-4 py-3 cursor-pointer text-sm font-medium transition-colors duration-150 flex items-center justify-between group/item
-                  ${option.value === value ? 'bg-emerald-500/10 text-emerald-400' : 'text-slate-300 hover:bg-white/5'}
-                `}
-              >
-                <span>{option.name}</span>
-                {option.value === value && (
-                  <span className="text-emerald-400 text-lg">✓</span>
-                )}
-              </div>
-            ))
-          ) : (
-            <div className="px-4 py-6 text-sm text-slate-500 text-center italic">Seçenek bulunamadı</div>
-          )}
-          <div className="sticky bottom-0 h-2 bg-gradient-to-t from-slate-900/95 to-transparent z-10 pointer-events-none" />
-        </div>
-      )}
-    </div>
-  );
-}
-
-function PreviewCard({ data, loading }: { data: PrayerTimes | null; loading: boolean }) {
-  if (loading) {
-    return (
-      <div className="bg-emerald-500/5 rounded-2xl p-6 border border-emerald-500/10 animate-pulse">
-        <div className="h-4 bg-emerald-500/10 rounded w-1/3 mb-4 mx-auto"></div>
-        <div className="grid grid-cols-3 gap-4">
-          {[...Array(6)].map((_, i) => (
-            <div key={i} className="h-10 bg-emerald-500/10 rounded-xl"></div>
-          ))}
-        </div>
-      </div>
-    );
-  }
-
-  if (!data) return null;
-
-  const times = [
-    { label: 'İmsak', value: data.times.imsak },
-    { label: 'Güneş', value: data.times.gunes },
-    { label: 'Öğle', value: data.times.ogle },
-    { label: 'İkindi', value: data.times.ikindi },
-    { label: 'Akşam', value: data.times.aksam },
-    { label: 'Yatsı', value: data.times.yatsi },
-  ];
-
-  return (
-    <div className="bg-emerald-500/5 rounded-2xl p-6 border border-emerald-500/20 animate-in fade-in slide-in-from-bottom-2 duration-500">
-      <div className="text-center mb-4">
-        <div className="text-emerald-400 text-xs font-bold uppercase tracking-widest mb-1">Bugün'ün Vakitleri</div>
-        <div className="text-white font-medium text-sm opacity-80">{data.date}</div>
-      </div>
-
-      <div className="grid grid-cols-3 gap-3">
-        {times.map((t) => (
-          <div key={t.label} className="flex flex-col items-center p-2 bg-slate-900/40 rounded-xl border border-emerald-500/10 hover:border-emerald-500/30 transition-colors">
-            <span className="text-emerald-300/60 text-[10px] uppercase font-bold tracking-wider">{t.label}</span>
-            <span className="text-white text-lg font-mono font-medium">{t.value}</span>
-          </div>
-        ))}
-      </div>
-    </div>
-  );
-}
-
-// --- Main Page ---
 
 export default function Home() {
   const [countries, setCountries] = useState<LocationOption[]>([]);
@@ -232,6 +46,24 @@ export default function Home() {
 
   const [previewData, setPreviewData] = useState<PrayerTimes | null>(null);
   const [loadingPreview, setLoadingPreview] = useState(false);
+  const [displayDate, setDisplayDate] = useState(new Date());
+
+  const [uiPrefs, setUiPrefs] = useState({
+    scene: 'constellation' as 'flow' | 'pattern' | 'constellation',
+    intensity: 1.0
+  });
+
+  // Load UI Prefs
+  useEffect(() => {
+    const saved = localStorage.getItem('vakitmatik_ui_prefs');
+    if (saved) {
+      const parsed = JSON.parse(saved);
+      setUiPrefs({
+        scene: parsed.scene,
+        intensity: parsed.intensity
+      });
+    }
+  }, []);
 
   // Handlers
   const handleCountryChange = (val: string) => {
@@ -241,6 +73,7 @@ export default function Home() {
     setDistricts([]);
     setSelectedDistrict('');
     setPreviewData(null);
+    setDisplayDate(new Date());
   };
 
   const handleCityChange = (val: string) => {
@@ -248,6 +81,15 @@ export default function Home() {
     setDistricts([]);
     setSelectedDistrict('');
     setPreviewData(null);
+    setDisplayDate(new Date());
+  };
+
+  const handleDayChange = (offset: number) => {
+    const newDate = new Date(displayDate);
+    newDate.setDate(newDate.getDate() + offset);
+    if (newDate.getFullYear() === 2026) {
+      setDisplayDate(newDate);
+    }
   };
 
   // Initial Fetch
@@ -281,7 +123,7 @@ export default function Home() {
 
   // City Change -> Fetch Districts
   useEffect(() => {
-    const cityObj = cities.find((c) => c.value === selectedCity); // Find cityObj from current cities state
+    const cityObj = cities.find((c) => c.value === selectedCity);
     if (selectedCity && cityObj && !cityObj.leaf && selectedCountry) {
       setLoadingDistricts(true);
       fetch(`/api/districts?countryId=${selectedCountry}&cityId=${selectedCity}`)
@@ -292,19 +134,19 @@ export default function Home() {
         })
         .catch(() => setLoadingDistricts(false));
     }
-  }, [selectedCity, selectedCountry, cities]); // 'cities' is needed here to correctly find cityObj
+  }, [selectedCity, selectedCountry, cities]);
 
   // Preview Logic
   useEffect(() => {
     const cityObj = cities.find((c) => c.value === selectedCity);
-    const canDownload = cityObj?.leaf || selectedDistrict;
+    const canDownload = cityObj?.leaf || (selectedDistrict && districts.length > 0);
 
     if (canDownload) {
       fetchPreview();
     } else {
-      setPreviewData(null); // Keep this here in case canDownload becomes false without a selection change (e.g., districts list loads empty)
+      setPreviewData(null);
     }
-  }, [selectedCountry, selectedCity, selectedDistrict, cities, districts]); // Keep cities/districts in deps for accurate canDownload check
+  }, [selectedCountry, selectedCity, selectedDistrict, cities, districts, displayDate]);
 
   const fetchPreview = async () => {
     const countryObj = countries.find((c) => c.value === selectedCountry);
@@ -329,7 +171,7 @@ export default function Home() {
       const res = await fetch(downloadUrl);
       if (!res.ok) throw new Error('Preview failed');
       const text = await res.text();
-      parseAndSetPreview(text);
+      parseAndSetPreview(text, displayDate);
     } catch (e) {
       console.error(e);
       setPreviewData(null);
@@ -338,36 +180,25 @@ export default function Home() {
     }
   };
 
-  const parseAndSetPreview = (text: string) => {
-    const now = new Date();
-    const currentMonthIndex = now.getMonth();
-    const currentDay = now.getDate();
+  const parseAndSetPreview = (text: string, targetDate: Date) => {
+    const currentMonthIndex = targetDate.getMonth();
+    const currentDay = targetDate.getDate();
     const currentMonthName = MONTHS_TR[currentMonthIndex];
 
-    // Find Header for current month (e.g., "2026 - OCAK")
     const monthRegex = new RegExp(`\\d{4}\\s*-\\s*${currentMonthName}`, 'i');
     const monthMatch = monthRegex.exec(text);
 
-    if (!monthMatch) {
-      console.warn('Month not found in file');
-      return;
-    }
+    if (!monthMatch) return;
 
-    // Slice text starting from the month header
     const textFromMonth = text.slice(monthMatch.index);
-
-    // Look for the day line: "01" or "15" etc.
     const dayStr = currentDay.toString().padStart(2, '0');
-    // Regex: Start of line, padded day, followed by times separated by whitespace/spaces
-    // Example: 01   06 47  08 13...
-    // Note: The file might use spaces or tabs.
     const dayLineRegex = new RegExp(`^\\s*${dayStr}\\s+(\\d{2}\\s+\\d{2})\\s+(\\d{2}\\s+\\d{2})\\s+(\\d{2}\\s+\\d{2})\\s+(\\d{2}\\s+\\d{2})\\s+(\\d{2}\\s+\\d{2})\\s+(\\d{2}\\s+\\d{2})`, 'm');
 
     const dayMatch = dayLineRegex.exec(textFromMonth);
 
     if (dayMatch) {
       setPreviewData({
-        date: `${currentDay} ${currentMonthName} ${now.getFullYear()}`,
+        date: `${currentDay} ${currentMonthName} ${targetDate.getFullYear()}`,
         times: {
           imsak: dayMatch[1].replace(/\s+/, ':'),
           gunes: dayMatch[2].replace(/\s+/, ':'),
@@ -380,7 +211,6 @@ export default function Home() {
     }
   };
 
-  // Download Handler
   const handleDownload = () => {
     const countryObj = countries.find((c) => c.value === selectedCountry);
     const cityObj = cities.find((c) => c.value === selectedCity);
@@ -403,10 +233,8 @@ export default function Home() {
 
     downloadUrl += `&name=${encodeURIComponent(finalName)}`;
 
-    // Trigger Download
     const a = document.createElement('a');
     a.href = downloadUrl;
-    // The download attribute is helpful but might be overridden by the server's Content-Disposition header
     a.download = `${finalName}.txt`;
     document.body.appendChild(a);
     a.click();
@@ -414,57 +242,33 @@ export default function Home() {
   };
 
   const cityObj = cities.find((c) => c.value === selectedCity);
-  const canDownload = cityObj?.leaf || selectedDistrict;
+  const canDownload = cityObj?.leaf || (selectedDistrict && districts.length > 0);
 
   return (
-    <main className="min-h-screen relative flex flex-col items-center justify-center p-4 overflow-hidden selection:bg-emerald-500/30">
+    <div className="min-h-screen relative flex flex-col items-center">
+      <BackgroundStage scene={uiPrefs.scene} intensity={uiPrefs.intensity} />
 
-      {/* Background Ambience */}
-      <div className="fixed inset-0 pointer-events-none overflow-hidden">
-        <div className="absolute top-0 left-1/4 w-[500px] h-[500px] bg-emerald-500/20 rounded-full mix-blend-screen filter blur-[100px] animate-[blob_7s_infinite]"></div>
-        <div className="absolute top-0 right-1/4 w-[500px] h-[500px] bg-blue-500/20 rounded-full mix-blend-screen filter blur-[100px] animate-[blob_7s_infinite_2s]"></div>
-        <div className="absolute -bottom-32 left-1/3 w-[500px] h-[500px] bg-purple-500/20 rounded-full mix-blend-screen filter blur-[100px] animate-[blob_7s_infinite_4s]"></div>
-        <div className="absolute inset-0 bg-[url('/noise.png')] opacity-20 brightness-150 contrast-150"></div> {/* Optional Noise Texture */}
-      </div>
+      <main className="relative z-10 w-full max-w-lg px-4 flex flex-col items-center justify-center py-12">
+        <Header />
 
-      <div className="relative z-10 w-full max-w-lg">
-        {/* Card Container - Removed overflow-hidden for dropdowns */}
-        <div className="bg-slate-900/40 backdrop-blur-xl border border-white/10 rounded-[32px] shadow-2xl animate-in fade-in slide-in-from-bottom-6 duration-700">
-
-          {/* Header Section */}
-          <div className="relative p-8 pb-6 border-b border-white/5 bg-gradient-to-b from-white/5 to-transparent rounded-t-[32px]">
-            <div className="flex flex-col items-center">
-              <span className="mb-3 px-3 py-1 rounded-full bg-emerald-950/30 border border-emerald-500/10 text-emerald-400/60 text-[10px] font-bold tracking-[0.2em]">
-                2026
-              </span>
-              <h1 className="text-3xl font-bold text-center text-white mb-2 tracking-tight">
-                Vakitmatik
-              </h1>
-              <p className="text-center text-slate-400 text-sm font-medium">
-                Namaz Vakti Dosyası Oluşturucu
-              </p>
-            </div>
-          </div>
-
-          {/* Form Section */}
-          <div className="p-8 space-y-4">
-            <CustomSelect
+        <div className="w-full bg-[var(--theme-card)] border border-[var(--theme-border)] rounded-[32px] p-6 md:p-8 space-y-6 mt-4">
+          <section className="space-y-4">
+            <SelectPill
               label="Ülke"
               placeholder="Ülke Seçiniz"
-              icon="🌍"
+              icon={<Globe className="w-4 h-4" />}
               value={selectedCountry}
               onChange={handleCountryChange}
               options={countries}
               loading={loadingCountries}
               disabled={loadingCountries}
-              zIndex={30}
             />
 
-            <div className={`transition-all duration-300 relative z-20 ${selectedCountry ? 'opacity-100 translate-y-0' : 'opacity-50 translate-y-2 pointer-events-none'}`}>
-              <CustomSelect
+            <div className={`transition-all duration-300 ${selectedCountry ? 'opacity-100' : 'opacity-40 pointer-events-none'}`}>
+              <SelectPill
                 label="Şehir"
                 placeholder="Şehir Seçiniz"
-                icon="🏙️"
+                icon={<Building className="w-4 h-4" />}
                 value={selectedCity}
                 onChange={handleCityChange}
                 options={cities}
@@ -473,12 +277,12 @@ export default function Home() {
               />
             </div>
 
-            <div className={`transition-all duration-300 relative z-10 ${selectedCity && !cityObj?.leaf ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4 pointer-events-none h-0 p-0 overflow-hidden'}`}>
+            <div className={`transition-all duration-300 ${selectedCity && !cityObj?.leaf ? 'opacity-100' : 'opacity-0 pointer-events-none h-0 overflow-hidden'}`}>
               {(loadingDistricts || districts.length > 0) && (
-                <CustomSelect
+                <SelectPill
                   label="İlçe"
                   placeholder="İlçe Seçiniz"
-                  icon="📍"
+                  icon={<MapPin className="w-4 h-4" />}
                   value={selectedDistrict}
                   onChange={setSelectedDistrict}
                   options={districts}
@@ -487,61 +291,32 @@ export default function Home() {
                 />
               )}
             </div>
+          </section>
 
-            {/* Preview Section */}
-            {(canDownload || loadingPreview) && (
-              <div className="pt-2">
-                <PreviewCard data={previewData} loading={loadingPreview} />
-              </div>
-            )}
+          {(canDownload || loadingPreview) && (
+            <TimesGrid
+              data={previewData}
+              loading={loadingPreview}
+              onPrevDay={() => handleDayChange(-1)}
+              onNextDay={() => handleDayChange(1)}
+              isToday={displayDate.toDateString() === new Date().toDateString()}
+            />
+          )}
 
-            {/* Action Button */}
-            <div className="pt-2">
-              <button
-                onClick={handleDownload}
-                disabled={!canDownload}
-                className={`
-                  group relative w-full overflow-hidden rounded-2xl p-[1px]
-                  transition-all duration-300
-                  ${canDownload
-                    ? 'bg-gradient-to-r from-emerald-400 to-teal-500 cursor-pointer shadow-[0_0_40px_-10px_rgba(16,185,129,0.5)] hover:shadow-[0_0_60px_-15px_rgba(16,185,129,0.7)] hover:scale-[1.02] active:scale-[0.98]'
-                    : 'bg-slate-800 cursor-not-allowed opacity-50'}
-                `}
-              >
-                <div className={`
-                  relative px-6 py-4 rounded-2xl flex items-center justify-center gap-3
-                  ${canDownload ? 'bg-slate-900/50' : 'bg-slate-900'}
-                  transition-all duration-300 group-hover:bg-opacity-0
-                `}>
-                  <span className="text-xl">
-                    ⬇️
-                  </span>
-                  <span className="text-lg font-bold text-white tracking-wide">
-                    2026 YILI DOSYASI İNDİR
-                  </span>
-                </div>
-              </button>
-            </div>
-          </div>
-
-          {/* Footer */}
-          <div className="px-8 py-6 bg-slate-900/50 border-t border-white/5 flex items-center justify-center gap-6 rounded-b-[32px]">
-            <a href="https://vakitmatik.org" target="_blank" className="text-xs font-semibold text-slate-500 hover:text-emerald-400 transition-colors uppercase tracking-widest">
-              vakitmatik.org
-            </a>
-            <div className="w-1 h-1 bg-slate-700 rounded-full"></div>
-            <a href="https://reksanreklam.com.tr" target="_blank" className="text-xs font-semibold text-slate-500 hover:text-emerald-400 transition-colors uppercase tracking-widest">
-              REKSANREKLAM.COM.TR
-            </a>
-          </div>
+          <YearDownloadCard onDownload={handleDownload} disabled={!canDownload} />
         </div>
 
-        <div className="mt-8 text-center">
-          <p className="text-slate-500 text-[10px] uppercase tracking-[0.2em] opacity-60">
-            2026 Reksan
+        <footer className="mt-8 text-center space-y-4">
+          <div className="flex items-center justify-center gap-4 text-[10px] font-bold uppercase tracking-[0.2em] text-[var(--theme-text2)]">
+            <a href="https://vakitmatik.org" target="_blank" className="hover:text-[var(--theme-accent)] transition-colors">vakitmatik.org</a>
+            <div className="w-1.5 h-1.5 bg-[var(--theme-border)] rounded-full"></div>
+            <a href="https://reksanreklam.com.tr" target="_blank" className="hover:text-[var(--theme-accent)] transition-colors">REKSANREKLAM.COM.TR</a>
+          </div>
+          <p className="text-[10px] font-bold text-[var(--theme-text2)] opacity-40 uppercase tracking-[0.3em]">
+            © 2026 REKSAN
           </p>
-        </div>
-      </div>
-    </main>
+        </footer>
+      </main>
+    </div>
   );
 }
