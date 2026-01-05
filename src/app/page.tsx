@@ -2,24 +2,43 @@
 
 import { useState, useEffect, useRef } from 'react';
 
+// --- Types ---
 interface LocationOption {
   value: string;
   name: string;
   leaf?: boolean;
 }
 
-// Loading dots component
+interface PrayerTimes {
+  date: string;
+  times: {
+    imsak: string;
+    gunes: string;
+    ogle: string;
+    ikindi: string;
+    aksam: string;
+    yatsi: string;
+  };
+}
+
+// --- Constants ---
+const MONTHS_TR = [
+  "OCAK", "SUBAT", "MART", "NISAN", "MAYIS", "HAZIRAN",
+  "TEMMUZ", "AGUSTOS", "EYLUL", "EKIM", "KASIM", "ARALIK"
+];
+
+// --- Components ---
+
 function LoadingDots() {
   return (
-    <span className="inline-flex items-center gap-1">
-      <span className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce" style={{ animationDelay: '0ms' }}></span>
-      <span className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce" style={{ animationDelay: '150ms' }}></span>
-      <span className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce" style={{ animationDelay: '300ms' }}></span>
-    </span>
+    <div className="flex space-x-1.5 items-center justify-center p-1">
+      <div className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce [animation-delay:-0.3s]"></div>
+      <div className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce [animation-delay:-0.15s]"></div>
+      <div className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-bounce"></div>
+    </div>
   );
 }
 
-// Custom Select Component
 function CustomSelect({
   value,
   onChange,
@@ -28,18 +47,21 @@ function CustomSelect({
   label,
   loading = false,
   disabled = false,
+  icon,
+  zIndex = 50,
 }: {
   value: string;
   onChange: (val: string) => void;
   options: LocationOption[];
   placeholder: string;
-  label: React.ReactNode;
+  label: string;
   loading?: boolean;
   disabled?: boolean;
+  icon: React.ReactNode;
+  zIndex?: number;
 }) {
   const [isOpen, setIsOpen] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
-
   const selectedOption = options.find((o) => o.value === value);
 
   useEffect(() => {
@@ -54,35 +76,22 @@ function CustomSelect({
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
     if (disabled || options.length === 0) return;
-
-    // Open on space or enter
     if (!isOpen && (e.key === ' ' || e.key === 'Enter')) {
       e.preventDefault();
       setIsOpen(true);
       return;
     }
-
-    // Close on escape
     if (isOpen && e.key === 'Escape') {
       setIsOpen(false);
       return;
     }
-
-    // Letter search logic
     if (e.key.length === 1 && e.key.match(/[a-z0-9İıĞğÜüŞşÖö]/i)) {
-      const searchChar = e.key.toLowerCase();
-      const currentIndex = options.findIndex(o => o.value === value);
-
-      // Look for the next option starting with this character
-      let nextIndex = options.findIndex((o, i) => i > currentIndex && o.name.toLowerCase().startsWith(searchChar));
-
-      // If not found, wrap around and look from the start
-      if (nextIndex === -1) {
-        nextIndex = options.findIndex(o => o.name.toLowerCase().startsWith(searchChar));
-      }
-
-      if (nextIndex !== -1) {
-        onChange(options[nextIndex].value);
+      const char = e.key.toLowerCase();
+      const currIdx = options.findIndex((o) => o.value === value);
+      let nextIdx = options.findIndex((o, i) => i > currIdx && o.name.toLowerCase().startsWith(char));
+      if (nextIdx === -1) nextIdx = options.findIndex((o) => o.name.toLowerCase().startsWith(char));
+      if (nextIdx !== -1) {
+        onChange(options[nextIdx].value);
         if (!isOpen) setIsOpen(true);
       }
     }
@@ -91,66 +100,122 @@ function CustomSelect({
   useEffect(() => {
     if (isOpen && containerRef.current) {
       const selectedItem = containerRef.current.querySelector('[data-selected="true"]');
-      if (selectedItem) {
-        selectedItem.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-      }
+      selectedItem?.scrollIntoView({ block: 'nearest' });
     }
   }, [isOpen, value]);
 
   return (
-    <div className="relative" ref={containerRef}>
-      <label className="flex items-center gap-2 text-emerald-200/80 text-sm font-medium mb-2">
+    <div className="relative group" ref={containerRef} style={{ zIndex }}>
+      <label className="block text-xs font-semibold text-emerald-100/60 uppercase tracking-wider mb-2 ml-1">
         {label}
-        {loading && <LoadingDots />}
       </label>
+
       <button
         type="button"
         disabled={disabled}
         onClick={() => setIsOpen(!isOpen)}
         onKeyDown={handleKeyDown}
-        className={`w-full text-left bg-white/5 border border-white/10 rounded-xl px-4 py-4 text-white transition-all duration-150 hover:bg-white/10 focus:outline-none focus:ring-2 focus:ring-emerald-500/50 focus:border-emerald-500/30 disabled:opacity-50 flex justify-between items-center active:scale-[0.99] ${disabled ? 'cursor-not-allowed' : 'cursor-pointer'
-          }`}
+        className={`
+          w-full relative flex items-center justify-between
+          bg-slate-800/50 hover:bg-slate-800/70 border border-white/5
+          rounded-xl px-4 py-4 text-left transition-all duration-300
+          focus:outline-none focus:ring-2 focus:ring-emerald-500/50
+          disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-slate-800/50
+          backdrop-blur-sm shadow-inner group-hover:border-white/10
+        `}
       >
-        <span className={`font-medium ${selectedOption ? 'text-white' : 'text-slate-400'}`}>
-          {selectedOption ? selectedOption.name : placeholder}
-        </span>
+        <div className="flex items-center gap-3 overflow-hidden">
+          <span className={`text-xl ${disabled ? 'text-slate-600' : 'text-emerald-400'}`}>
+            {loading ? <LoadingDots /> : icon}
+          </span>
+          <span className={`block truncate font-medium ${selectedOption ? 'text-white' : 'text-slate-400'}`}>
+            {selectedOption ? selectedOption.name : placeholder}
+          </span>
+        </div>
+
         <svg
-          className={`w-4 h-4 text-slate-400 transition-transform duration-200 ${isOpen ? 'rotate-180' : ''}`}
-          fill="none"
-          stroke="currentColor"
-          viewBox="0 0 24 24"
+          className={`w-5 h-5 text-slate-500 transition-transform duration-300 ${isOpen ? 'rotate-180 text-emerald-400' : ''}`}
+          fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}
         >
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M19 9l-7 7-7-7" />
+          <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
         </svg>
       </button>
 
       {isOpen && !disabled && (
-        <div className="absolute z-50 w-full mt-2 bg-[#1A3A5A] border border-white/10 rounded-xl shadow-2xl max-h-60 overflow-y-auto overflow-x-hidden animate-in fade-in zoom-in-95 duration-200 scrollbar-thin scrollbar-thumb-emerald-600/50 scrollbar-track-transparent">
+        <div className="absolute top-full left-0 w-full mt-2 bg-slate-900/95 border border-white/10 rounded-xl shadow-2xl shadow-black/50 max-h-72 overflow-y-auto overflow-x-hidden animate-in fade-in zoom-in-95 duration-200 z-[100]">
+          <div className="sticky top-0 h-2 bg-gradient-to-b from-slate-900/95 to-transparent z-10 pointer-events-none" />
           {options.length > 0 ? (
             options.map((option) => (
               <div
                 key={option.value}
                 data-selected={option.value === value}
-                onClick={() => {
-                  onChange(option.value);
-                  setIsOpen(false);
-                }}
-                className={`px-4 py-3.5 cursor-pointer text-sm font-medium transition-colors duration-150 ${option.value === value
-                  ? 'bg-emerald-600/30 text-emerald-400'
-                  : 'text-slate-200 hover:bg-white/5'
-                  }`}
+                onClick={() => { onChange(option.value); setIsOpen(false); }}
+                className={`
+                  px-4 py-3 cursor-pointer text-sm font-medium transition-colors duration-150 flex items-center justify-between group/item
+                  ${option.value === value ? 'bg-emerald-500/10 text-emerald-400' : 'text-slate-300 hover:bg-white/5'}
+                `}
               >
-                {option.name}
+                <span>{option.name}</span>
+                {option.value === value && (
+                  <span className="text-emerald-400 text-lg">✓</span>
+                )}
               </div>
             ))
           ) : (
-            <div className="px-4 py-4 text-sm text-slate-400 text-center italic">Seçenek bulunamadı</div>
+            <div className="px-4 py-6 text-sm text-slate-500 text-center italic">Seçenek bulunamadı</div>
           )}
+          <div className="sticky bottom-0 h-2 bg-gradient-to-t from-slate-900/95 to-transparent z-10 pointer-events-none" />
         </div>
       )}
     </div>
   );
 }
+
+function PreviewCard({ data, loading }: { data: PrayerTimes | null; loading: boolean }) {
+  if (loading) {
+    return (
+      <div className="bg-emerald-500/5 rounded-2xl p-6 border border-emerald-500/10 animate-pulse">
+        <div className="h-4 bg-emerald-500/10 rounded w-1/3 mb-4 mx-auto"></div>
+        <div className="grid grid-cols-3 gap-4">
+          {[...Array(6)].map((_, i) => (
+            <div key={i} className="h-10 bg-emerald-500/10 rounded-xl"></div>
+          ))}
+        </div>
+      </div>
+    );
+  }
+
+  if (!data) return null;
+
+  const times = [
+    { label: 'İmsak', value: data.times.imsak },
+    { label: 'Güneş', value: data.times.gunes },
+    { label: 'Öğle', value: data.times.ogle },
+    { label: 'İkindi', value: data.times.ikindi },
+    { label: 'Akşam', value: data.times.aksam },
+    { label: 'Yatsı', value: data.times.yatsi },
+  ];
+
+  return (
+    <div className="bg-emerald-500/5 rounded-2xl p-6 border border-emerald-500/20 animate-in fade-in slide-in-from-bottom-2 duration-500">
+      <div className="text-center mb-4">
+        <div className="text-emerald-400 text-xs font-bold uppercase tracking-widest mb-1">Bugün'ün Vakitleri</div>
+        <div className="text-white font-medium text-sm opacity-80">{data.date}</div>
+      </div>
+
+      <div className="grid grid-cols-3 gap-3">
+        {times.map((t) => (
+          <div key={t.label} className="flex flex-col items-center p-2 bg-slate-900/40 rounded-xl border border-emerald-500/10 hover:border-emerald-500/30 transition-colors">
+            <span className="text-emerald-300/60 text-[10px] uppercase font-bold tracking-wider">{t.label}</span>
+            <span className="text-white text-lg font-mono font-medium">{t.value}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+// --- Main Page ---
 
 export default function Home() {
   const [countries, setCountries] = useState<LocationOption[]>([]);
@@ -164,11 +229,28 @@ export default function Home() {
   const [loadingCountries, setLoadingCountries] = useState(true);
   const [loadingCities, setLoadingCities] = useState(false);
   const [loadingDistricts, setLoadingDistricts] = useState(false);
-  const [downloading, setDownloading] = useState(false);
-  const [prepStatus, setPrepStatus] = useState<'idle' | 'preparing' | 'ready'>('idle');
-  const [preparedFile, setPreparedFile] = useState<{ url: string; name: string } | null>(null);
 
-  // Fetch Countries on mount
+  const [previewData, setPreviewData] = useState<PrayerTimes | null>(null);
+  const [loadingPreview, setLoadingPreview] = useState(false);
+
+  // Handlers
+  const handleCountryChange = (val: string) => {
+    setSelectedCountry(val);
+    setCities([]);
+    setSelectedCity('');
+    setDistricts([]);
+    setSelectedDistrict('');
+    setPreviewData(null);
+  };
+
+  const handleCityChange = (val: string) => {
+    setSelectedCity(val);
+    setDistricts([]);
+    setSelectedDistrict('');
+    setPreviewData(null);
+  };
+
+  // Initial Fetch
   useEffect(() => {
     setLoadingCountries(true);
     fetch('/api/countries')
@@ -176,69 +258,132 @@ export default function Home() {
       .then((data: LocationOption[]) => {
         if (Array.isArray(data)) {
           setCountries(data);
-          // Auto-select Türkiye
           const turkiye = data.find(c => c.name.toUpperCase() === 'TÜRKİYE');
-          if (turkiye) {
-            setSelectedCountry(turkiye.value);
-          }
-        } else {
-          console.error('Countries API returned invalid data:', data);
+          if (turkiye) setSelectedCountry(turkiye.value);
         }
         setLoadingCountries(false);
       })
       .catch(() => setLoadingCountries(false));
   }, []);
 
-  // Fetch Cities when country changes
+  // Country Change -> Fetch Cities
   useEffect(() => {
-    if (selectedCountry) {
-      setCities([]);
-      setDistricts([]);
-      setSelectedCity('');
-      setSelectedDistrict('');
-      setLoadingCities(true);
-      fetch(`/api/cities?countryId=${selectedCountry}`)
-        .then((res) => res.json())
-        .then((data) => {
-          if (Array.isArray(data)) {
-            setCities(data);
-          } else {
-            console.error('Cities API returned invalid data:', data);
-          }
-          setLoadingCities(false);
-        })
-        .catch(() => setLoadingCities(false));
-    }
+    if (!selectedCountry) return;
+    setLoadingCities(true);
+    fetch(`/api/cities?countryId=${selectedCountry}`)
+      .then((res) => res.json())
+      .then((data) => {
+        if (Array.isArray(data)) setCities(data);
+        setLoadingCities(false);
+      })
+      .catch(() => setLoadingCities(false));
   }, [selectedCountry]);
 
-  // Fetch Districts when city changes (if not leaf)
+  // City Change -> Fetch Districts
   useEffect(() => {
-    const cityObj = Array.isArray(cities) ? cities.find((c) => c.value === selectedCity) : null;
+    const cityObj = cities.find((c) => c.value === selectedCity); // Find cityObj from current cities state
     if (selectedCity && cityObj && !cityObj.leaf && selectedCountry) {
-      setDistricts([]);
-      setSelectedDistrict('');
       setLoadingDistricts(true);
       fetch(`/api/districts?countryId=${selectedCountry}&cityId=${selectedCity}`)
         .then((res) => res.json())
         .then((data) => {
-          if (Array.isArray(data)) {
-            setDistricts(data);
-          } else {
-            console.error('Districts API returned invalid data:', data);
-          }
+          if (Array.isArray(data)) setDistricts(data);
           setLoadingDistricts(false);
         })
         .catch(() => setLoadingDistricts(false));
-    } else {
-      setDistricts([]);
-      setSelectedDistrict('');
     }
-  }, [selectedCity, cities, selectedCountry]);
+  }, [selectedCity, selectedCountry, cities]); // 'cities' is needed here to correctly find cityObj
 
-  const handlePrepare = async () => {
-    // Build the download URL with new format
-    const countryObj = Array.isArray(countries) ? countries.find((c) => c.value === selectedCountry) : null;
-    const cityObj = Array.isArray(cities) ? cities.find((c) => c.value === selectedCity) : null;
+  // Preview Logic
+  useEffect(() => {
+    const cityObj = cities.find((c) => c.value === selectedCity);
+    const canDownload = cityObj?.leaf || selectedDistrict;
+
+    if (canDownload) {
+      fetchPreview();
+    } else {
+      setPreviewData(null); // Keep this here in case canDownload becomes false without a selection change (e.g., districts list loads empty)
+    }
+  }, [selectedCountry, selectedCity, selectedDistrict, cities, districts]); // Keep cities/districts in deps for accurate canDownload check
+
+  const fetchPreview = async () => {
+    const countryObj = countries.find((c) => c.value === selectedCountry);
+    const cityObj = cities.find((c) => c.value === selectedCity);
+
+    if (!countryObj || !cityObj) return;
+
+    let downloadUrl = `/api/download?country=${encodeURIComponent(countryObj.value)}&city=${encodeURIComponent(cityObj.value)}`;
+
+    if (cityObj.leaf) {
+      // 2-layer
+    } else if (selectedDistrict) {
+      const distObj = districts.find((d) => d.value === selectedDistrict);
+      if (!distObj) return;
+      downloadUrl += `&district=${encodeURIComponent(distObj.value)}`;
+    } else {
+      return;
+    }
+
+    setLoadingPreview(true);
+    try {
+      const res = await fetch(downloadUrl);
+      if (!res.ok) throw new Error('Preview failed');
+      const text = await res.text();
+      parseAndSetPreview(text);
+    } catch (e) {
+      console.error(e);
+      setPreviewData(null);
+    } finally {
+      setLoadingPreview(false);
+    }
+  };
+
+  const parseAndSetPreview = (text: string) => {
+    const now = new Date();
+    const currentMonthIndex = now.getMonth();
+    const currentDay = now.getDate();
+    const currentMonthName = MONTHS_TR[currentMonthIndex];
+
+    // Find Header for current month (e.g., "2026 - OCAK")
+    const monthRegex = new RegExp(`\\d{4}\\s*-\\s*${currentMonthName}`, 'i');
+    const monthMatch = monthRegex.exec(text);
+
+    if (!monthMatch) {
+      console.warn('Month not found in file');
+      return;
+    }
+
+    // Slice text starting from the month header
+    const textFromMonth = text.slice(monthMatch.index);
+
+    // Look for the day line: "01" or "15" etc.
+    const dayStr = currentDay.toString().padStart(2, '0');
+    // Regex: Start of line, padded day, followed by times separated by whitespace/spaces
+    // Example: 01   06 47  08 13...
+    // Note: The file might use spaces or tabs.
+    const dayLineRegex = new RegExp(`^\\s*${dayStr}\\s+(\\d{2}\\s+\\d{2})\\s+(\\d{2}\\s+\\d{2})\\s+(\\d{2}\\s+\\d{2})\\s+(\\d{2}\\s+\\d{2})\\s+(\\d{2}\\s+\\d{2})\\s+(\\d{2}\\s+\\d{2})`, 'm');
+
+    const dayMatch = dayLineRegex.exec(textFromMonth);
+
+    if (dayMatch) {
+      setPreviewData({
+        date: `${currentDay} ${currentMonthName} ${now.getFullYear()}`,
+        times: {
+          imsak: dayMatch[1].replace(/\s+/, ':'),
+          gunes: dayMatch[2].replace(/\s+/, ':'),
+          ogle: dayMatch[3].replace(/\s+/, ':'),
+          ikindi: dayMatch[4].replace(/\s+/, ':'),
+          aksam: dayMatch[5].replace(/\s+/, ':'),
+          yatsi: dayMatch[6].replace(/\s+/, ':'),
+        }
+      });
+    }
+  };
+
+  // Download Handler
+  const handleDownload = () => {
+    const countryObj = countries.find((c) => c.value === selectedCountry);
+    const cityObj = cities.find((c) => c.value === selectedCity);
 
     if (!countryObj || !cityObj) return;
 
@@ -246,203 +391,157 @@ export default function Home() {
     let downloadUrl = `/api/download?country=${encodeURIComponent(countryObj.value)}&city=${encodeURIComponent(cityObj.value)}`;
 
     if (cityObj.leaf) {
-      // 2-layer country: city is the final destination
       finalName = cityObj.name;
     } else if (selectedDistrict) {
-      // 3-layer country: use district
-      const distObj = Array.isArray(districts) ? districts.find((d) => d.value === selectedDistrict) : null;
+      const distObj = districts.find((d) => d.value === selectedDistrict);
       if (!distObj) return;
       finalName = distObj.name;
       downloadUrl += `&district=${encodeURIComponent(distObj.value)}`;
     } else {
-      return; // No valid selection
+      return;
     }
 
     downloadUrl += `&name=${encodeURIComponent(finalName)}`;
 
-    setPrepStatus('preparing');
-    setDownloading(true);
-    try {
-      const response = await fetch(downloadUrl);
-      if (!response.ok) throw new Error('Hazırlama başarısız');
-
-      const blob = await response.blob();
-      const url = window.URL.createObjectURL(blob);
-      setPreparedFile({ url, name: `${finalName}.txt` });
-      setPrepStatus('ready');
-    } catch (e) {
-      console.error(e);
-      alert('Dosya hazırlanırken bir hata oluştu. Lütfen tekrar deneyin.');
-      setPrepStatus('idle');
-    } finally {
-      setDownloading(false);
-    }
-  };
-
-  const handleDownload = () => {
-    if (!preparedFile) return;
-
+    // Trigger Download
     const a = document.createElement('a');
-    a.href = preparedFile.url;
-    a.download = preparedFile.name;
+    a.href = downloadUrl;
+    // The download attribute is helpful but might be overridden by the server's Content-Disposition header
+    a.download = `${finalName}.txt`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
-  };
-
-  const resetPrep = () => {
-    if (preparedFile) {
-      window.URL.revokeObjectURL(preparedFile.url);
-    }
-    setPrepStatus('idle');
-    setPreparedFile(null);
   };
 
   const cityObj = cities.find((c) => c.value === selectedCity);
   const canDownload = cityObj?.leaf || selectedDistrict;
 
   return (
-    <main className="min-h-screen bg-[#0F2A44] flex flex-col items-center justify-center p-6 gap-6 font-sans antialiased text-white">
-      {/* Background Subtle Gradient */}
-      <div className="fixed inset-0 pointer-events-none bg-gradient-to-b from-white/5 to-transparent"></div>
+    <main className="min-h-screen relative flex flex-col items-center justify-center p-4 overflow-hidden selection:bg-emerald-500/30">
 
-      <div className="relative bg-[#1A3A5A]/30 backdrop-blur-md rounded-[32px] p-10 w-full max-w-lg shadow-[0_20px_50px_rgba(0,0,0,0.3)] border border-white/10 z-10 transition-all duration-500">
-        {/* Header */}
-        <div className="text-center mb-10">
-          <h1 className="text-3xl font-bold tracking-tight text-white/95 mb-2">
-            Namaz Vakti Dosyası Oluşturucu - 2026
-          </h1>
-          <p className="text-slate-400 font-medium text-sm tracking-wide">
-            Bu dosya yalnızca Vakitmatik cihazlarında kullanılır
-          </p>
-        </div>
-
-        <div className="space-y-6">
-          {/* Country Select */}
-          <CustomSelect
-            label={<span>🌍 Ülke</span>}
-            value={selectedCountry}
-            onChange={setSelectedCountry}
-            options={countries}
-            placeholder="Ülke Seçin"
-            loading={loadingCountries}
-            disabled={loadingCountries}
-          />
-
-          {/* City Select */}
-          {selectedCountry && (
-            <div className="animate-in slide-in-from-top-2 duration-300 fade-in fill-mode-both">
-              <CustomSelect
-                label={<span>🏙️ Şehir</span>}
-                value={selectedCity}
-                onChange={setSelectedCity}
-                options={cities}
-                placeholder="Şehir Seçin"
-                loading={loadingCities}
-                disabled={loadingCities}
-              />
-            </div>
-          )}
-
-          {/* District Select */}
-          {selectedCity && !cityObj?.leaf && (loadingDistricts || districts.length > 0) && (
-            <div className="animate-in slide-in-from-top-2 duration-300 fade-in fill-mode-both">
-              <CustomSelect
-                label={<span>📍 İlçe</span>}
-                value={selectedDistrict}
-                onChange={setSelectedDistrict}
-                options={districts}
-                placeholder="İlçe Seçin"
-                loading={loadingDistricts}
-                disabled={loadingDistricts}
-              />
-            </div>
-          )}
-
-          {/* Download Button */}
-          {/* Download Button */}
-          <button
-            onClick={handlePrepare}
-            disabled={!canDownload || prepStatus !== 'idle'}
-            className={`w-full py-5 rounded-2xl font-semibold text-lg transition-all duration-200 active:scale-[0.97] mt-4 flex items-center justify-center gap-3 ${canDownload && prepStatus === 'idle'
-              ? 'bg-[#1F7A4D] hover:bg-[#258a58] text-white shadow-xl shadow-emerald-900/20'
-              : 'bg-white/5 text-slate-500 cursor-not-allowed border border-white/5'
-              }`}
-          >
-            {prepStatus === 'preparing' ? (
-              <span className="inline-flex items-center gap-3">
-                <LoadingDots /> <span className="animate-pulse">Hazırlanıyor...</span>
-              </span>
-            ) : (
-              <>
-                <span className="text-xl opacity-80">📄</span>
-                <span>Dosya Hazırla</span>
-              </>
-            )}
-          </button>
-        </div>
-
-        {/* Note Footer */}
-        <div className="mt-10 pt-6 border-t border-white/5 text-center">
-          <p className="text-[#6B7280] text-[10px] font-medium uppercase tracking-[0.15em] mb-4">
-            bu işlem biraz zaman alabilir
-          </p>
-          <div className="flex justify-between items-center opacity-40 hover:opacity-100 transition-opacity duration-300">
-            <a href="https://reksanreklam.com.tr" target="_blank" rel="noopener noreferrer" className="text-[10px] text-slate-400 hover:text-emerald-400 transition-colors font-medium tracking-wide">
-              reksanreklam.com.tr
-            </a>
-            <a href="https://vakitmatik.org" target="_blank" rel="noopener noreferrer" className="text-[10px] text-slate-400 hover:text-emerald-400 transition-colors font-medium tracking-wide">
-              vakitmatik.org
-            </a>
-          </div>
-        </div>
+      {/* Background Ambience */}
+      <div className="fixed inset-0 pointer-events-none overflow-hidden">
+        <div className="absolute top-0 left-1/4 w-[500px] h-[500px] bg-emerald-500/20 rounded-full mix-blend-screen filter blur-[100px] animate-[blob_7s_infinite]"></div>
+        <div className="absolute top-0 right-1/4 w-[500px] h-[500px] bg-blue-500/20 rounded-full mix-blend-screen filter blur-[100px] animate-[blob_7s_infinite_2s]"></div>
+        <div className="absolute -bottom-32 left-1/3 w-[500px] h-[500px] bg-purple-500/20 rounded-full mix-blend-screen filter blur-[100px] animate-[blob_7s_infinite_4s]"></div>
+        <div className="absolute inset-0 bg-[url('/noise.png')] opacity-20 brightness-150 contrast-150"></div> {/* Optional Noise Texture */}
       </div>
 
-      {/* Result Card Modal / Overlay */}
-      {prepStatus === 'ready' && preparedFile && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-6 animate-in fade-in duration-300">
-          <div className="absolute inset-0 bg-[#0F2A44]/80 backdrop-blur-xl" onClick={resetPrep}></div>
-          <div className="relative bg-[#1A3A5A] rounded-[32px] p-10 w-full max-w-md shadow-2xl border border-white/10 animate-in zoom-in-95 duration-300">
-            <div className="text-center">
-              <div className="w-16 h-16 bg-[#1F7A4D]/20 rounded-full flex items-center justify-center mx-auto mb-6 border border-[#1F7A4D]/30">
-                <span className="text-2xl text-[#1F7A4D]">✓</span>
-              </div>
+      <div className="relative z-10 w-full max-w-lg">
+        {/* Card Container - Removed overflow-hidden for dropdowns */}
+        <div className="bg-slate-900/40 backdrop-blur-xl border border-white/10 rounded-[32px] shadow-2xl animate-in fade-in slide-in-from-bottom-6 duration-700">
 
-              <h3 className="text-2xl font-bold text-white mb-3">
-                Dosya başarıyla oluşturuldu
-              </h3>
-              <p className="text-slate-400 text-sm mb-10 leading-relaxed px-4">
-                Seçilen konum için 2026 yılı vakitmatik yükleme dosyası hazır.
+          {/* Header Section */}
+          <div className="relative p-8 pb-6 border-b border-white/5 bg-gradient-to-b from-white/5 to-transparent rounded-t-[32px]">
+            <div className="flex flex-col items-center">
+              <span className="mb-3 px-3 py-1 rounded-full bg-emerald-950/30 border border-emerald-500/10 text-emerald-400/60 text-[10px] font-bold tracking-[0.2em]">
+                2026
+              </span>
+              <h1 className="text-3xl font-bold text-center text-white mb-2 tracking-tight">
+                Vakitmatik
+              </h1>
+              <p className="text-center text-slate-400 text-sm font-medium">
+                Namaz Vakti Dosyası Oluşturucu
               </p>
-
-              <div className="mb-10 p-5 bg-white/5 rounded-2xl border border-white/10 flex flex-col items-center">
-                <span className="text-white font-medium truncate w-full px-2 text-sm opacity-80 mb-1">
-                  {preparedFile.name}
-                </span>
-                <span className="text-[#6B7280] text-xs uppercase tracking-widest font-bold">
-                  HAZIRLANDI
-                </span>
-              </div>
-
-              <div className="space-y-4">
-                <button
-                  onClick={handleDownload}
-                  className="w-full py-5 rounded-2xl font-bold text-lg bg-[#1F7A4D] hover:bg-[#258a58] text-white transition-all duration-200 active:scale-[0.97] flex items-center justify-center gap-2 shadow-lg shadow-emerald-950/40"
-                >
-                  Dosyayı İndir
-                </button>
-
-                <button
-                  onClick={resetPrep}
-                  className="w-full py-3 text-slate-400 hover:text-white transition-colors duration-200 text-sm font-medium"
-                >
-                  Yeni dosya oluştur
-                </button>
-              </div>
             </div>
           </div>
+
+          {/* Form Section */}
+          <div className="p-8 space-y-4">
+            <CustomSelect
+              label="Ülke"
+              placeholder="Ülke Seçiniz"
+              icon="🌍"
+              value={selectedCountry}
+              onChange={handleCountryChange}
+              options={countries}
+              loading={loadingCountries}
+              disabled={loadingCountries}
+              zIndex={30}
+            />
+
+            <div className={`transition-all duration-300 relative z-20 ${selectedCountry ? 'opacity-100 translate-y-0' : 'opacity-50 translate-y-2 pointer-events-none'}`}>
+              <CustomSelect
+                label="Şehir"
+                placeholder="Şehir Seçiniz"
+                icon="🏙️"
+                value={selectedCity}
+                onChange={handleCityChange}
+                options={cities}
+                loading={loadingCities}
+                disabled={!selectedCountry || loadingCities}
+              />
+            </div>
+
+            <div className={`transition-all duration-300 relative z-10 ${selectedCity && !cityObj?.leaf ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4 pointer-events-none h-0 p-0 overflow-hidden'}`}>
+              {(loadingDistricts || districts.length > 0) && (
+                <CustomSelect
+                  label="İlçe"
+                  placeholder="İlçe Seçiniz"
+                  icon="📍"
+                  value={selectedDistrict}
+                  onChange={setSelectedDistrict}
+                  options={districts}
+                  loading={loadingDistricts}
+                  disabled={loadingDistricts}
+                />
+              )}
+            </div>
+
+            {/* Preview Section */}
+            {(canDownload || loadingPreview) && (
+              <div className="pt-2">
+                <PreviewCard data={previewData} loading={loadingPreview} />
+              </div>
+            )}
+
+            {/* Action Button */}
+            <div className="pt-2">
+              <button
+                onClick={handleDownload}
+                disabled={!canDownload}
+                className={`
+                  group relative w-full overflow-hidden rounded-2xl p-[1px]
+                  transition-all duration-300
+                  ${canDownload
+                    ? 'bg-gradient-to-r from-emerald-400 to-teal-500 cursor-pointer shadow-[0_0_40px_-10px_rgba(16,185,129,0.5)] hover:shadow-[0_0_60px_-15px_rgba(16,185,129,0.7)] hover:scale-[1.02] active:scale-[0.98]'
+                    : 'bg-slate-800 cursor-not-allowed opacity-50'}
+                `}
+              >
+                <div className={`
+                  relative px-6 py-4 rounded-2xl flex items-center justify-center gap-3
+                  ${canDownload ? 'bg-slate-900/50' : 'bg-slate-900'}
+                  transition-all duration-300 group-hover:bg-opacity-0
+                `}>
+                  <span className="text-xl">
+                    ⬇️
+                  </span>
+                  <span className="text-lg font-bold text-white tracking-wide">
+                    2026 YILI DOSYASI İNDİR
+                  </span>
+                </div>
+              </button>
+            </div>
+          </div>
+
+          {/* Footer */}
+          <div className="px-8 py-6 bg-slate-900/50 border-t border-white/5 flex items-center justify-center gap-6 rounded-b-[32px]">
+            <a href="https://vakitmatik.org" target="_blank" className="text-xs font-semibold text-slate-500 hover:text-emerald-400 transition-colors uppercase tracking-widest">
+              vakitmatik.org
+            </a>
+            <div className="w-1 h-1 bg-slate-700 rounded-full"></div>
+            <a href="https://reksanreklam.com.tr" target="_blank" className="text-xs font-semibold text-slate-500 hover:text-emerald-400 transition-colors uppercase tracking-widest">
+              REKSANREKLAM.COM.TR
+            </a>
+          </div>
         </div>
-      )}
+
+        <div className="mt-8 text-center">
+          <p className="text-slate-500 text-[10px] uppercase tracking-[0.2em] opacity-60">
+            2026 Reksan
+          </p>
+        </div>
+      </div>
     </main>
   );
 }
