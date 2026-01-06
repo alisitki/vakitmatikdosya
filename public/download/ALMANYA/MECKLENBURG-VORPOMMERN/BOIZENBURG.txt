@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 04  07 59  12 35  14 35  17 02  18 43  00 00
            31   06 03  07 57  12 35  14 36  17 04  18 45  00 00
 
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 14  07 03  12 35  15 17  17 57  19 32  00 00
            28   05 12  07 01  12 35  15 18  17 59  19 34  00 00
 
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 53  06 49  13 27  16 54  19 54  21 35  00 00
            31   04 49  06 47  13 26  16 55  19 56  21 37  00 00
 
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 49  05 40  13 20  17 21  20 49  22 27  00 00
            30   03 48  05 38  13 19  17 21  20 50  22 28  00 00
 
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 26  04 51  13 20  17 41  21 39  22 54  00 00
            31   03 25  04 50  13 20  17 42  21 40  22 55  00 00
 
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 25  04 45  13 25  17 51  21 56  23 07  00 00
            30   03 25  04 45  13 26  17 51  21 56  23 07  00 00
 
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 49  05 23  13 29  17 41  21 25  22 48  00 00
            31   03 49  05 24  13 29  17 41  21 23  22 47  00 00
 
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 08  06 15  13 23  17 08  20 20  22 10  00 00
            31   04 10  06 17  13 23  17 06  20 18  22 07  00 00
 
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 17  07 08  13 13  16 19  19 08  20 44  00 00
            30   05 19  07 09  13 12  16 17  19 05  20 41  00 00
 
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 13  07 04  12 06  14 25  16 57  18 35  00 00
            31   05 15  07 06  12 06  14 23  16 55  18 33  00 00
 
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 59  07 59  12 10  13 50  16 12  17 58  00 00
            30   06 00  08 00  12 11  13 50  16 11  17 57  00 00
 
-                              BOIZENBURG_N           
+                              BOIZENBURG           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

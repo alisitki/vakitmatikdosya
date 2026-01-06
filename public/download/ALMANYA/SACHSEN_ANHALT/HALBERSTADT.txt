@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 02  07 52  12 34  14 39  17 06  18 43  00 00
            31   06 01  07 50  12 34  14 41  17 08  18 45  00 00
 
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 15  07 00  12 34  15 19  17 58  19 30  00 00
            28   05 12  06 57  12 33  15 20  17 59  19 31  00 00
 
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 57  06 49  13 25  16 54  19 52  21 28  00 00
            31   04 55  06 47  13 25  16 55  19 53  21 30  00 00
 
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 45  05 44  13 18  17 18  20 43  22 28  00 00
            30   03 45  05 42  13 18  17 19  20 44  22 28  00 00
 
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 25  04 57  13 18  17 37  21 29  22 51  00 00
            31   03 25  04 56  13 18  17 37  21 31  22 52  00 00
 
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 25  04 52  13 24  17 46  21 46  23 04  00 00
            30   03 25  04 53  13 24  17 46  21 46  23 04  00 00
 
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 45  05 28  13 27  17 38  21 17  22 48  00 00
            31   03 46  05 29  13 27  17 37  21 15  22 47  00 00
 
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 15  06 17  13 22  17 06  20 16  22 00  00 00
            31   04 18  06 19  13 21  17 05  20 14  21 58  00 00
 
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 20  07 06  13 11  16 19  19 07  20 39  00 00
            30   05 21  07 07  13 11  16 18  19 04  20 37  00 00
 
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 12  06 59  12 04  14 28  17 00  18 34  00 00
            31   05 14  07 01  12 04  14 26  16 58  18 32  00 00
 
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 55  07 50  12 09  13 56  16 17  17 59  00 00
            30   05 57  07 52  12 09  13 55  16 17  17 59  00 00
 
-                              HALBERSTADT_N           
+                              HALBERSTADT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 10  07 54  12 44  14 58  17 24  18 55  00 00
            31   06 09  07 52  12 44  14 59  17 26  18 57  00 00
 
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 27  07 06  12 43  15 34  18 11  19 38  00 00
            28   05 25  07 04  12 43  15 35  18 13  19 39  00 00
 
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 17  07 01  13 35  17 05  20 00  21 30  00 00
            31   05 14  06 59  13 35  17 06  20 01  21 32  00 00
 
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 01  06 01  13 28  17 26  20 45  22 33  00 00
            30   04 01  05 59  13 28  17 26  20 47  22 35  00 00
 
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 46  05 19  13 28  17 42  21 27  22 52  00 00
            31   03 45  05 18  13 28  17 43  21 28  22 53  00 00
 
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 45  05 15  13 34  17 51  21 43  23 04  00 00
            30   03 45  05 16  13 34  17 51  21 43  23 04  00 00
 
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 00  05 47  13 37  17 44  21 17  22 50  00 00
            31   04 00  05 48  13 37  17 44  21 16  22 50  00 00
 
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 39  06 31  13 31  17 16  20 22  21 58  00 00
            31   04 41  06 33  13 31  17 15  20 20  21 56  00 00
 
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 35  07 15  13 21  16 33  19 17  20 45  00 00
            30   05 37  07 16  13 21  16 31  19 15  20 42  00 00
 
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 22  07 03  12 14  14 45  17 16  18 44  00 00
            31   05 24  07 05  12 14  14 44  17 14  18 43  00 00
 
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 02  07 50  12 19  14 16  16 38  18 13  00 00
            30   06 03  07 51  12 19  14 15  16 37  18 13  00 00
 
-                              SCHWETZINGEN_N           
+                              SCHWETZINGEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

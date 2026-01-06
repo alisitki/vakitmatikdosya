@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 59  07 44  12 32  14 44  17 10  18 43  00 00
            31   05 58  07 43  12 33  14 45  17 12  18 45  00 00
 
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 15  06 55  12 32  15 21  17 59  19 27  00 00
            28   05 13  06 53  12 32  15 22  18 00  19 28  00 00
 
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 03  06 49  13 24  16 53  19 49  21 21  00 00
            31   05 00  06 47  13 24  16 54  19 50  21 23  00 00
 
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 47  05 47  13 17  17 15  20 36  22 24  00 00
            30   03 47  05 46  13 17  17 16  20 37  22 25  00 00
 
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 30  05 04  13 17  17 32  21 19  22 44  00 00
            31   03 29  05 04  13 17  17 33  21 20  22 44  00 00
 
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 29  05 00  13 23  17 41  21 35  22 56  00 00
            30   03 30  05 01  13 23  17 41  21 35  22 56  00 00
 
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 46  05 33  13 26  17 34  21 08  22 42  00 00
            31   03 47  05 34  13 26  17 33  21 07  22 41  00 00
 
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 24  06 19  13 20  17 05  20 11  21 50  00 00
            31   04 26  06 20  13 20  17 03  20 09  21 47  00 00
 
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 22  07 04  13 10  16 20  19 06  20 34  00 00
            30   05 24  07 05  13 09  16 19  19 04  20 32  00 00
 
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 11  06 53  12 03  14 32  17 03  18 33  00 00
            31   05 12  06 55  12 03  14 30  17 01  18 31  00 00
 
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 51  07 41  12 07  14 01  16 24  18 00  00 00
            30   05 53  07 43  12 08  14 01  16 23  18 00  00 00
 
-                              KULMBACH_N           
+                              KULMBACH           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

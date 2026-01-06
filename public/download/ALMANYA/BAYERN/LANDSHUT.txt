@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 55  07 37  12 30  14 46  17 12  18 42  00 00
            31   05 54  07 35  12 30  14 48  17 14  18 43  00 00
 
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 13  06 51  12 29  15 22  17 58  19 23  00 00
            28   05 11  06 49  12 29  15 23  17 59  19 24  00 00
 
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 05  06 47  13 21  16 51  19 45  21 13  00 00
            31   05 03  06 45  13 21  16 52  19 46  21 15  00 00
 
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 53  05 49  13 14  17 11  20 29  22 13  00 00
            30   03 53  05 47  13 14  17 11  20 30  22 16  00 00
 
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 42  05 08  13 14  17 26  21 09  22 34  00 00
            31   03 42  05 08  13 14  17 27  21 10  22 34  00 00
 
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 36  05 05  13 20  17 35  21 24  22 40  00 00
            30   03 37  05 06  13 20  17 35  21 24  22 40  00 00
 
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 48  05 36  13 23  17 29  21 00  22 28  00 00
            31   03 49  05 37  13 23  17 28  20 59  22 28  00 00
 
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 29  06 18  13 17  17 01  20 06  21 40  00 00
            31   04 31  06 20  13 17  17 00  20 04  21 38  00 00
 
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 22  07 00  13 07  16 19  19 03  20 29  00 00
            30   05 24  07 02  13 07  16 18  19 01  20 27  00 00
 
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 08  06 47  12 00  14 33  17 03  18 30  00 00
            31   05 09  06 48  12 00  14 32  17 02  18 29  00 00
 
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 46  07 32  12 05  14 05  16 27  18 00  00 00
            30   05 48  07 33  12 05  14 04  16 26  18 00  00 00
 
-                              LANDSHUT_N           
+                              LANDSHUT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

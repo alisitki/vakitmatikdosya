@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 20  08 07  12 53  15 02  17 29  19 04  00 00
            31   06 19  08 06  12 53  15 04  17 31  19 05  00 00
 
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 35  07 17  12 53  15 41  18 19  19 48  00 00
            28   05 33  07 15  12 53  15 42  18 20  19 50  00 00
 
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 21  07 09  13 45  17 14  20 10  21 44  00 00
            31   05 18  07 07  13 44  17 15  20 12  21 46  00 00
 
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 07  06 06  13 38  17 37  20 59  22 45  00 00
            30   04 07  06 05  13 37  17 37  21 00  22 46  00 00
 
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 49  05 22  13 38  17 54  21 43  23 06  00 00
            31   03 49  05 21  13 38  17 55  21 44  23 07  00 00
 
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 49  05 18  13 44  18 03  21 59  23 18  00 00
            30   03 49  05 18  13 44  18 03  21 59  23 18  00 00
 
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 07  05 51  13 47  17 56  21 32  23 04  00 00
            31   04 08  05 53  13 47  17 55  21 30  23 03  00 00
 
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 41  06 38  13 41  17 26  20 33  22 14  00 00
            31   04 44  06 40  13 41  17 24  20 31  22 11  00 00
 
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 41  07 25  13 31  16 40  19 26  20 57  00 00
            30   05 43  07 26  13 30  16 39  19 24  20 54  00 00
 
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 32  07 16  12 24  14 51  17 22  18 53  00 00
            31   05 33  07 17  12 24  14 49  17 20  18 52  00 00
 
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 13  08 05  12 28  14 20  16 42  18 20  00 00
            30   06 14  08 06  12 29  14 19  16 41  18 20  00 00
 
-                              STOLBERG_N           
+                              STOLBERG           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

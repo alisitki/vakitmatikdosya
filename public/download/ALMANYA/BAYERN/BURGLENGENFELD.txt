@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 56  07 39  12 30  14 45  17 11  18 42  00 00
            31   05 55  07 38  12 30  14 46  17 13  18 43  00 00
 
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 13  06 52  12 30  15 21  17 57  19 24  00 00
            28   05 11  06 50  12 29  15 22  17 59  19 25  00 00
 
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 03  06 47  13 21  16 51  19 46  21 16  00 00
            31   05 01  06 45  13 21  16 52  19 47  21 18  00 00
 
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 49  05 47  13 14  17 12  20 31  22 18  00 00
            30   03 48  05 46  13 14  17 12  20 33  22 20  00 00
 
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 34  05 06  13 14  17 28  21 13  22 37  00 00
            31   03 33  05 05  13 14  17 28  21 14  22 38  00 00
 
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 32  05 02  13 20  17 37  21 28  22 48  00 00
            30   03 33  05 03  13 20  17 37  21 28  22 48  00 00
 
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 47  05 34  13 23  17 30  21 03  22 35  00 00
            31   03 48  05 35  13 23  17 30  21 01  22 34  00 00
 
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 26  06 18  13 18  17 02  20 08  21 44  00 00
            31   04 28  06 19  13 17  17 01  20 05  21 41  00 00
 
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 21  07 01  13 07  16 19  19 04  20 30  00 00
            30   05 23  07 03  13 07  16 17  19 01  20 28  00 00
 
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 08  06 49  12 01  14 32  17 02  18 30  00 00
            31   05 10  06 50  12 00  14 30  17 01  18 29  00 00
 
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 48  07 35  12 05  14 03  16 25  18 00  00 00
            30   05 49  07 36  12 05  14 02  16 24  17 59  00 00
 
-                              BURGLENGENFELD_N           
+                              BURGLENGENFELD           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

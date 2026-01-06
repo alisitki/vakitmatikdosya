@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 12  07 59  12 45  14 54  17 21  18 55  00 00
            31   06 11  07 58  12 45  14 56  17 23  18 57  00 00
 
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 27  07 09  12 45  15 33  18 10  19 40  00 00
            28   05 25  07 07  12 44  15 34  18 12  19 41  00 00
 
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 13  07 01  13 36  17 05  20 02  21 36  00 00
            31   05 10  06 59  13 36  17 06  20 03  21 38  00 00
 
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 58  05 58  13 29  17 28  20 50  22 37  00 00
            30   03 58  05 56  13 29  17 29  20 52  22 38  00 00
 
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 40  05 14  13 29  17 46  21 35  22 58  00 00
            31   03 39  05 13  13 30  17 46  21 36  22 59  00 00
 
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 40  05 10  13 35  17 55  21 51  23 11  00 00
            30   03 40  05 10  13 35  17 55  21 51  23 11  00 00
 
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 58  05 43  13 38  17 48  21 23  22 56  00 00
            31   03 58  05 45  13 38  17 47  21 22  22 56  00 00
 
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 33  06 30  13 33  17 17  20 25  22 06  00 00
            31   04 36  06 32  13 32  17 16  20 23  22 03  00 00
 
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 33  07 17  13 22  16 32  19 18  20 48  00 00
            30   05 35  07 18  13 22  16 30  19 16  20 46  00 00
 
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 23  07 07  12 16  14 42  17 14  18 45  00 00
            31   05 25  07 09  12 16  14 41  17 12  18 43  00 00
 
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 05  07 56  12 20  14 12  16 34  18 12  00 00
            30   06 06  07 58  12 20  14 11  16 33  18 12  00 00
 
-                              DILLENBURG_N           
+                              DILLENBURG           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

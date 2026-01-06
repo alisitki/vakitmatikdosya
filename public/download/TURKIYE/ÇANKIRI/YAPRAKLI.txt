@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 23  07 50  13 03  15 42  18 06  19 28  00 00
            31   06 22  07 49  13 03  15 43  18 07  19 29  00 00
 
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 52  07 16  13 03  16 08  18 40  19 59  00 00
            28   05 50  07 14  13 03  16 08  18 41  20 00  00 00
 
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 59  06 25  12 55  16 26  19 14  20 35  00 00
            31   04 57  06 24  12 54  16 27  19 15  20 36  00 00
 
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 02  05 40  12 47  16 37  19 45  21 16  00 00
            30   04 01  05 38  12 47  16 37  19 46  21 17  00 00
 
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 16  05 10  12 47  16 45  20 15  22 00  00 00
            31   03 15  05 09  12 48  16 46  20 16  22 01  00 00
 
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 10  05 09  12 53  16 53  20 27  22 17  00 00
            30   03 11  05 10  12 54  16 53  20 27  22 17  00 00
 
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 47  05 32  12 56  16 51  20 11  21 48  00 00
            31   03 49  05 33  12 56  16 51  20 10  21 46  00 00
 
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 32  06 03  12 51  16 32  19 29  20 53  00 00
            31   04 33  06 04  12 50  16 31  19 27  20 51  00 00
 
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 08  06 32  12 40  16 00  18 39  19 58  00 00
            30   05 09  06 33  12 40  15 59  18 37  19 56  00 00
 
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 40  07 06  12 34  15 24  17 52  19 12  00 00
            31   05 41  07 07  12 34  15 23  17 50  19 11  00 00
 
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 10  07 40  12 38  15 04  17 26  18 51  00 00
            30   06 11  07 41  12 38  15 04  17 26  18 50  00 00
 
-                              YAPRAKLI_N           
+                              YAPRAKLI           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

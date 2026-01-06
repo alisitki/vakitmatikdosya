@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 17  08 06  12 50  14 57  17 24  19 00  00 00
            31   06 16  08 04  12 50  14 59  17 26  19 01  00 00
 
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 31  07 15  12 50  15 36  18 15  19 45  00 00
            28   05 29  07 13  12 49  15 38  18 16  19 47  00 00
 
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 16  07 06  13 41  17 10  20 07  21 42  00 00
            31   05 13  07 03  13 41  17 11  20 09  21 44  00 00
 
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 02  06 02  13 34  17 34  20 57  22 43  00 00
            30   04 02  06 00  13 34  17 34  20 58  22 44  00 00
 
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 43  05 16  13 34  17 52  21 42  23 05  00 00
            31   03 43  05 15  13 34  17 52  21 43  23 06  00 00
 
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 43  05 12  13 40  18 01  21 59  23 18  00 00
            30   03 43  05 12  13 40  18 01  21 59  23 18  00 00
 
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 02  05 46  13 43  17 53  21 31  23 03  00 00
            31   04 02  05 48  13 43  17 53  21 29  23 02  00 00
 
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 35  06 34  13 38  17 22  20 31  22 13  00 00
            31   04 37  06 36  13 37  17 21  20 29  22 11  00 00
 
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 37  07 22  13 27  16 36  19 23  20 54  00 00
            30   05 39  07 23  13 27  16 35  19 21  20 52  00 00
 
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 28  07 14  12 21  14 46  17 17  18 50  00 00
            31   05 30  07 15  12 20  14 44  17 16  18 48  00 00
 
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 11  08 04  12 25  14 14  16 36  18 16  00 00
            30   06 12  08 05  12 25  14 14  16 35  18 16  00 00
 
-                              WULFRATH_N           
+                              WULFRATH           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 19  07 42  13 01  15 47  18 11  19 29  00 00
            31   06 18  07 41  13 02  15 48  18 13  19 30  00 00
 
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 51  07 11  13 01  16 10  18 41  19 56  00 00
            28   05 50  07 09  13 01  16 11  18 42  19 57  00 00
 
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 04  06 25  12 53  16 25  19 10  20 27  00 00
            31   05 02  06 24  12 53  16 25  19 11  20 28  00 00
 
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 14  05 44  12 46  16 31  19 37  21 02  00 00
            30   04 12  05 43  12 46  16 31  19 38  21 03  00 00
 
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 35  05 18  12 46  16 37  20 04  21 39  00 00
            31   03 34  05 18  12 46  16 37  20 04  21 40  00 00
 
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 32  05 18  12 52  16 44  20 15  21 54  00 00
            30   03 32  05 19  12 52  16 44  20 15  21 54  00 00
 
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 02  05 39  12 55  16 44  20 01  21 30  00 00
            31   04 04  05 39  12 55  16 44  20 00  21 29  00 00
 
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 40  06 05  12 49  16 28  19 23  20 43  00 00
            31   04 41  06 06  12 49  16 28  19 22  20 41  00 00
 
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 10  06 30  12 39  16 00  18 38  19 53  00 00
            30   05 11  06 31  12 38  15 59  18 36  19 51  00 00
 
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 38  06 59  12 32  15 28  17 55  19 11  00 00
            31   05 38  07 00  12 32  15 28  17 54  19 10  00 00
 
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 04  07 30  12 36  15 11  17 33  18 53  00 00
            30   06 05  07 31  12 37  15 11  17 33  18 53  00 00
 
-                              HALKAPINAR_N           
+                              HALKAPINAR           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

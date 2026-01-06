@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 36  08 00  13 19  16 04  18 28  19 46  00 00
            31   06 36  07 59  13 19  16 05  18 29  19 47  00 00
 
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 08  07 29  13 18  16 27  18 58  20 13  00 00
            28   06 07  07 27  13 18  16 27  18 59  20 14  00 00
 
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 20  06 42  13 10  16 42  19 28  20 45  00 00
            31   05 18  06 41  13 10  16 42  19 29  20 46  00 00
 
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 29  06 00  13 03  16 49  19 56  21 21  00 00
            30   04 28  05 59  13 03  16 49  19 57  21 22  00 00
 
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 50  05 34  13 03  16 55  20 22  21 59  00 00
            31   03 49  05 34  13 03  16 56  20 23  22 00  00 00
 
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 46  05 34  13 09  17 02  20 34  22 14  00 00
            30   03 47  05 34  13 09  17 02  20 34  22 14  00 00
 
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 17  05 55  13 12  17 02  20 19  21 50  00 00
            31   04 19  05 56  13 12  17 02  20 18  21 49  00 00
 
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 56  06 22  13 06  16 46  19 41  21 01  00 00
            31   04 57  06 22  13 06  16 45  19 40  21 00  00 00
 
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 27  06 47  12 56  16 17  18 55  20 10  00 00
            30   05 28  06 48  12 56  16 16  18 53  20 09  00 00
 
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 55  07 17  12 49  15 45  18 12  19 28  00 00
            31   05 56  07 18  12 49  15 44  18 11  19 27  00 00
 
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 22  07 48  12 54  15 27  17 49  19 10  00 00
            30   06 23  07 49  12 54  15 27  17 49  19 10  00 00
 
-                              DAZKIRI_N           
+                              DAZKIRI           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 52  08 21  13 31  16 07  18 32  19 55  00 00
            31   06 51  08 20  13 31  16 08  18 33  19 56  00 00
 
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 19  07 45  13 31  16 34  19 07  20 27  00 00
            28   06 18  07 43  13 31  16 35  19 08  20 28  00 00
 
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 25  06 53  13 23  16 54  19 42  21 05  00 00
            31   05 23  06 51  13 22  16 55  19 44  21 06  00 00
 
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 26  06 06  13 16  17 06  20 15  21 48  00 00
            30   04 24  06 04  13 15  17 06  20 17  21 50  00 00
 
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 37  05 35  13 16  17 16  20 46  22 35  00 00
            31   03 36  05 34  13 16  17 16  20 47  22 37  00 00
 
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 30  05 34  13 22  17 23  20 59  22 54  00 00
            30   03 30  05 34  13 22  17 23  20 59  22 53  00 00
 
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 09  05 58  13 25  17 21  20 42  22 22  00 00
            31   04 11  05 59  13 25  17 20  20 40  22 20  00 00
 
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 57  06 29  13 19  17 01  19 58  21 25  00 00
            31   04 58  06 31  13 19  17 00  19 57  21 23  00 00
 
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 35  07 00  13 09  16 27  19 07  20 27  00 00
            30   05 36  07 02  13 08  16 26  19 05  20 25  00 00
 
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   06 09  07 36  13 02  15 50  18 18  19 40  00 00
            31   06 10  07 37  13 02  15 49  18 17  19 38  00 00
 
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 40  08 11  13 06  15 29  17 51  19 17  00 00
            30   06 41  08 13  13 07  15 29  17 51  19 17  00 00
 
-                              LALAPAŞA_N           
+                              LALAPAŞA           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

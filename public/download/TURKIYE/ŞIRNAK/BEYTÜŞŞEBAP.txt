@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 43  07 06  12 26  15 11  17 35  18 53  00 00
            31   05 42  07 05  12 26  15 12  17 36  18 54  00 00
 
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 15  06 35  12 25  15 34  18 05  19 20  00 00
            28   05 14  06 34  12 25  15 35  18 06  19 21  00 00
 
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 27  05 49  12 17  15 49  18 35  19 51  00 00
            31   04 26  05 48  12 17  15 49  18 35  19 52  00 00
 
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 37  05 08  12 10  15 55  19 02  20 26  00 00
            30   03 36  05 07  12 10  15 56  19 03  20 27  00 00
 
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   02 59  04 42  12 10  16 01  19 28  21 04  00 00
            31   02 58  04 41  12 10  16 02  19 29  21 05  00 00
 
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   02 55  04 42  12 16  16 08  19 40  21 19  00 00
            30   02 55  04 42  12 16  16 08  19 40  21 19  00 00
 
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 26  05 02  12 19  16 08  19 25  20 55  00 00
            31   03 27  05 03  12 19  16 08  19 24  20 54  00 00
 
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 03  05 29  12 13  15 53  18 48  20 07  00 00
            31   04 05  05 29  12 13  15 52  18 46  20 05  00 00
 
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   04 34  05 54  12 03  15 24  18 02  19 17  00 00
            30   04 35  05 55  12 02  15 23  18 00  19 15  00 00
 
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 02  06 23  11 56  14 52  17 19  18 35  00 00
            31   05 03  06 24  11 56  14 51  17 18  18 34  00 00
 
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 29  06 54  12 00  14 35  16 57  18 17  00 00
            30   05 29  06 55  12 01  14 35  16 57  18 17  00 00
 
-                              BEYTÜŞŞEBAP_N           
+                              BEYTÜŞŞEBAP           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

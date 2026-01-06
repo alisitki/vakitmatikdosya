@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 48  07 36  12 20  14 28  16 55  18 30  00 00
            31   05 47  07 35  12 21  14 30  16 57  18 32  00 00
 
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 02  06 45  12 20  15 07  17 45  19 15  00 00
            28   05 00  06 43  12 20  15 08  17 47  19 17  00 00
 
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 47  06 36  13 12  16 41  19 38  21 12  00 00
            31   04 44  06 34  13 12  16 42  19 39  21 14  00 00
 
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 35  05 32  13 05  17 04  20 27  22 12  00 00
            30   03 34  05 31  13 05  17 05  20 29  22 13  00 00
 
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 16  04 47  13 05  17 22  21 12  22 33  00 00
            31   03 16  04 46  13 05  17 23  21 13  22 34  00 00
 
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 16  04 43  13 11  17 31  21 29  22 46  00 00
            30   03 16  04 43  13 11  17 31  21 28  22 46  00 00
 
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 35  05 17  13 14  17 24  21 01  22 31  00 00
            31   03 35  05 18  13 14  17 23  20 59  22 30  00 00
 
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 06  06 05  13 08  16 53  20 01  21 43  00 00
            31   04 09  06 06  13 08  16 52  19 59  21 41  00 00
 
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 08  06 52  12 58  16 07  18 53  20 24  00 00
            30   05 09  06 54  12 57  16 05  18 51  20 22  00 00
 
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   04 59  06 44  11 51  14 17  16 48  18 20  00 00
            31   05 00  06 46  11 51  14 15  16 46  18 19  00 00
 
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 41  07 34  11 55  13 45  16 07  17 47  00 00
            30   05 42  07 35  11 56  13 45  16 06  17 46  00 00
 
-                              BAUTZEN_N           
+                              BAUTZEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

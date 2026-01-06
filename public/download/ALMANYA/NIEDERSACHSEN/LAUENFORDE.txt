@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 04  07 54  12 37  14 43  17 10  18 46  00 00
            31   06 03  07 52  12 37  14 44  17 11  18 48  00 00
 
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 17  07 02  12 36  15 22  18 01  19 32  00 00
            28   05 15  07 00  12 36  15 23  18 02  19 34  00 00
 
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 01  06 52  13 28  16 57  19 54  21 30  00 00
            31   04 58  06 50  13 28  16 58  19 56  21 32  00 00
 
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 48  05 47  13 21  17 21  20 45  22 30  00 00
            30   03 48  05 45  13 21  17 21  20 46  22 31  00 00
 
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 28  05 01  13 21  17 39  21 31  22 53  00 00
            31   03 28  05 00  13 21  17 40  21 32  22 54  00 00
 
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 28  04 56  13 27  17 49  21 48  23 06  00 00
            30   03 28  04 57  13 27  17 49  21 47  23 06  00 00
 
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 48  05 31  13 30  17 40  21 19  22 51  00 00
            31   03 48  05 33  13 30  17 40  21 17  22 50  00 00
 
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 20  06 20  13 24  17 09  20 18  22 02  00 00
            31   04 22  06 22  13 24  17 08  20 16  21 59  00 00
 
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 23  07 08  13 14  16 22  19 10  20 42  00 00
            30   05 25  07 10  13 14  16 21  19 07  20 39  00 00
 
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 15  07 01  12 07  14 31  17 03  18 36  00 00
            31   05 17  07 03  12 07  14 30  17 01  18 35  00 00
 
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 58  07 52  12 12  13 59  16 21  18 02  00 00
            30   05 59  07 54  12 12  13 59  16 20  18 02  00 00
 
-                              LAUENFORDE_N           
+                              LAUENFORDE           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 46  08 11  13 27  16 08  18 32  19 53  00 00
            31   06 45  08 11  13 27  16 09  18 33  19 54  00 00
 
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 16  07 38  13 26  16 33  19 05  20 22  00 00
            28   06 14  07 37  13 26  16 33  19 06  20 23  00 00
 
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 25  06 50  13 18  16 50  19 37  20 56  00 00
            31   05 23  06 48  13 18  16 50  19 38  20 57  00 00
 
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 31  06 05  13 11  16 59  20 07  21 35  00 00
            30   04 29  06 04  13 11  16 59  20 08  21 36  00 00
 
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 47  05 37  13 11  17 07  20 35  22 17  00 00
            31   03 46  05 36  13 11  17 07  20 36  22 18  00 00
 
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 42  05 37  13 17  17 14  20 47  22 33  00 00
            30   03 43  05 37  13 17  17 14  20 47  22 33  00 00
 
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 17  05 59  13 20  17 13  20 31  22 06  00 00
            31   04 18  06 00  13 20  17 12  20 30  22 04  00 00
 
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 59  06 28  13 14  16 55  19 51  21 14  00 00
            31   05 00  06 28  13 14  16 54  19 50  21 12  00 00
 
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 33  06 55  13 04  16 24  19 03  20 20  00 00
            30   05 34  06 56  13 04  16 23  19 01  20 18  00 00
 
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   06 04  07 27  12 57  15 50  18 17  19 36  00 00
            31   06 04  07 28  12 57  15 49  18 16  19 35  00 00
 
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 32  08 01  13 02  15 31  17 53  19 16  00 00
            30   06 33  08 02  13 02  15 31  17 52  19 15  00 00
 
-                              BALIKESİR_N           
+                              BALIKESİR           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

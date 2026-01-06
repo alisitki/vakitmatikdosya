@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 09  07 57  12 42  14 50  17 16  18 52  00 00
            31   06 08  07 56  12 42  14 51  17 18  18 53  00 00
 
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 23  07 06  12 41  15 28  18 06  19 37  00 00
            28   05 21  07 04  12 41  15 30  18 08  19 38  00 00
 
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 08  06 57  13 33  17 02  19 59  21 33  00 00
            31   05 05  06 55  13 33  17 03  20 00  21 36  00 00
 
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 55  05 54  13 26  17 25  20 48  22 34  00 00
            30   03 54  05 52  13 26  17 26  20 50  22 35  00 00
 
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 36  05 09  13 26  17 43  21 33  22 56  00 00
            31   03 35  05 08  13 26  17 44  21 34  22 57  00 00
 
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 36  05 04  13 32  17 53  21 50  23 08  00 00
            30   03 36  05 05  13 32  17 53  21 49  23 08  00 00
 
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 55  05 38  13 35  17 45  21 22  22 53  00 00
            31   03 55  05 40  13 35  17 44  21 20  22 53  00 00
 
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 28  06 26  13 29  17 14  20 22  22 04  00 00
            31   04 30  06 28  13 29  17 13  20 20  22 01  00 00
 
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 29  07 13  13 19  16 28  19 15  20 46  00 00
            30   05 31  07 15  13 19  16 26  19 12  20 43  00 00
 
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 20  07 05  12 12  14 38  17 09  18 42  00 00
            31   05 22  07 07  12 12  14 36  17 08  18 40  00 00
 
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 02  07 55  12 17  14 07  16 29  18 08  00 00
            30   06 03  07 56  12 17  14 06  16 28  18 08  00 00
 
-                              BAD WILDUNGEN_N           
+                              BAD WILDUNGEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

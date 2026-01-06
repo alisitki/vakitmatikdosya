@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 10  08 00  12 42  14 47  17 14  18 51  00 00
            31   06 09  07 59  12 42  14 49  17 16  18 53  00 00
 
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 23  07 08  12 42  15 27  18 06  19 38  00 00
            28   05 21  07 06  12 42  15 29  18 08  19 40  00 00
 
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 06  06 57  13 34  17 02  20 00  21 37  00 00
            31   05 03  06 55  13 33  17 03  20 02  21 39  00 00
 
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 54  05 52  13 27  17 26  20 51  22 36  00 00
            30   03 53  05 50  13 26  17 27  20 53  22 36  00 00
 
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 34  05 05  13 27  17 45  21 38  22 59  00 00
            31   03 33  05 05  13 27  17 46  21 39  23 00  00 00
 
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 33  05 01  13 33  17 55  21 54  23 12  00 00
            30   03 34  05 01  13 33  17 55  21 54  23 12  00 00
 
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 54  05 36  13 36  17 46  21 25  22 56  00 00
            31   03 54  05 37  13 36  17 46  21 24  22 55  00 00
 
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 24  06 25  13 30  17 15  20 24  22 09  00 00
            31   04 26  06 27  13 30  17 13  20 22  22 06  00 00
 
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 28  07 14  13 20  16 28  19 15  20 48  00 00
            30   05 30  07 16  13 19  16 26  19 13  20 45  00 00
 
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 21  07 07  12 13  14 36  17 08  18 42  00 00
            31   05 22  07 09  12 13  14 35  17 06  18 40  00 00
 
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 04  07 59  12 17  14 04  16 26  18 07  00 00
            30   06 05  08 00  12 18  14 03  16 25  18 07  00 00
 
-                              BAD MEINBERG_N           
+                              BAD MEINBERG           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

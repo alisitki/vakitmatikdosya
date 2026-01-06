@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 29  07 51  13 12  16 00  18 24  19 41  00 00
            31   06 29  07 50  13 13  16 01  18 25  19 42  00 00
 
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 02  07 21  13 12  16 22  18 53  20 07  00 00
            28   06 01  07 20  13 12  16 22  18 54  20 08  00 00
 
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 16  06 37  13 04  16 35  19 21  20 37  00 00
            31   05 14  06 35  13 04  16 36  19 22  20 38  00 00
 
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 27  05 56  12 57  16 41  19 47  21 10  00 00
            30   04 25  05 55  12 57  16 42  19 48  21 12  00 00
 
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 50  05 31  12 57  16 47  20 13  21 47  00 00
            31   03 49  05 30  12 57  16 47  20 14  21 48  00 00
 
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 46  05 31  13 03  16 53  20 24  22 01  00 00
            30   03 47  05 31  13 03  16 53  20 24  22 01  00 00
 
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 16  05 51  13 06  16 54  20 10  21 39  00 00
            31   04 17  05 52  13 06  16 54  20 10  21 37  00 00
 
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 52  06 16  13 00  16 39  19 34  20 52  00 00
            31   04 53  06 17  13 00  16 38  19 32  20 50  00 00
 
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 21  06 41  12 50  16 11  18 49  20 03  00 00
            30   05 22  06 41  12 49  16 10  18 47  20 01  00 00
 
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 48  07 09  12 43  15 40  18 07  19 23  00 00
            31   05 49  07 10  12 43  15 40  18 06  19 22  00 00
 
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 15  07 39  12 47  15 24  17 46  19 05  00 00
            30   06 15  07 40  12 48  15 24  17 45  19 05  00 00
 
-                              MANAVGAT_N           
+                              MANAVGAT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

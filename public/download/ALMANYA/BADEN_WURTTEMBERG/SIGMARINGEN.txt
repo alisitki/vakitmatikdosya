@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 06  07 47  12 41  14 59  17 26  18 54  00 00
            31   06 05  07 46  12 41  15 01  17 27  18 55  00 00
 
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 25  07 02  12 41  15 34  18 10  19 34  00 00
            28   05 24  07 00  12 41  15 35  18 12  19 36  00 00
 
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 18  06 59  13 33  17 03  19 56  21 24  00 00
            31   05 16  06 57  13 32  17 04  19 58  21 26  00 00
 
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 01  06 02  13 26  17 22  20 39  22 22  00 00
            30   03 59  06 00  13 25  17 23  20 41  22 24  00 00
 
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 45  05 22  13 26  17 37  21 19  22 53  00 00
            31   03 44  05 21  13 26  17 38  21 20  22 53  00 00
 
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 39  05 19  13 32  17 46  21 34  23 00  00 00
            30   03 39  05 20  13 32  17 46  21 34  23 00  00 00
 
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 52  05 49  13 35  17 40  21 10  22 47  00 00
            31   03 52  05 50  13 35  17 39  21 09  22 47  00 00
 
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 43  06 31  13 29  17 13  20 17  21 50  00 00
            31   04 45  06 32  13 29  17 12  20 15  21 48  00 00
 
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 35  07 12  13 19  16 31  19 15  20 40  00 00
            30   05 36  07 13  13 18  16 30  19 13  20 38  00 00
 
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 20  06 58  12 12  14 46  17 16  18 42  00 00
            31   05 21  06 59  12 12  14 45  17 14  18 41  00 00
 
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 58  07 42  12 16  14 18  16 40  18 13  00 00
            30   05 59  07 43  12 17  14 18  16 40  18 12  00 00
 
-                              SIGMARINGEN_N           
+                              SIGMARINGEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

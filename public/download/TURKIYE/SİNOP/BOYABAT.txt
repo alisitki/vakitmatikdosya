@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 20  07 48  12 59  15 36  18 00  19 23  00 00
            31   06 19  07 47  12 59  15 37  18 02  19 25  00 00
 
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 47  07 12  12 59  16 03  18 35  19 55  00 00
            28   05 46  07 11  12 59  16 03  18 36  19 56  00 00
 
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 53  06 21  12 51  16 22  19 10  20 32  00 00
            31   04 51  06 19  12 50  16 23  19 11  20 33  00 00
 
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 55  05 34  12 43  16 33  19 43  21 15  00 00
            30   03 54  05 33  12 43  16 34  19 44  21 16  00 00
 
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 07  05 04  12 43  16 43  20 13  22 01  00 00
            31   03 06  05 03  12 44  16 43  20 14  22 02  00 00
 
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 01  05 03  12 49  16 50  20 26  22 18  00 00
            30   03 01  05 03  12 50  16 50  20 26  22 18  00 00
 
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 39  05 27  12 52  16 48  20 08  21 48  00 00
            31   03 41  05 28  12 52  16 48  20 07  21 46  00 00
 
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 26  05 58  12 47  16 28  19 26  20 51  00 00
            31   04 27  05 59  12 46  16 27  19 24  20 49  00 00
 
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 03  06 28  12 36  15 55  18 35  19 54  00 00
            30   05 04  06 29  12 36  15 54  18 33  19 53  00 00
 
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 36  07 03  12 30  15 19  17 47  19 08  00 00
            31   05 38  07 04  12 30  15 18  17 45  19 06  00 00
 
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 07  07 38  12 34  14 58  17 20  18 46  00 00
            30   06 08  07 39  12 34  14 58  17 20  18 45  00 00
 
-                              BOYABAT_N           
+                              BOYABAT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

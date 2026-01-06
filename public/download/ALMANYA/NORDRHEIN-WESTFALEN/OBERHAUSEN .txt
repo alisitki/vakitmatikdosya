@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 18  08 07  12 51  14 57  17 24  19 00  00 00
            31   06 17  08 06  12 51  14 59  17 26  19 02  00 00
 
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 32  07 16  12 50  15 37  18 15  19 46  00 00
            28   05 30  07 14  12 50  15 38  18 17  19 48  00 00
 
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 16  07 06  13 42  17 11  20 08  21 44  00 00
            31   05 13  07 04  13 42  17 12  20 10  21 46  00 00
 
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 04  06 02  13 35  17 35  20 58  22 43  00 00
            30   04 03  06 00  13 35  17 35  21 00  22 44  00 00
 
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 44  05 16  13 35  17 53  21 44  23 06  00 00
            31   03 44  05 15  13 35  17 54  21 45  23 07  00 00
 
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 44  05 11  13 41  18 02  22 01  23 19  00 00
            30   03 44  05 12  13 41  18 02  22 01  23 19  00 00
 
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 03  05 46  13 44  17 54  21 32  23 03  00 00
            31   04 04  05 47  13 44  17 54  21 31  23 02  00 00
 
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 35  06 35  13 38  17 23  20 32  22 15  00 00
            31   04 37  06 36  13 38  17 22  20 30  22 13  00 00
 
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 37  07 22  13 28  16 37  19 24  20 55  00 00
            30   05 39  07 24  13 28  16 35  19 21  20 53  00 00
 
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 29  07 15  12 21  14 46  17 18  18 51  00 00
            31   05 31  07 17  12 21  14 44  17 16  18 49  00 00
 
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 12  08 06  12 26  14 14  16 36  18 17  00 00
            30   06 13  08 07  12 26  14 14  16 35  18 16  00 00
 
-                              OBERHAUSEN _N           
+                              OBERHAUSEN            
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 16  08 05  12 48  14 55  17 22  18 58  00 00
            31   06 15  08 03  12 49  14 57  17 24  19 00  00 00
 
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 29  07 13  12 48  15 35  18 13  19 44  00 00
            28   05 27  07 11  12 48  15 36  18 15  19 45  00 00
 
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 14  07 04  13 40  17 08  20 06  21 41  00 00
            31   05 11  07 02  13 39  17 09  20 07  21 43  00 00
 
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 02  06 00  13 33  17 32  20 55  22 40  00 00
            30   04 02  05 58  13 32  17 33  20 57  22 41  00 00
 
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 43  05 14  13 33  17 50  21 41  23 02  00 00
            31   03 43  05 13  13 33  17 51  21 42  23 03  00 00
 
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 43  05 10  13 39  18 00  21 58  23 15  00 00
            30   03 43  05 10  13 39  18 00  21 57  23 14  00 00
 
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 02  05 44  13 42  17 52  21 29  22 59  00 00
            31   04 03  05 46  13 42  17 51  21 28  22 59  00 00
 
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 33  06 32  13 36  17 21  20 30  22 12  00 00
            31   04 35  06 34  13 36  17 19  20 27  22 09  00 00
 
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 35  07 20  13 26  16 34  19 21  20 53  00 00
            30   05 37  07 22  13 25  16 33  19 19  20 50  00 00
 
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 27  07 12  12 19  14 44  17 15  18 48  00 00
            31   05 28  07 14  12 19  14 42  17 14  18 47  00 00
 
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 09  08 02  12 23  14 12  16 34  18 14  00 00
            30   06 10  08 04  12 24  14 12  16 33  18 14  00 00
 
-                              HAGEN (RUHR VALLEY)_N           
+                              HAGEN (RUHR VALLEY)           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

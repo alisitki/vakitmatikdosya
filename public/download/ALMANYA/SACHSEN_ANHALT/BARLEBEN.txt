@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 00  07 51  12 32  14 36  17 03  18 41  00 00
            31   05 58  07 49  12 32  14 37  17 04  18 42  00 00
 
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 12  06 58  12 31  15 16  17 55  19 27  00 00
            28   05 10  06 55  12 31  15 17  17 57  19 29  00 00
 
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 54  06 47  13 23  16 51  19 50  21 27  00 00
            31   04 51  06 44  13 23  16 52  19 51  21 29  00 00
 
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 45  05 41  13 16  17 16  20 41  22 24  00 00
            30   03 45  05 39  13 16  17 17  20 43  22 25  00 00
 
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 25  04 53  13 16  17 35  21 29  22 47  00 00
            31   03 24  04 52  13 16  17 36  21 30  22 48  00 00
 
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 24  04 48  13 22  17 45  21 46  23 00  00 00
            30   03 25  04 49  13 22  17 45  21 45  23 00  00 00
 
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 45  05 24  13 25  17 36  21 16  22 44  00 00
            31   03 46  05 26  13 25  17 36  21 14  22 43  00 00
 
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 11  06 14  13 19  17 04  20 14  22 00  00 00
            31   04 14  06 16  13 19  17 03  20 12  21 57  00 00
 
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 16  07 04  13 09  16 17  19 04  20 38  00 00
            30   05 18  07 05  13 09  16 15  19 02  20 35  00 00
 
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 10  06 58  12 02  14 25  16 57  18 31  00 00
            31   05 12  06 59  12 02  14 23  16 55  18 30  00 00
 
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 53  07 50  12 07  13 52  16 14  17 56  00 00
            30   05 55  07 51  12 07  13 51  16 13  17 56  00 00
 
-                              BARLEBEN_N           
+                              BARLEBEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

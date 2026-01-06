@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 50  07 39  12 22  14 27  16 54  18 31  00 00
            31   05 48  07 38  12 22  14 29  16 56  18 33  00 00
 
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 02  06 47  12 21  15 07  17 46  19 17  00 00
            28   05 00  06 45  12 21  15 08  17 47  19 19  00 00
 
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 46  06 37  13 13  16 42  19 39  21 16  00 00
            31   04 43  06 35  13 13  16 43  19 41  21 18  00 00
 
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 36  05 32  13 06  17 06  20 30  22 14  00 00
            30   03 36  05 30  13 06  17 07  20 32  22 14  00 00
 
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 16  04 46  13 06  17 25  21 17  22 36  00 00
            31   03 16  04 45  13 06  17 25  21 18  22 37  00 00
 
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 16  04 41  13 12  17 34  21 33  22 49  00 00
            30   03 16  04 41  13 12  17 34  21 33  22 49  00 00
 
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 36  05 16  13 15  17 26  21 04  22 33  00 00
            31   03 37  05 17  13 15  17 25  21 03  22 32  00 00
 
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 04  06 05  13 09  16 54  20 04  21 48  00 00
            31   04 06  06 07  13 09  16 53  20 02  21 45  00 00
 
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 08  06 54  12 59  16 07  18 55  20 27  00 00
            30   05 09  06 55  12 59  16 06  18 52  20 25  00 00
 
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 00  06 47  11 52  14 16  16 48  18 22  00 00
            31   05 02  06 49  11 52  14 15  16 46  18 20  00 00
 
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 43  07 38  11 57  13 44  16 06  17 47  00 00
            30   05 44  07 39  11 57  13 43  16 05  17 47  00 00
 
-                              VETSCHAU_N           
+                              VETSCHAU           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

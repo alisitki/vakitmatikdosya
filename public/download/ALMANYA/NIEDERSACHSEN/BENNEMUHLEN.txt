@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 08  08 00  12 39  14 42  17 09  18 48  00 00
            31   06 06  07 58  12 40  14 44  17 11  18 49  00 00
 
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 19  07 06  12 39  15 23  18 02  19 35  00 00
            28   05 17  07 04  12 39  15 24  18 04  19 37  00 00
 
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 00  06 54  13 31  16 59  19 58  21 36  00 00
            31   04 57  06 52  13 30  17 00  19 59  21 38  00 00
 
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 51  05 47  13 24  17 24  20 50  22 33  00 00
            30   03 50  05 45  13 23  17 25  20 52  22 34  00 00
 
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 29  04 59  13 24  17 44  21 38  22 58  00 00
            31   03 29  04 58  13 24  17 44  21 39  22 59  00 00
 
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 28  04 54  13 30  17 53  21 55  23 11  00 00
            30   03 29  04 54  13 30  17 53  21 55  23 11  00 00
 
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 50  05 30  13 33  17 44  21 25  22 54  00 00
            31   03 51  05 32  13 33  17 44  21 23  22 53  00 00
 
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 17  06 21  13 27  17 12  20 23  22 09  00 00
            31   04 19  06 23  13 27  17 11  20 20  22 06  00 00
 
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 23  07 11  13 17  16 24  19 12  20 46  00 00
            30   05 25  07 13  13 16  16 22  19 10  20 44  00 00
 
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 18  07 06  12 10  14 31  17 03  18 39  00 00
            31   05 19  07 08  12 10  14 30  17 01  18 37  00 00
 
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 02  07 59  12 14  13 58  16 20  18 03  00 00
            30   06 03  08 00  12 15  13 58  16 19  18 03  00 00
 
-                              BENNEMUHLEN_N           
+                              BENNEMUHLEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

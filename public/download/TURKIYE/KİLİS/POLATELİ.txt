@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 06  07 29  12 50  15 37  18 01  19 18  00 00
            31   06 06  07 28  12 50  15 38  18 02  19 19  00 00
 
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 39  06 58  12 49  15 59  18 30  19 44  00 00
            28   05 38  06 57  12 49  15 59  18 31  19 45  00 00
 
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 53  06 14  12 41  16 13  18 58  20 14  00 00
            31   04 51  06 12  12 41  16 13  18 59  20 15  00 00
 
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 04  05 33  12 34  16 19  19 25  20 48  00 00
            30   04 02  05 32  12 34  16 19  19 26  20 49  00 00
 
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 27  05 08  12 34  16 24  19 50  21 24  00 00
            31   03 26  05 07  12 34  16 24  19 51  21 25  00 00
 
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 23  05 08  12 40  16 31  20 02  21 39  00 00
            30   03 24  05 08  12 40  16 31  20 02  21 39  00 00
 
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 53  05 28  12 43  16 31  19 48  21 16  00 00
            31   03 54  05 29  12 43  16 31  19 47  21 15  00 00
 
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 29  05 54  12 37  16 16  19 11  20 29  00 00
            31   04 31  05 54  12 37  16 15  19 10  20 28  00 00
 
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   04 59  06 18  12 27  15 49  18 26  19 40  00 00
            30   04 59  06 19  12 27  15 48  18 25  19 39  00 00
 
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 26  06 46  12 20  15 18  17 44  19 00  00 00
            31   05 26  06 47  12 20  15 17  17 43  18 59  00 00
 
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 52  07 16  12 25  15 01  17 23  18 42  00 00
            30   05 53  07 17  12 25  15 01  17 23  18 42  00 00
 
-                              POLATELİ_N           
+                              POLATELİ           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

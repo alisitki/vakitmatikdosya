@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 05  07 54  12 38  14 45  17 11  18 47  00 00
            31   06 04  07 52  12 38  14 46  17 13  18 49  00 00
 
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 19  07 02  12 37  15 24  18 02  19 33  00 00
            28   05 17  07 00  12 37  15 25  18 04  19 35  00 00
 
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 03  06 53  13 29  16 58  19 55  21 30  00 00
            31   05 00  06 51  13 29  16 59  19 57  21 32  00 00
 
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 52  05 49  13 22  17 21  20 45  22 29  00 00
            30   03 51  05 47  13 22  17 22  20 46  22 30  00 00
 
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 33  05 04  13 22  17 40  21 30  22 51  00 00
            31   03 32  05 03  13 22  17 40  21 32  22 52  00 00
 
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 33  04 59  13 28  17 49  21 47  23 04  00 00
            30   03 33  05 00  13 28  17 49  21 47  23 04  00 00
 
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 52  05 33  13 31  17 41  21 19  22 48  00 00
            31   03 53  05 35  13 31  17 40  21 17  22 48  00 00
 
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 22  06 22  13 25  17 10  20 19  22 02  00 00
            31   04 25  06 23  13 25  17 09  20 17  21 59  00 00
 
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 24  07 09  13 15  16 24  19 11  20 42  00 00
            30   05 26  07 11  13 15  16 22  19 08  20 40  00 00
 
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 16  07 02  12 08  14 33  17 05  18 37  00 00
            31   05 18  07 03  12 08  14 32  17 03  18 36  00 00
 
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 58  07 52  12 13  14 02  16 23  18 04  00 00
            30   06 00  07 53  12 13  14 01  16 23  18 03  00 00
 
-                              HEILIGENSTADT_N           
+                              HEILIGENSTADT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

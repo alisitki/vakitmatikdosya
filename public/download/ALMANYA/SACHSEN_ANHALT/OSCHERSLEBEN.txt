@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 01  07 52  12 33  14 38  17 05  18 42  00 00
            31   06 00  07 50  12 33  14 39  17 07  18 44  00 00
 
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 14  06 59  12 33  15 18  17 57  19 29  00 00
            28   05 12  06 57  12 33  15 19  17 59  19 31  00 00
 
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 56  06 48  13 25  16 53  19 51  21 28  00 00
            31   04 53  06 46  13 24  16 54  19 53  21 30  00 00
 
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 49  05 43  13 18  17 18  20 42  22 24  00 00
            30   03 48  05 41  13 17  17 18  20 44  22 25  00 00
 
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 29  04 56  13 18  17 36  21 29  22 47  00 00
            31   03 28  04 55  13 18  17 37  21 31  22 48  00 00
 
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 28  04 51  13 23  17 46  21 46  23 00  00 00
            30   03 28  04 51  13 24  17 46  21 46  23 00  00 00
 
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 49  05 26  13 27  17 38  21 17  22 43  00 00
            31   03 49  05 28  13 27  17 37  21 15  22 43  00 00
 
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 14  06 16  13 21  17 06  20 16  22 01  00 00
            31   04 16  06 18  13 21  17 04  20 13  21 58  00 00
 
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 18  07 05  13 11  16 18  19 06  20 39  00 00
            30   05 20  07 07  13 10  16 17  19 04  20 36  00 00
 
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 12  06 59  12 04  14 27  16 59  18 33  00 00
            31   05 13  07 01  12 04  14 25  16 57  18 31  00 00
 
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 55  07 50  12 08  13 54  16 16  17 58  00 00
            30   05 56  07 52  12 09  13 54  16 15  17 58  00 00
 
-                              OSCHERSLEBEN_N           
+                              OSCHERSLEBEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 54  07 46  12 25  14 27  16 54  18 34  00 00
            31   05 52  07 45  12 25  14 29  16 56  18 35  00 00
 
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 05  06 52  12 25  15 08  17 48  19 21  00 00
            28   05 03  06 50  12 25  15 10  17 49  19 23  00 00
 
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 45  06 40  13 17  16 45  19 44  21 23  00 00
            31   04 42  06 37  13 16  16 46  19 45  21 25  00 00
 
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 35  05 32  13 09  17 10  20 37  22 20  00 00
            30   03 34  05 30  13 09  17 11  20 38  22 21  00 00
 
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 13  04 44  13 10  17 30  21 25  22 46  00 00
            31   03 13  04 43  13 10  17 30  21 26  22 47  00 00
 
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 13  04 39  13 15  17 39  21 42  22 59  00 00
            30   03 13  04 39  13 16  17 39  21 42  22 59  00 00
 
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 34  05 15  13 19  17 31  21 12  22 41  00 00
            31   03 35  05 17  13 19  17 30  21 10  22 41  00 00
 
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 01  06 07  13 13  16 58  20 09  21 56  00 00
            31   04 04  06 08  13 13  16 56  20 07  21 53  00 00
 
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 09  06 57  13 03  16 09  18 58  20 32  00 00
            30   05 11  06 59  13 02  16 08  18 55  20 30  00 00
 
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 04  06 53  11 56  14 17  16 49  18 25  00 00
            31   05 05  06 54  11 56  14 15  16 47  18 23  00 00
 
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 48  07 46  12 00  13 43  16 05  17 49  00 00
            30   05 49  07 47  12 01  13 43  16 04  17 48  00 00
 
-                              ORANIENBURG_N           
+                              ORANIENBURG           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

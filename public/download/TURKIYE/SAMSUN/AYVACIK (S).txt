@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 12  07 39  12 52  15 30  17 54  19 16  00 00
            31   06 11  07 38  12 52  15 31  17 55  19 17  00 00
 
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 40  07 04  12 51  15 56  18 28  19 47  00 00
            28   05 39  07 03  12 51  15 57  18 29  19 48  00 00
 
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 47  06 14  12 43  16 15  19 02  20 24  00 00
            31   04 45  06 12  12 43  16 15  19 03  20 25  00 00
 
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 50  05 28  12 36  16 25  19 34  21 05  00 00
            30   03 48  05 26  12 36  16 26  19 35  21 07  00 00
 
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 03  04 58  12 36  16 34  20 04  21 50  00 00
            31   03 02  04 57  12 36  16 35  20 05  21 51  00 00
 
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   02 57  04 57  12 42  16 42  20 17  22 07  00 00
            30   02 58  04 58  12 42  16 42  20 17  22 07  00 00
 
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 35  05 20  12 45  16 40  20 00  21 38  00 00
            31   03 36  05 21  12 45  16 40  19 59  21 36  00 00
 
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 20  05 51  12 39  16 21  19 18  20 43  00 00
            31   04 21  05 52  12 39  16 20  19 16  20 41  00 00
 
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   04 56  06 21  12 29  15 48  18 27  19 46  00 00
            30   04 57  06 22  12 29  15 47  18 26  19 45  00 00
 
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 29  06 55  12 22  15 12  17 40  19 00  00 00
            31   05 30  06 56  12 22  15 11  17 39  18 59  00 00
 
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 59  07 29  12 27  14 52  17 14  18 39  00 00
            30   06 00  07 30  12 27  14 52  17 14  18 39  00 00
 
-                              AYVACIK (S)_N           
+                              AYVACIK (S)           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

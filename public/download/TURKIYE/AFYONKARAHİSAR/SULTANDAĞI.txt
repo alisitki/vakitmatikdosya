@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 31  07 56  13 13  15 57  18 21  19 40  00 00
            31   06 31  07 55  13 13  15 58  18 22  19 41  00 00
 
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 03  07 24  13 13  16 21  18 52  20 08  00 00
            28   06 01  07 22  13 13  16 21  18 53  20 09  00 00
 
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 13  06 37  13 05  16 36  19 23  20 41  00 00
            31   05 12  06 35  13 04  16 37  19 24  20 42  00 00
 
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 22  05 54  12 58  16 44  19 51  21 17  00 00
            30   04 20  05 53  12 57  16 45  19 52  21 19  00 00
 
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 41  05 27  12 58  16 51  20 19  21 57  00 00
            31   03 40  05 26  12 58  16 51  20 19  21 58  00 00
 
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 37  05 27  13 04  16 58  20 30  22 12  00 00
            30   03 37  05 27  13 04  16 58  20 30  22 12  00 00
 
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 09  05 48  13 07  16 58  20 15  21 47  00 00
            31   04 10  05 49  13 07  16 57  20 14  21 46  00 00
 
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 49  06 15  13 01  16 41  19 36  20 57  00 00
            31   04 50  06 16  13 01  16 40  19 35  20 56  00 00
 
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 20  06 42  12 51  16 11  18 49  20 06  00 00
            30   05 21  06 43  12 50  16 10  18 48  20 04  00 00
 
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 50  07 12  12 44  15 38  18 05  19 23  00 00
            31   05 51  07 13  12 44  15 37  18 04  19 22  00 00
 
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 18  07 44  12 48  15 20  17 42  19 04  00 00
            30   06 18  07 45  12 49  15 20  17 42  19 03  00 00
 
-                              SULTANDAĞI_N           
+                              SULTANDAĞI           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

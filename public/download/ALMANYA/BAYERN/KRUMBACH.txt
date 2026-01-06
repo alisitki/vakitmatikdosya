@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 02  07 43  12 37  14 54  17 20  18 49  00 00
            31   06 01  07 42  12 37  14 56  17 22  18 51  00 00
 
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 21  06 57  12 36  15 29  18 05  19 30  00 00
            28   05 19  06 55  12 36  15 30  18 07  19 31  00 00
 
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 13  06 55  13 28  16 58  19 52  21 20  00 00
            31   05 11  06 53  13 28  16 59  19 53  21 22  00 00
 
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 56  05 57  13 21  17 18  20 35  22 19  00 00
            30   03 53  05 55  13 21  17 18  20 37  22 21  00 00
 
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 42  05 17  13 21  17 33  21 15  22 47  00 00
            31   03 42  05 16  13 21  17 33  21 16  22 47  00 00
 
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 36  05 14  13 27  17 42  21 30  22 54  00 00
            30   03 37  05 14  13 27  17 42  21 30  22 53  00 00
 
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 49  05 44  13 30  17 36  21 06  22 41  00 00
            31   03 49  05 45  13 30  17 35  21 05  22 41  00 00
 
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 38  06 26  13 24  17 09  20 13  21 46  00 00
            31   04 40  06 27  13 24  17 07  20 11  21 44  00 00
 
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 30  07 08  13 14  16 27  19 11  20 36  00 00
            30   05 32  07 09  13 14  16 25  19 09  20 33  00 00
 
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 15  06 53  12 07  14 41  17 11  18 37  00 00
            31   05 16  06 55  12 07  14 40  17 09  18 36  00 00
 
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 53  07 38  12 12  14 13  16 35  18 08  00 00
            30   05 54  07 39  12 12  14 13  16 35  18 07  00 00
 
-                              KRUMBACH_N           
+                              KRUMBACH           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

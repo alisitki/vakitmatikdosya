@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 08  08 01  12 40  14 41  17 08  18 48  00 00
            31   06 07  08 00  12 40  14 43  17 10  18 50  00 00
 
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 19  07 07  12 39  15 23  18 02  19 36  00 00
            28   05 17  07 05  12 39  15 24  18 04  19 38  00 00
 
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 59  06 54  13 31  16 59  19 58  21 38  00 00
            31   04 56  06 52  13 31  17 00  20 00  21 40  00 00
 
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 52  05 47  13 24  17 25  20 51  22 33  00 00
            30   03 52  05 45  13 24  17 26  20 53  22 33  00 00
 
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 31  04 58  13 24  17 45  21 40  22 58  00 00
            31   03 30  04 57  13 24  17 45  21 42  22 59  00 00
 
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 30  04 52  13 30  17 54  21 58  23 11  00 00
            30   03 30  04 53  13 30  17 54  21 57  23 11  00 00
 
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 52  05 29  13 33  17 45  21 27  22 53  00 00
            31   03 53  05 31  13 33  17 45  21 25  22 53  00 00
 
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 15  06 21  13 27  17 12  20 24  22 12  00 00
            31   04 18  06 23  13 27  17 11  20 22  22 09  00 00
 
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 23  07 12  13 17  16 24  19 12  20 47  00 00
            30   05 25  07 14  13 17  16 22  19 10  20 45  00 00
 
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 18  07 08  12 10  14 31  17 03  18 39  00 00
            31   05 20  07 09  12 10  14 29  17 01  18 38  00 00
 
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 03  08 01  12 15  13 57  16 19  18 03  00 00
            30   06 04  08 02  12 15  13 57  16 18  18 03  00 00
 
-                              WALSRODE_N           
+                              WALSRODE           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

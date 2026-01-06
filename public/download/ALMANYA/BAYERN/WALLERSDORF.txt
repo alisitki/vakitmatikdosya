@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 53  07 35  12 27  14 43  17 09  18 39  00 00
            31   05 52  07 34  12 27  14 45  17 11  18 41  00 00
 
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 11  06 48  12 27  15 19  17 55  19 21  00 00
            28   05 09  06 47  12 27  15 20  17 57  19 22  00 00
 
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 02  06 45  13 19  16 49  19 43  21 12  00 00
            31   05 00  06 43  13 18  16 49  19 44  21 13  00 00
 
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 50  05 46  13 11  17 09  20 27  22 12  00 00
            30   03 49  05 44  13 11  17 09  20 28  22 14  00 00
 
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 37  05 05  13 12  17 24  21 08  22 31  00 00
            31   03 37  05 04  13 12  17 25  21 09  22 32  00 00
 
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 34  05 02  13 17  17 33  21 23  22 41  00 00
            30   03 34  05 02  13 18  17 33  21 23  22 41  00 00
 
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 47  05 33  13 21  17 27  20 58  22 27  00 00
            31   03 47  05 34  13 20  17 26  20 57  22 27  00 00
 
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 26  06 16  13 15  16 59  20 04  21 39  00 00
            31   04 28  06 17  13 15  16 58  20 02  21 36  00 00
 
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 20  06 58  13 04  16 17  19 01  20 27  00 00
            30   05 21  07 00  13 04  16 15  18 59  20 25  00 00
 
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 06  06 45  11 58  14 30  17 01  18 28  00 00
            31   05 07  06 46  11 58  14 29  16 59  18 26  00 00
 
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 44  07 30  12 02  14 02  16 24  17 57  00 00
            30   05 45  07 32  12 02  14 01  16 23  17 57  00 00
 
-                              WALLERSDORF_N           
+                              WALLERSDORF           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

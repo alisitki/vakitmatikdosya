@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 07  07 48  12 41  14 58  17 24  18 53  00 00
            31   06 05  07 47  12 41  14 59  17 26  18 55  00 00
 
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 25  07 02  12 41  15 33  18 09  19 34  00 00
            28   05 23  07 00  12 40  15 34  18 11  19 36  00 00
 
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 17  06 59  13 32  17 02  19 56  21 25  00 00
            31   05 14  06 57  13 32  17 03  19 58  21 27  00 00
 
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 04  06 00  13 25  17 22  20 40  22 25  00 00
            30   04 04  05 59  13 25  17 23  20 42  22 27  00 00
 
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 53  05 20  13 25  17 38  21 21  22 45  00 00
            31   03 53  05 19  13 26  17 38  21 22  22 46  00 00
 
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 48  05 17  13 31  17 47  21 36  22 52  00 00
            30   03 48  05 17  13 31  17 47  21 36  22 52  00 00
 
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 00  05 47  13 34  17 40  21 11  22 40  00 00
            31   04 00  05 49  13 34  17 40  21 10  22 40  00 00
 
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 40  06 30  13 29  17 13  20 17  21 52  00 00
            31   04 43  06 31  13 28  17 12  20 15  21 49  00 00
 
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 34  07 12  13 18  16 31  19 15  20 40  00 00
            30   05 35  07 13  13 18  16 29  19 13  20 38  00 00
 
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 19  06 58  12 12  14 44  17 15  18 42  00 00
            31   05 21  07 00  12 11  14 43  17 13  18 40  00 00
 
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 58  07 44  12 16  14 16  16 38  18 12  00 00
            30   05 59  07 45  12 16  14 16  16 38  18 11  00 00
 
-                              METZINGEN_N           
+                              METZINGEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

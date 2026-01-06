@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 08  07 48  12 43  15 02  17 28  18 56  00 00
            31   06 07  07 47  12 43  15 04  17 30  18 58  00 00
 
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 27  07 03  12 43  15 37  18 12  19 36  00 00
            28   05 26  07 01  12 43  15 38  18 14  19 37  00 00
 
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 21  07 01  13 35  17 05  19 58  21 25  00 00
            31   05 19  06 59  13 34  17 06  19 59  21 26  00 00
 
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 05  06 04  13 27  17 24  20 40  22 22  00 00
            30   04 03  06 03  13 27  17 24  20 42  22 24  00 00
 
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 44  05 25  13 27  17 38  21 20  22 57  00 00
            31   03 43  05 25  13 28  17 39  21 21  22 57  00 00
 
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 37  05 22  13 33  17 47  21 34  23 05  00 00
            30   03 38  05 23  13 34  17 47  21 34  23 04  00 00
 
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 51  05 52  13 36  17 41  21 11  22 51  00 00
            31   03 52  05 53  13 36  17 41  21 09  22 50  00 00
 
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 46  06 33  13 31  17 15  20 18  21 51  00 00
            31   04 48  06 34  13 30  17 14  20 16  21 48  00 00
 
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 37  07 14  13 20  16 34  19 17  20 41  00 00
            30   05 39  07 15  13 20  16 32  19 15  20 39  00 00
 
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 21  06 59  12 14  14 49  17 19  18 44  00 00
            31   05 23  07 00  12 14  14 47  17 17  18 42  00 00
 
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 59  07 43  12 18  14 21  16 43  18 15  00 00
            30   06 00  07 44  12 18  14 21  16 43  18 15  00 00
 
-                              GOTTMADINGEN_N           
+                              GOTTMADINGEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

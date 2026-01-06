@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 14  08 00  12 48  14 59  17 25  18 59  00 00
            31   06 13  07 59  12 48  15 00  17 27  19 00  00 00
 
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 30  07 11  12 47  15 36  18 14  19 42  00 00
            28   05 28  07 09  12 47  15 38  18 15  19 44  00 00
 
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 18  07 04  13 39  17 08  20 04  21 37  00 00
            31   05 15  07 02  13 39  17 09  20 06  21 39  00 00
 
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 06  06 02  13 32  17 31  20 52  22 37  00 00
            30   04 05  06 01  13 32  17 31  20 53  22 38  00 00
 
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 49  05 19  13 32  17 48  21 35  22 56  00 00
            31   03 48  05 18  13 32  17 48  21 36  22 56  00 00
 
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 49  05 15  13 38  17 57  21 51  23 08  00 00
            30   03 49  05 16  13 38  17 57  21 51  23 08  00 00
 
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 06  05 48  13 41  17 50  21 24  22 54  00 00
            31   04 06  05 49  13 41  17 49  21 23  22 54  00 00
 
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 39  06 34  13 35  17 20  20 27  22 06  00 00
            31   04 41  06 35  13 35  17 19  20 25  22 03  00 00
 
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 37  07 19  13 25  16 35  19 21  20 50  00 00
            30   05 39  07 21  13 25  16 34  19 19  20 48  00 00
 
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 26  07 09  12 18  14 47  17 18  18 48  00 00
            31   05 28  07 11  12 18  14 45  17 16  18 46  00 00
 
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 07  07 57  12 23  14 16  16 38  18 16  00 00
            30   06 08  07 58  12 23  14 16  16 38  18 15  00 00
 
-                              BOPPARD_N           
+                              BOPPARD           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

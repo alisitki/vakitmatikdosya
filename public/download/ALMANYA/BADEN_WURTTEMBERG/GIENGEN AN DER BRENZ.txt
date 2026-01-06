@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 03  07 45  12 37  14 54  17 20  18 49  00 00
            31   06 02  07 43  12 37  14 55  17 21  18 51  00 00
 
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 21  06 58  12 37  15 29  18 05  19 31  00 00
            28   05 19  06 56  12 37  15 30  18 07  19 32  00 00
 
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 12  06 55  13 29  16 59  19 53  21 21  00 00
            31   05 10  06 53  13 28  16 59  19 54  21 23  00 00
 
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 01  05 56  13 21  17 19  20 37  22 21  00 00
            30   04 01  05 54  13 21  17 19  20 38  22 24  00 00
 
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 49  05 16  13 22  17 34  21 17  22 40  00 00
            31   03 49  05 15  13 22  17 35  21 18  22 41  00 00
 
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 45  05 12  13 27  17 43  21 32  22 48  00 00
            30   03 46  05 13  13 28  17 43  21 32  22 48  00 00
 
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 57  05 43  13 31  17 37  21 08  22 36  00 00
            31   03 58  05 44  13 31  17 36  21 07  22 35  00 00
 
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 36  06 26  13 25  17 09  20 14  21 48  00 00
            31   04 38  06 27  13 25  17 08  20 12  21 46  00 00
 
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 30  07 08  13 15  16 27  19 11  20 37  00 00
            30   05 31  07 10  13 14  16 25  19 09  20 34  00 00
 
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 16  06 55  12 08  14 40  17 11  18 38  00 00
            31   05 17  06 56  12 08  14 39  17 09  18 36  00 00
 
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 54  07 40  12 12  14 12  16 34  18 08  00 00
            30   05 55  07 41  12 13  14 12  16 34  18 07  00 00
 
-                              GIENGEN AN DER BRENZ_N           
+                              GIENGEN AN DER BRENZ           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

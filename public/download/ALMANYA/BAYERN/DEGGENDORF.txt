@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 52  07 34  12 26  14 42  17 08  18 38  00 00
            31   05 51  07 33  12 27  14 43  17 10  18 40  00 00
 
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 10  06 48  12 26  15 18  17 54  19 20  00 00
            28   05 08  06 46  12 26  15 19  17 56  19 21  00 00
 
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 01  06 44  13 18  16 48  19 42  21 11  00 00
            31   04 58  06 42  13 17  16 48  19 43  21 13  00 00
 
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 48  05 45  13 11  17 08  20 26  22 12  00 00
            30   03 48  05 43  13 10  17 08  20 28  22 14  00 00
 
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 35  05 04  13 11  17 24  21 07  22 31  00 00
            31   03 34  05 03  13 11  17 24  21 08  22 31  00 00
 
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 32  05 01  13 17  17 32  21 23  22 41  00 00
            30   03 33  05 01  13 17  17 33  21 23  22 41  00 00
 
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 46  05 32  13 20  17 26  20 58  22 28  00 00
            31   03 46  05 33  13 20  17 26  20 56  22 27  00 00
 
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 24  06 15  13 14  16 58  20 03  21 38  00 00
            31   04 26  06 16  13 14  16 57  20 01  21 36  00 00
 
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 18  06 57  13 04  16 16  19 00  20 26  00 00
            30   05 20  06 59  13 03  16 14  18 58  20 24  00 00
 
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 05  06 44  11 57  14 29  16 59  18 27  00 00
            31   05 06  06 46  11 57  14 28  16 58  18 25  00 00
 
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 44  07 30  12 01  14 00  16 23  17 56  00 00
            30   05 45  07 31  12 02  14 00  16 22  17 56  00 00
 
-                              DEGGENDORF_N           
+                              DEGGENDORF           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

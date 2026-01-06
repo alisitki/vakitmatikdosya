@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 08  07 52  12 42  14 56  17 22  18 54  00 00
            31   06 07  07 51  12 42  14 57  17 24  18 55  00 00
 
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 25  07 04  12 42  15 32  18 09  19 36  00 00
            28   05 23  07 02  12 42  15 34  18 11  19 38  00 00
 
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 15  06 59  13 34  17 03  19 58  21 29  00 00
            31   05 12  06 57  13 33  17 04  20 00  21 31  00 00
 
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 04  05 59  13 26  17 24  20 44  22 30  00 00
            30   04 03  05 57  13 26  17 25  20 46  22 31  00 00
 
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 49  05 17  13 27  17 41  21 26  22 46  00 00
            31   03 48  05 16  13 27  17 41  21 27  22 47  00 00
 
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 48  05 13  13 32  17 50  21 42  22 58  00 00
            30   03 48  05 14  13 33  17 50  21 41  22 57  00 00
 
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 03  05 45  13 36  17 43  21 16  22 44  00 00
            31   04 03  05 47  13 36  17 42  21 14  22 44  00 00
 
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 37  06 30  13 30  17 14  20 20  21 57  00 00
            31   04 39  06 31  13 30  17 13  20 18  21 54  00 00
 
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 33  07 13  13 20  16 31  19 16  20 43  00 00
            30   05 35  07 15  13 19  16 29  19 14  20 41  00 00
 
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 21  07 02  12 13  14 43  17 14  18 43  00 00
            31   05 22  07 03  12 13  14 42  17 12  18 41  00 00
 
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 00  07 48  12 17  14 14  16 36  18 11  00 00
            30   06 01  07 50  12 18  14 13  16 35  18 11  00 00
 
-                              EBERBACH_N           
+                              EBERBACH           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

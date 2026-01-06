@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 09  07 53  12 43  14 56  17 22  18 54  00 00
            31   06 08  07 52  12 43  14 57  17 24  18 56  00 00
 
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 26  07 05  12 42  15 33  18 10  19 37  00 00
            28   05 24  07 03  12 42  15 34  18 11  19 38  00 00
 
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 15  07 00  13 34  17 04  19 59  21 30  00 00
            31   05 12  06 57  13 34  17 05  20 00  21 32  00 00
 
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 59  05 59  13 27  17 25  20 45  22 33  00 00
            30   03 59  05 57  13 27  17 26  20 46  22 34  00 00
 
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 44  05 17  13 27  17 42  21 27  22 52  00 00
            31   03 43  05 16  13 27  17 42  21 28  22 52  00 00
 
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 43  05 13  13 33  17 50  21 43  23 03  00 00
            30   03 43  05 14  13 33  17 51  21 43  23 03  00 00
 
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 59  05 45  13 36  17 44  21 17  22 49  00 00
            31   03 59  05 47  13 36  17 43  21 16  22 49  00 00
 
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 37  06 30  13 30  17 15  20 21  21 58  00 00
            31   04 39  06 31  13 30  17 14  20 19  21 56  00 00
 
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 33  07 14  13 20  16 31  19 16  20 44  00 00
            30   05 35  07 15  13 20  16 30  19 14  20 42  00 00
 
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 21  07 02  12 13  14 43  17 14  18 43  00 00
            31   05 23  07 04  12 13  14 42  17 12  18 41  00 00
 
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 01  07 50  12 18  14 14  16 36  18 12  00 00
            30   06 02  07 51  12 18  14 13  16 35  18 11  00 00
 
-                              GRASELLENBACH_N           
+                              GRASELLENBACH           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

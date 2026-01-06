@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 08  08 03  12 39  14 39  17 06  18 47  00 00
            31   06 07  08 02  12 40  14 40  17 08  18 49  00 00
 
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 18  07 07  12 39  15 21  18 01  19 36  00 00
            28   05 16  07 05  12 39  15 22  18 03  19 38  00 00
 
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 56  06 53  13 31  16 58  19 58  21 40  00 00
            31   04 53  06 51  13 31  16 59  20 00  21 42  00 00
 
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 49  05 44  13 24  17 25  20 53  22 35  00 00
            30   03 48  05 42  13 24  17 26  20 55  22 36  00 00
 
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 25  04 54  13 24  17 45  21 43  23 02  00 00
            31   03 25  04 53  13 24  17 46  21 45  23 03  00 00
 
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 24  04 48  13 30  17 55  22 01  23 16  00 00
            30   03 25  04 49  13 30  17 55  22 01  23 16  00 00
 
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 48  05 26  13 33  17 46  21 29  22 57  00 00
            31   03 48  05 28  13 33  17 45  21 27  22 56  00 00
 
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 11  06 19  13 27  17 12  20 25  22 15  00 00
            31   04 14  06 21  13 27  17 11  20 22  22 12  00 00
 
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 21  07 12  13 17  16 23  19 12  20 48  00 00
            30   05 23  07 14  13 16  16 21  19 09  20 46  00 00
 
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 18  07 09  12 10  14 28  17 01  18 39  00 00
            31   05 19  07 11  12 10  14 27  16 59  18 37  00 00
 
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 03  08 03  12 14  13 54  16 15  18 02  00 00
            30   06 04  08 05  12 15  13 53  16 14  18 01  00 00
 
-                              BUXTEHUDE_N           
+                              BUXTEHUDE           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

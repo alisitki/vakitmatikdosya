@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 57  07 24  12 37  15 16  17 40  19 02  00 00
            31   05 56  07 24  12 37  15 17  17 41  19 03  00 00
 
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 26  06 50  12 37  15 42  18 14  19 33  00 00
            28   05 24  06 48  12 37  15 42  18 15  19 34  00 00
 
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 33  05 59  12 29  16 00  18 48  20 09  00 00
            31   04 31  05 58  12 28  16 01  18 49  20 10  00 00
 
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 36  05 14  12 21  16 11  19 19  20 50  00 00
            30   03 35  05 12  12 21  16 11  19 20  20 51  00 00
 
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   02 50  04 44  12 22  16 19  19 49  21 34  00 00
            31   02 49  04 43  12 22  16 20  19 50  21 36  00 00
 
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   02 44  04 43  12 27  16 27  20 02  21 52  00 00
            30   02 45  04 44  12 28  16 27  20 02  21 51  00 00
 
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 21  05 06  12 31  16 25  19 45  21 22  00 00
            31   03 23  05 07  12 30  16 25  19 44  21 21  00 00
 
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 06  05 37  12 25  16 06  19 03  20 28  00 00
            31   04 07  05 38  12 25  16 05  19 01  20 26  00 00
 
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   04 42  06 06  12 14  15 34  18 13  19 32  00 00
            30   04 43  06 07  12 14  15 33  18 11  19 30  00 00
 
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 14  06 40  12 08  14 58  17 26  18 46  00 00
            31   05 15  06 41  12 08  14 57  17 24  18 45  00 00
 
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 44  07 14  12 12  14 38  17 00  18 25  00 00
            30   05 45  07 15  12 12  14 38  17 00  18 24  00 00
 
-                              DERNEKPAZARI_N           
+                              DERNEKPAZARI           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

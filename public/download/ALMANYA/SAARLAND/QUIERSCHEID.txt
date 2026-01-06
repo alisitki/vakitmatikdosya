@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 16  08 00  12 50  15 04  17 30  19 02  00 00
            31   06 15  07 58  12 50  15 06  17 32  19 03  00 00
 
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 33  07 12  12 50  15 40  18 17  19 44  00 00
            28   05 31  07 10  12 49  15 42  18 19  19 45  00 00
 
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 23  07 07  13 41  17 11  20 06  21 36  00 00
            31   05 20  07 05  13 41  17 12  20 07  21 38  00 00
 
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 09  06 07  13 34  17 32  20 51  22 39  00 00
            30   04 08  06 05  13 34  17 33  20 53  22 41  00 00
 
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 54  05 25  13 34  17 48  21 33  22 57  00 00
            31   03 53  05 25  13 34  17 49  21 34  22 57  00 00
 
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 53  05 22  13 40  17 57  21 49  23 08  00 00
            30   03 53  05 22  13 40  17 57  21 48  23 08  00 00
 
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 07  05 53  13 43  17 50  21 23  22 54  00 00
            31   04 08  05 55  13 43  17 50  21 22  22 54  00 00
 
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 46  06 38  13 38  17 22  20 28  22 04  00 00
            31   04 48  06 39  13 37  17 21  20 26  22 01  00 00
 
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 41  07 21  13 27  16 39  19 24  20 51  00 00
            30   05 43  07 23  13 27  16 37  19 21  20 48  00 00
 
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 28  07 09  12 20  14 51  17 22  18 50  00 00
            31   05 30  07 11  12 20  14 50  17 20  18 49  00 00
 
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 08  07 56  12 25  14 22  16 44  18 19  00 00
            30   06 09  07 57  12 25  14 22  16 44  18 19  00 00
 
-                              QUIERSCHEID_N           
+                              QUIERSCHEID           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

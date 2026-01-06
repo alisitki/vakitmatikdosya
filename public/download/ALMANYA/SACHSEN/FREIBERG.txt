@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 52  07 39  12 25  14 34  17 00  18 35  00 00
            31   05 51  07 38  12 25  14 35  17 02  18 36  00 00
 
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 06  06 49  12 24  15 12  17 50  19 20  00 00
            28   05 04  06 47  12 24  15 13  17 52  19 21  00 00
 
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 52  06 41  13 16  16 45  19 42  21 16  00 00
            31   04 49  06 38  13 16  16 46  19 43  21 18  00 00
 
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 38  05 38  13 09  17 08  20 31  22 18  00 00
            30   03 37  05 36  13 09  17 09  20 32  22 18  00 00
 
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 19  04 53  13 09  17 26  21 15  22 39  00 00
            31   03 19  04 52  13 09  17 26  21 16  22 40  00 00
 
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 19  04 49  13 15  17 35  21 32  22 51  00 00
            30   03 19  04 49  13 15  17 35  21 31  22 51  00 00
 
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 37  05 22  13 18  17 28  21 04  22 37  00 00
            31   03 38  05 24  13 18  17 27  21 02  22 36  00 00
 
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 12  06 10  13 12  16 57  20 05  21 46  00 00
            31   04 14  06 11  13 12  16 56  20 03  21 44  00 00
 
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 13  06 56  13 02  16 12  18 58  20 28  00 00
            30   05 14  06 58  13 02  16 10  18 56  20 26  00 00
 
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 03  06 48  11 55  14 22  16 53  18 25  00 00
            31   05 05  06 49  11 55  14 20  16 51  18 23  00 00
 
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 45  07 37  12 00  13 51  16 13  17 52  00 00
            30   05 46  07 38  12 00  13 50  16 12  17 51  00 00
 
-                              FREIBERG_N           
+                              FREIBERG           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

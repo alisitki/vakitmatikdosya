@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 13  07 53  12 48  15 07  17 33  19 01  00 00
            31   06 12  07 52  12 48  15 08  17 34  19 02  00 00
 
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 32  07 08  12 47  15 41  18 17  19 41  00 00
            28   05 30  07 06  12 47  15 42  18 18  19 42  00 00
 
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 25  07 06  13 39  17 09  20 02  21 30  00 00
            31   05 23  07 04  13 39  17 10  20 04  21 31  00 00
 
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 09  06 09  13 32  17 28  20 45  22 27  00 00
            30   04 07  06 07  13 32  17 29  20 47  22 29  00 00
 
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 49  05 29  13 32  17 43  21 25  23 01  00 00
            31   03 49  05 29  13 32  17 44  21 26  23 01  00 00
 
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 43  05 26  13 38  17 52  21 39  23 08  00 00
            30   03 43  05 27  13 38  17 52  21 39  23 08  00 00
 
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 57  05 56  13 41  17 46  21 16  22 55  00 00
            31   03 57  05 58  13 41  17 45  21 14  22 54  00 00
 
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 50  06 38  13 35  17 19  20 23  21 56  00 00
            31   04 52  06 39  13 35  17 18  20 21  21 53  00 00
 
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 42  07 18  13 25  16 38  19 22  20 46  00 00
            30   05 43  07 20  13 25  16 37  19 20  20 44  00 00
 
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 26  07 03  12 18  14 53  17 23  18 48  00 00
            31   05 27  07 05  12 18  14 52  17 21  18 47  00 00
 
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 04  07 48  12 23  14 26  16 48  18 19  00 00
            30   06 05  07 49  12 23  14 25  16 47  18 19  00 00
 
-                              BUGGINGEN_N           
+                              BUGGINGEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

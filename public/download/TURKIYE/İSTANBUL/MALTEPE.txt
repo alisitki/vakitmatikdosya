@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 42  08 09  13 22  16 00  18 24  19 46  00 00
            31   06 41  08 08  13 22  16 01  18 25  19 48  00 00
 
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 10  07 34  13 21  16 26  18 58  20 17  00 00
            28   06 09  07 33  13 21  16 27  18 59  20 18  00 00
 
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 17  06 44  13 13  16 45  19 32  20 53  00 00
            31   05 15  06 42  13 13  16 45  19 33  20 55  00 00
 
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 20  05 58  13 06  16 55  20 04  21 35  00 00
            30   04 19  05 56  13 06  16 56  20 05  21 36  00 00
 
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 34  05 28  13 06  17 04  20 34  22 20  00 00
            31   03 33  05 28  13 06  17 04  20 35  22 21  00 00
 
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 28  05 27  13 12  17 11  20 47  22 37  00 00
            30   03 28  05 28  13 12  17 12  20 46  22 37  00 00
 
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 05  05 50  13 15  17 10  20 30  22 07  00 00
            31   04 07  05 51  13 15  17 09  20 28  22 06  00 00
 
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 50  06 21  13 09  16 51  19 48  21 12  00 00
            31   04 51  06 22  13 09  16 50  19 46  21 10  00 00
 
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 26  06 51  12 59  16 18  18 57  20 16  00 00
            30   05 27  06 52  12 59  16 17  18 56  20 15  00 00
 
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 59  07 24  12 52  15 42  18 10  19 30  00 00
            31   06 00  07 26  12 52  15 41  18 09  19 29  00 00
 
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 29  07 59  12 57  15 22  17 44  19 09  00 00
            30   06 30  08 00  12 57  15 22  17 44  19 09  00 00
 
-                              MALTEPE_N           
+                              MALTEPE           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

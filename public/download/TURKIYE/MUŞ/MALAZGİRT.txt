@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 47  07 12  12 28  15 10  17 34  18 54  00 00
            31   05 46  07 11  12 28  15 11  17 36  18 55  00 00
 
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 17  06 39  12 28  15 35  18 06  19 23  00 00
            28   05 16  06 38  12 27  15 35  18 07  19 24  00 00
 
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 27  05 51  12 19  15 51  18 38  19 56  00 00
            31   04 25  05 50  12 19  15 52  18 39  19 58  00 00
 
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 34  05 07  12 12  16 00  19 07  20 34  00 00
            30   03 32  05 06  12 12  16 00  19 08  20 36  00 00
 
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   02 52  04 40  12 12  16 07  19 35  21 15  00 00
            31   02 51  04 39  12 13  16 07  19 36  21 16  00 00
 
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   02 47  04 39  12 18  16 14  19 47  21 31  00 00
            30   02 48  04 40  12 18  16 14  19 47  21 31  00 00
 
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 21  05 01  12 21  16 13  19 32  21 05  00 00
            31   03 22  05 02  12 21  16 13  19 31  21 04  00 00
 
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 02  05 29  12 16  15 56  18 52  20 14  00 00
            31   04 03  05 30  12 15  15 55  18 50  20 12  00 00
 
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   04 35  05 57  12 05  15 26  18 04  19 21  00 00
            30   04 36  05 58  12 05  15 25  18 02  19 19  00 00
 
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 05  06 28  11 59  14 52  17 19  18 37  00 00
            31   05 06  06 29  11 58  14 51  17 18  18 36  00 00
 
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 33  07 01  12 03  14 33  16 55  18 18  00 00
            30   05 34  07 02  12 03  14 33  16 55  18 17  00 00
 
-                              MALAZGİRT_N           
+                              MALAZGİRT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

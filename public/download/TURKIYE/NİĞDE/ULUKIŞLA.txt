@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 18  07 41  13 00  15 46  18 10  19 28  00 00
            31   06 17  07 40  13 00  15 47  18 11  19 29  00 00
 
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 50  07 10  13 00  16 09  18 40  19 55  00 00
            28   05 48  07 08  13 00  16 09  18 41  19 56  00 00
 
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 02  06 24  12 52  16 23  19 09  20 26  00 00
            31   05 01  06 23  12 51  16 24  19 10  20 27  00 00
 
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 12  05 43  12 45  16 30  19 37  21 01  00 00
            30   04 11  05 41  12 44  16 30  19 37  21 02  00 00
 
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 33  05 16  12 45  16 36  20 03  21 38  00 00
            31   03 33  05 16  12 45  16 36  20 03  21 39  00 00
 
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 30  05 17  12 51  16 43  20 14  21 54  00 00
            30   03 30  05 17  12 51  16 43  20 14  21 53  00 00
 
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 01  05 37  12 54  16 43  20 00  21 30  00 00
            31   04 02  05 38  12 54  16 43  19 59  21 29  00 00
 
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 38  06 03  12 48  16 27  19 22  20 42  00 00
            31   04 39  06 04  12 48  16 27  19 21  20 40  00 00
 
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 09  06 29  12 38  15 59  18 37  19 52  00 00
            30   05 09  06 29  12 37  15 58  18 35  19 50  00 00
 
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 36  06 58  12 31  15 27  17 54  19 10  00 00
            31   05 37  06 59  12 31  15 26  17 53  19 09  00 00
 
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 03  07 29  12 35  15 10  17 32  18 52  00 00
            30   06 04  07 30  12 36  15 10  17 31  18 52  00 00
 
-                              ULUKIŞLA_N           
+                              ULUKIŞLA           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

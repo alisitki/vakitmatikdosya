@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 08  08 04  12 39  14 36  17 03  18 46  00 00
            31   06 07  08 02  12 39  14 38  17 05  18 47  00 00
 
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 17  07 07  12 38  15 19  17 59  19 36  00 00
            28   05 15  07 05  12 38  15 20  18 01  19 38  00 00
 
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 53  06 52  13 30  16 57  19 58  21 41  00 00
            31   04 50  06 50  13 30  16 58  20 00  21 43  00 00
 
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 47  05 42  13 23  17 25  20 54  22 36  00 00
            30   03 46  05 40  13 23  17 25  20 56  22 37  00 00
 
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 22  04 51  13 23  17 45  21 45  23 04  00 00
            31   03 21  04 50  13 23  17 46  21 46  23 05  00 00
 
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 21  04 45  13 29  17 55  22 03  23 18  00 00
            30   03 21  04 45  13 29  17 55  22 03  23 18  00 00
 
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 45  05 24  13 32  17 46  21 30  22 58  00 00
            31   03 46  05 25  13 32  17 45  21 29  22 57  00 00
 
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 07  06 18  13 26  17 11  20 25  22 17  00 00
            31   04 10  06 20  13 26  17 10  20 22  22 13  00 00
 
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 19  07 11  13 16  16 21  19 11  20 48  00 00
            30   05 21  07 13  13 16  16 19  19 08  20 46  00 00
 
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 17  07 09  12 09  14 26  16 59  18 38  00 00
            31   05 19  07 11  12 09  14 25  16 57  18 36  00 00
 
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 03  08 05  12 14  13 51  16 12  18 00  00 00
            30   06 04  08 06  12 14  13 51  16 11  18 00  00 00
 
-                              BAD BRAMSTEDT_N           
+                              BAD BRAMSTEDT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

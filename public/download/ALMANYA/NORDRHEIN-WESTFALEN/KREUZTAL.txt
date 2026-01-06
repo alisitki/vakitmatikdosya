@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 13  08 01  12 46  14 55  17 21  18 56  00 00
            31   06 12  08 00  12 46  14 56  17 23  18 58  00 00
 
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 28  07 10  12 46  15 33  18 11  19 41  00 00
            28   05 26  07 08  12 46  15 35  18 13  19 43  00 00
 
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 13  07 02  13 38  17 07  20 03  21 37  00 00
            31   05 11  07 00  13 37  17 07  20 05  21 40  00 00
 
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 00  05 59  13 30  17 30  20 52  22 39  00 00
            30   03 59  05 57  13 30  17 30  20 54  22 39  00 00
 
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 42  05 14  13 31  17 47  21 37  22 59  00 00
            31   03 41  05 13  13 31  17 48  21 38  23 00  00 00
 
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 41  05 10  13 36  17 57  21 53  23 12  00 00
            30   03 42  05 10  13 37  17 57  21 53  23 12  00 00
 
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 00  05 44  13 40  17 49  21 26  22 57  00 00
            31   04 01  05 45  13 40  17 48  21 24  22 56  00 00
 
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 33  06 31  13 34  17 19  20 27  22 08  00 00
            31   04 35  06 33  13 34  17 17  20 25  22 05  00 00
 
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 34  07 18  13 24  16 33  19 19  20 50  00 00
            30   05 36  07 19  13 23  16 31  19 17  20 47  00 00
 
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 25  07 09  12 17  14 43  17 14  18 46  00 00
            31   05 26  07 11  12 17  14 41  17 13  18 45  00 00
 
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 06  07 59  12 21  14 12  16 34  18 13  00 00
            30   06 08  08 00  12 22  14 11  16 33  18 12  00 00
 
-                              KREUZTAL_N           
+                              KREUZTAL           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

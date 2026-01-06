@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 17  08 05  12 50  14 58  17 25  19 00  00 00
            31   06 16  08 04  12 50  15 00  17 27  19 02  00 00
 
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 32  07 15  12 50  15 37  18 15  19 45  00 00
            28   05 30  07 12  12 50  15 38  18 17  19 47  00 00
 
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 17  07 06  13 42  17 10  20 07  21 42  00 00
            31   05 14  07 04  13 41  17 11  20 09  21 44  00 00
 
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 06  06 03  13 34  17 34  20 56  22 41  00 00
            30   04 05  06 01  13 34  17 34  20 58  22 42  00 00
 
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 48  05 18  13 34  17 52  21 41  23 01  00 00
            31   03 47  05 17  13 35  17 52  21 42  23 02  00 00
 
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 48  05 13  13 40  18 01  21 58  23 14  00 00
            30   03 48  05 14  13 41  18 01  21 57  23 14  00 00
 
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 06  05 47  13 43  17 53  21 30  22 59  00 00
            31   04 07  05 49  13 43  17 52  21 28  22 58  00 00
 
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 37  06 35  13 38  17 23  20 31  22 12  00 00
            31   04 39  06 36  13 37  17 21  20 29  22 10  00 00
 
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 38  07 22  13 27  16 37  19 23  20 54  00 00
            30   05 39  07 23  13 27  16 35  19 21  20 51  00 00
 
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 29  07 13  12 21  14 47  17 18  18 50  00 00
            31   05 30  07 15  12 21  14 45  17 16  18 48  00 00
 
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 10  08 03  12 25  14 15  16 37  18 17  00 00
            30   06 12  08 04  12 25  14 15  16 37  18 16  00 00
 
-                              LEVERKUSEN_N           
+                              LEVERKUSEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

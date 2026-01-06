@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 13  07 57  12 47  15 01  17 27  18 59  00 00
            31   06 12  07 56  12 47  15 02  17 29  19 00  00 00
 
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 30  07 09  12 47  15 37  18 14  19 41  00 00
            28   05 28  07 07  12 47  15 39  18 16  19 43  00 00
 
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 20  07 04  13 39  17 08  20 03  21 34  00 00
            31   05 17  07 02  13 38  17 09  20 05  21 36  00 00
 
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 06  06 04  13 31  17 29  20 49  22 37  00 00
            30   04 06  06 02  13 31  17 30  20 50  22 37  00 00
 
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 51  05 22  13 31  17 46  21 31  22 54  00 00
            31   03 51  05 21  13 32  17 46  21 32  22 54  00 00
 
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 50  05 18  13 37  17 55  21 46  23 05  00 00
            30   03 51  05 19  13 38  17 55  21 46  23 05  00 00
 
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 05  05 50  13 40  17 48  21 21  22 52  00 00
            31   04 06  05 52  13 40  17 47  21 19  22 51  00 00
 
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 42  06 35  13 35  17 19  20 25  22 02  00 00
            31   04 44  06 36  13 34  17 18  20 23  21 59  00 00
 
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 38  07 18  13 24  16 36  19 21  20 48  00 00
            30   05 40  07 20  13 24  16 34  19 19  20 46  00 00
 
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 26  07 06  12 18  14 48  17 19  18 47  00 00
            31   05 27  07 08  12 18  14 47  17 17  18 46  00 00
 
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 05  07 53  12 22  14 19  16 41  18 16  00 00
            30   06 06  07 55  12 22  14 18  16 40  18 16  00 00
 
-                              KAISERSLAUTERN_N           
+                              KAISERSLAUTERN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

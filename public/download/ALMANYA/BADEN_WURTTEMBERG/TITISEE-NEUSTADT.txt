@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 11  07 51  12 46  15 04  17 30  18 58  00 00
            31   06 10  07 50  12 46  15 06  17 32  19 00  00 00
 
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 30  07 06  12 45  15 39  18 14  19 38  00 00
            28   05 28  07 04  12 45  15 40  18 16  19 40  00 00
 
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 23  07 04  13 37  17 07  20 00  21 28  00 00
            31   05 21  07 02  13 37  17 08  20 02  21 29  00 00
 
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 07  06 06  13 30  17 26  20 43  22 25  00 00
            30   04 04  06 05  13 30  17 27  20 45  22 27  00 00
 
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 47  05 27  13 30  17 41  21 23  22 58  00 00
            31   03 47  05 26  13 30  17 42  21 24  22 59  00 00
 
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 41  05 24  13 36  17 50  21 37  23 06  00 00
            30   03 42  05 25  13 36  17 50  21 37  23 06  00 00
 
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 55  05 54  13 39  17 44  21 14  22 53  00 00
            31   03 55  05 55  13 39  17 43  21 12  22 52  00 00
 
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 48  06 35  13 33  17 17  20 21  21 54  00 00
            31   04 50  06 37  13 33  17 16  20 19  21 51  00 00
 
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 39  07 16  13 23  16 36  19 19  20 44  00 00
            30   05 41  07 18  13 22  16 34  19 17  20 42  00 00
 
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 24  07 01  12 16  14 51  17 21  18 46  00 00
            31   05 25  07 03  12 16  14 49  17 19  18 45  00 00
 
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 02  07 46  12 20  14 23  16 45  18 17  00 00
            30   06 03  07 47  12 21  14 23  16 45  18 17  00 00
 
-                              TITISEE-NEUSTADT_N           
+                              TITISEE-NEUSTADT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

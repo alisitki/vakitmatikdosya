@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              TRABZON_N           
+                              TRABZON           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 59  07 27  12 39  15 17  17 42  19 04  00 00
            31   05 59  07 26  12 40  15 18  17 43  19 05  00 00
 
-                              TRABZON_N           
+                              TRABZON           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 28  06 52  12 39  15 44  18 16  19 35  00 00
            28   05 26  06 51  12 39  15 44  18 17  19 36  00 00
 
-                              TRABZON_N           
+                              TRABZON           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 35  06 02  12 31  16 03  18 50  20 11  00 00
            31   04 33  06 00  12 31  16 03  18 51  20 13  00 00
 
-                              TRABZON_N           
+                              TRABZON           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 38  05 15  12 24  16 13  19 22  20 53  00 00
            30   03 36  05 14  12 24  16 14  19 23  20 54  00 00
 
-                              TRABZON_N           
+                              TRABZON           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   02 51  04 46  12 24  16 22  19 52  21 38  00 00
            31   02 50  04 45  12 24  16 22  19 53  21 39  00 00
 
-                              TRABZON_N           
+                              TRABZON           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   02 45  04 45  12 30  16 29  20 05  21 55  00 00
            30   02 45  04 45  12 30  16 30  20 04  21 55  00 00
 
-                              TRABZON_N           
+                              TRABZON           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 22  05 08  12 33  16 28  19 47  21 26  00 00
            31   03 24  05 09  12 33  16 27  19 46  21 24  00 00
 
-                              TRABZON_N           
+                              TRABZON           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 08  05 39  12 27  16 08  19 05  20 30  00 00
            31   04 09  05 40  12 27  16 08  19 04  20 28  00 00
 
-                              TRABZON_N           
+                              TRABZON           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   04 44  06 08  12 17  15 36  18 15  19 34  00 00
            30   04 45  06 09  12 16  15 35  18 13  19 32  00 00
 
-                              TRABZON_N           
+                              TRABZON           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 17  06 42  12 10  15 00  17 28  18 48  00 00
            31   05 18  06 43  12 10  14 59  17 26  18 47  00 00
 
-                              TRABZON_N           
+                              TRABZON           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 47  07 17  12 14  14 40  17 02  18 27  00 00
            30   05 48  07 18  12 15  14 39  17 01  18 26  00 00
 
-                              TRABZON_N           
+                              TRABZON           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

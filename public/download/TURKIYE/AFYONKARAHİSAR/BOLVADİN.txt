@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 32  07 57  13 14  15 57  18 21  19 41  00 00
            31   06 32  07 56  13 14  15 58  18 22  19 42  00 00
 
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 03  07 25  13 14  16 21  18 53  20 09  00 00
            28   06 02  07 23  13 13  16 22  18 54  20 10  00 00
 
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 14  06 37  13 05  16 37  19 24  20 42  00 00
            31   05 12  06 36  13 05  16 38  19 25  20 43  00 00
 
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 22  05 54  12 58  16 45  19 52  21 19  00 00
            30   04 20  05 53  12 58  16 45  19 53  21 20  00 00
 
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 40  05 27  12 58  16 52  20 20  21 59  00 00
            31   03 40  05 26  12 58  16 52  20 20  22 00  00 00
 
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 36  05 27  13 04  16 59  20 32  22 14  00 00
            30   03 37  05 27  13 04  16 59  20 32  22 14  00 00
 
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 09  05 48  13 07  16 59  20 16  21 49  00 00
            31   04 10  05 49  13 07  16 58  20 15  21 47  00 00
 
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 49  06 16  13 02  16 42  19 37  20 59  00 00
            31   04 50  06 17  13 01  16 41  19 36  20 57  00 00
 
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 21  06 43  12 51  16 12  18 50  20 06  00 00
            30   05 22  06 43  12 51  16 11  18 49  20 05  00 00
 
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 51  07 13  12 45  15 39  18 06  19 23  00 00
            31   05 51  07 14  12 44  15 38  18 05  19 22  00 00
 
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 19  07 46  12 49  15 21  17 42  19 04  00 00
            30   06 19  07 46  12 49  15 20  17 42  19 04  00 00
 
-                              BOLVADİN_N           
+                              BOLVADİN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

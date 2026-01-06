@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 15  08 14  12 45  14 38  17 06  18 51  00 00
            31   06 13  08 13  12 45  14 40  17 08  18 53  00 00
 
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 22  07 15  12 45  15 23  18 04  19 43  00 00
            28   05 19  07 13  12 44  15 24  18 06  19 45  00 00
 
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 55  06 57  13 36  17 03  20 05  21 51  00 00
            31   04 52  06 55  13 36  17 04  20 07  21 54  00 00
 
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 57  05 45  13 29  17 32  21 03  22 39  00 00
            30   03 56  05 43  13 29  17 32  21 05  22 40  00 00
 
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 30  04 51  13 29  17 54  21 57  23 10  00 00
            31   03 29  04 50  13 29  17 54  21 59  23 11  00 00
 
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 28  04 44  13 35  18 04  22 16  23 24  00 00
            30   03 28  04 45  13 35  18 04  22 16  23 24  00 00
 
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 54  05 25  13 38  17 53  21 41  23 03  00 00
            31   03 55  05 27  13 38  17 53  21 40  23 01  00 00
 
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 16  06 22  13 33  17 18  20 33  22 29  00 00
            31   04 17  06 24  13 32  17 16  20 31  22 26  00 00
 
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 22  07 18  13 22  16 26  19 17  20 57  00 00
            30   05 25  07 20  13 22  16 24  19 14  20 54  00 00
 
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 23  07 18  12 15  14 29  17 02  18 44  00 00
            31   05 25  07 20  12 15  14 27  17 00  18 42  00 00
 
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 11  08 16  12 20  13 53  16 13  18 05  00 00
            30   06 12  08 18  12 20  13 52  16 12  18 04  00 00
 
-                              WESTERLAND_N           
+                              WESTERLAND           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

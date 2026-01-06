@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 05  07 45  12 40  14 58  17 24  18 52  00 00
            31   06 04  07 44  12 40  14 59  17 26  18 54  00 00
 
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 24  07 00  12 39  15 33  18 08  19 33  00 00
            28   05 22  06 58  12 39  15 34  18 10  19 34  00 00
 
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 17  06 58  13 31  17 01  19 54  21 22  00 00
            31   05 14  06 56  13 31  17 02  19 56  21 24  00 00
 
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 00  06 00  13 24  17 20  20 38  22 20  00 00
            30   03 58  05 58  13 24  17 21  20 39  22 22  00 00
 
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 42  05 21  13 24  17 35  21 17  22 52  00 00
            31   03 42  05 20  13 24  17 36  21 18  22 52  00 00
 
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 36  05 18  13 30  17 44  21 32  22 59  00 00
            30   03 37  05 18  13 30  17 44  21 32  22 59  00 00
 
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 50  05 48  13 33  17 38  21 08  22 46  00 00
            31   03 50  05 49  13 33  17 38  21 07  22 45  00 00
 
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 42  06 29  13 27  17 11  20 15  21 48  00 00
            31   04 43  06 31  13 27  17 10  20 13  21 46  00 00
 
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 33  07 10  13 17  16 30  19 13  20 38  00 00
            30   05 35  07 12  13 17  16 28  19 11  20 36  00 00
 
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 18  06 56  12 10  14 44  17 14  18 40  00 00
            31   05 19  06 57  12 10  14 43  17 13  18 39  00 00
 
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 56  07 40  12 15  14 17  16 39  18 11  00 00
            30   05 57  07 41  12 15  14 16  16 38  18 11  00 00
 
-                              BAD-SCHUSSENRIED_N           
+                              BAD-SCHUSSENRIED           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

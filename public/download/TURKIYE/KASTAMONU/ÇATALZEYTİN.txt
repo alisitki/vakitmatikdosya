@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 22  07 51  13 01  15 37  18 02  19 25  00 00
            31   06 21  07 50  13 02  15 38  18 03  19 26  00 00
 
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 49  07 15  13 01  16 04  18 37  19 57  00 00
            28   05 48  07 13  13 01  16 05  18 38  19 58  00 00
 
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 55  06 23  12 53  16 24  19 13  20 35  00 00
            31   04 53  06 21  12 52  16 25  19 14  20 37  00 00
 
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 55  05 35  12 46  16 36  19 46  21 19  00 00
            30   03 54  05 34  12 45  16 37  19 47  21 20  00 00
 
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 06  05 04  12 46  16 46  20 17  22 06  00 00
            31   03 05  05 04  12 46  16 46  20 18  22 08  00 00
 
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   02 59  05 04  12 52  16 53  20 30  22 24  00 00
            30   03 00  05 04  12 52  16 53  20 30  22 24  00 00
 
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 39  05 27  12 55  16 51  20 12  21 53  00 00
            31   03 40  05 28  12 55  16 51  20 11  21 51  00 00
 
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 27  05 59  12 49  16 31  19 29  20 55  00 00
            31   04 28  06 00  12 49  16 30  19 27  20 53  00 00
 
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 05  06 31  12 39  15 57  18 37  19 57  00 00
            30   05 06  06 32  12 38  15 56  18 35  19 55  00 00
 
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 39  07 06  12 32  15 20  17 48  19 10  00 00
            31   05 40  07 07  12 32  15 19  17 47  19 08  00 00
 
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 10  07 42  12 36  14 59  17 21  18 47  00 00
            30   06 11  07 43  12 37  14 59  17 20  18 47  00 00
 
-                              ÇATALZEYTİN_N           
+                              ÇATALZEYTİN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

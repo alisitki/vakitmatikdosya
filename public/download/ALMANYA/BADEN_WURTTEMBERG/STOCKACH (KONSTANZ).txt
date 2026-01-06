@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 07  07 47  12 42  15 01  17 27  18 55  00 00
            31   06 06  07 46  12 42  15 02  17 29  18 56  00 00
 
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 26  07 02  12 42  15 35  18 11  19 35  00 00
            28   05 25  07 00  12 42  15 36  18 13  19 37  00 00
 
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 20  07 00  13 34  17 04  19 57  21 24  00 00
            31   05 17  06 58  13 33  17 05  19 58  21 26  00 00
 
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 04  06 03  13 26  17 23  20 40  22 22  00 00
            30   04 01  06 01  13 26  17 23  20 41  22 24  00 00
 
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 43  05 24  13 26  17 38  21 19  22 55  00 00
            31   03 43  05 23  13 27  17 38  21 20  22 56  00 00
 
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 37  05 21  13 32  17 46  21 34  23 03  00 00
            30   03 38  05 21  13 33  17 46  21 34  23 02  00 00
 
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 51  05 51  13 35  17 40  21 10  22 49  00 00
            31   03 52  05 52  13 35  17 40  21 09  22 49  00 00
 
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 45  06 32  13 30  17 14  20 17  21 50  00 00
            31   04 47  06 33  13 29  17 13  20 16  21 48  00 00
 
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 36  07 13  13 19  16 33  19 16  20 40  00 00
            30   05 38  07 14  13 19  16 31  19 14  20 38  00 00
 
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 20  06 58  12 13  14 47  17 17  18 43  00 00
            31   05 22  06 59  12 13  14 46  17 16  18 41  00 00
 
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 58  07 42  12 17  14 20  16 42  18 14  00 00
            30   05 59  07 43  12 17  14 20  16 42  18 13  00 00
 
-                              STOCKACH (KONSTANZ)_N           
+                              STOCKACH (KONSTANZ)           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

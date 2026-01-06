@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 53  08 19  13 34  16 15  18 39  20 00  00 00
            31   06 52  08 18  13 34  16 16  18 40  20 01  00 00
 
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 23  07 45  13 34  16 40  19 12  20 29  00 00
            28   06 21  07 44  13 33  16 40  19 13  20 30  00 00
 
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 32  06 57  13 25  16 57  19 44  21 04  00 00
            31   05 30  06 55  13 25  16 58  19 45  21 05  00 00
 
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 37  06 12  13 18  17 06  20 14  21 43  00 00
            30   04 35  06 11  13 18  17 07  20 15  21 44  00 00
 
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 53  05 44  13 18  17 14  20 43  22 25  00 00
            31   03 52  05 43  13 18  17 15  20 44  22 26  00 00
 
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 48  05 43  13 24  17 21  20 55  22 41  00 00
            30   03 49  05 44  13 24  17 22  20 55  22 41  00 00
 
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 23  06 05  13 27  17 20  20 39  22 14  00 00
            31   04 25  06 06  13 27  17 20  20 38  22 13  00 00
 
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   05 06  06 35  13 22  17 02  19 59  21 21  00 00
            31   05 07  06 35  13 21  17 01  19 57  21 20  00 00
 
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 40  07 03  13 11  16 31  19 10  20 27  00 00
            30   05 41  07 04  13 11  16 30  19 08  20 26  00 00
 
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   06 11  07 35  13 04  15 57  18 24  19 43  00 00
            31   06 12  07 36  13 04  15 56  18 23  19 42  00 00
 
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 40  08 08  13 09  15 37  17 59  19 23  00 00
            30   06 41  08 09  13 09  15 37  17 59  19 22  00 00
 
-                              BOZCAADA_N           
+                              BOZCAADA           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

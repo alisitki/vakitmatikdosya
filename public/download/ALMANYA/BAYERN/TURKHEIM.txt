@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 01  07 41  12 36  14 54  17 20  18 48  00 00
            31   06 00  07 40  12 36  14 55  17 22  18 50  00 00
 
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 20  06 56  12 35  15 29  18 04  19 29  00 00
            28   05 18  06 54  12 35  15 30  18 06  19 30  00 00
 
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 13  06 54  13 27  16 57  19 51  21 18  00 00
            31   05 10  06 52  13 27  16 58  19 52  21 20  00 00
 
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 56  05 56  13 20  17 16  20 34  22 16  00 00
            30   03 53  05 54  13 20  17 17  20 35  22 19  00 00
 
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 39  05 17  13 20  17 32  21 13  22 47  00 00
            31   03 39  05 16  13 20  17 32  21 14  22 48  00 00
 
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 33  05 13  13 26  17 40  21 28  22 55  00 00
            30   03 33  05 14  13 26  17 40  21 28  22 54  00 00
 
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 46  05 44  13 29  17 34  21 04  22 42  00 00
            31   03 47  05 45  13 29  17 34  21 03  22 41  00 00
 
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 37  06 25  13 23  17 07  20 11  21 44  00 00
            31   04 39  06 27  13 23  17 06  20 09  21 42  00 00
 
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 29  07 06  13 13  16 26  19 10  20 34  00 00
            30   05 31  07 08  13 13  16 24  19 07  20 32  00 00
 
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 14  06 52  12 06  14 40  17 10  18 36  00 00
            31   05 15  06 53  12 06  14 39  17 09  18 35  00 00
 
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 52  07 36  12 11  14 13  16 35  18 07  00 00
            30   05 53  07 38  12 11  14 12  16 34  18 07  00 00
 
-                              TURKHEIM_N           
+                              TURKHEIM           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

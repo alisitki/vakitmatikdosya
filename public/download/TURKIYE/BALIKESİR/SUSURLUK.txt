@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 45  08 11  13 26  16 06  18 30  19 51  00 00
            31   06 44  08 10  13 26  16 07  18 32  19 52  00 00
 
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 14  07 37  13 25  16 31  19 03  20 21  00 00
            28   06 13  07 36  13 25  16 32  19 04  20 22  00 00
 
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 23  06 48  13 17  16 49  19 36  20 55  00 00
            31   05 21  06 47  13 17  16 49  19 37  20 57  00 00
 
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 28  06 04  13 10  16 58  20 06  21 35  00 00
            30   04 27  06 02  13 10  16 58  20 07  21 36  00 00
 
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 44  05 35  13 10  17 06  20 35  22 17  00 00
            31   03 44  05 35  13 10  17 06  20 36  22 18  00 00
 
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 39  05 35  13 16  17 13  20 47  22 34  00 00
            30   03 40  05 35  13 16  17 13  20 47  22 34  00 00
 
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 14  05 57  13 19  17 12  20 31  22 06  00 00
            31   04 16  05 58  13 19  17 12  20 30  22 05  00 00
 
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 57  06 26  13 13  16 54  19 50  21 13  00 00
            31   04 58  06 27  13 13  16 53  19 49  21 12  00 00
 
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 31  06 54  13 03  16 23  19 01  20 19  00 00
            30   05 32  06 55  13 03  16 22  19 00  20 18  00 00
 
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   06 02  07 27  12 56  15 48  18 16  19 35  00 00
            31   06 03  07 28  12 56  15 47  18 14  19 33  00 00
 
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 32  08 00  13 01  15 29  17 51  19 14  00 00
            30   06 32  08 01  13 01  15 29  17 50  19 14  00 00
 
-                              SUSURLUK_N           
+                              SUSURLUK           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

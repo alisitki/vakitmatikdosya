@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 16  07 59  12 49  15 03  17 30  19 01  00 00
            31   06 14  07 58  12 50  15 05  17 31  19 02  00 00
 
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 32  07 12  12 49  15 40  18 17  19 43  00 00
            28   05 31  07 10  12 49  15 41  18 18  19 45  00 00
 
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 22  07 06  13 41  17 11  20 05  21 36  00 00
            31   05 20  07 04  13 41  17 11  20 07  21 38  00 00
 
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 06  06 06  13 34  17 31  20 51  22 38  00 00
            30   04 06  06 05  13 34  17 32  20 52  22 41  00 00
 
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 51  05 25  13 34  17 48  21 33  22 58  00 00
            31   03 50  05 24  13 34  17 48  21 34  22 59  00 00
 
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 50  05 21  13 40  17 57  21 48  23 09  00 00
            30   03 50  05 22  13 40  17 57  21 48  23 09  00 00
 
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 05  05 53  13 43  17 50  21 23  22 56  00 00
            31   04 05  05 54  13 43  17 49  21 21  22 55  00 00
 
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 45  06 37  13 37  17 21  20 27  22 04  00 00
            31   04 47  06 38  13 37  17 20  20 25  22 01  00 00
 
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 41  07 21  13 27  16 38  19 23  20 50  00 00
            30   05 42  07 22  13 26  16 37  19 21  20 48  00 00
 
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 28  07 09  12 20  14 51  17 21  18 50  00 00
            31   05 29  07 10  12 20  14 49  17 20  18 48  00 00
 
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 07  07 55  12 24  14 21  16 44  18 19  00 00
            30   06 09  07 57  12 25  14 21  16 43  18 18  00 00
 
-                              WIEBELSKIRCHEN_N           
+                              WIEBELSKIRCHEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

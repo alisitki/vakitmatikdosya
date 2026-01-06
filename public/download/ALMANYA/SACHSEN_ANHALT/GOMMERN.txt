@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 59  07 50  12 31  14 35  17 02  18 40  00 00
            31   05 58  07 48  12 31  14 37  17 04  18 41  00 00
 
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 11  06 57  12 30  15 15  17 54  19 27  00 00
            28   05 09  06 55  12 30  15 17  17 56  19 28  00 00
 
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 54  06 46  13 22  16 51  19 49  21 26  00 00
            31   04 51  06 44  13 22  16 52  19 50  21 28  00 00
 
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 42  05 40  13 15  17 15  20 40  22 25  00 00
            30   03 41  05 38  13 15  17 16  20 42  22 26  00 00
 
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 21  04 53  13 15  17 34  21 27  22 49  00 00
            31   03 21  04 52  13 15  17 35  21 28  22 50  00 00
 
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 21  04 48  13 21  17 44  21 44  23 02  00 00
            30   03 21  04 49  13 21  17 44  21 44  23 02  00 00
 
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 41  05 24  13 24  17 35  21 15  22 46  00 00
            31   03 42  05 25  13 24  17 35  21 13  22 45  00 00
 
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 11  06 14  13 19  17 03  20 13  21 58  00 00
            31   04 14  06 15  13 18  17 02  20 11  21 55  00 00
 
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 16  07 03  13 08  16 16  19 04  20 37  00 00
            30   05 18  07 04  13 08  16 14  19 01  20 34  00 00
 
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 09  06 57  12 01  14 24  16 56  18 31  00 00
            31   05 11  06 58  12 01  14 23  16 54  18 29  00 00
 
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 53  07 48  12 06  13 52  16 13  17 56  00 00
            30   05 54  07 50  12 06  13 51  16 13  17 55  00 00
 
-                              GOMMERN_N           
+                              GOMMERN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

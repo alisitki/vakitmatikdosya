@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 07  07 58  12 39  14 43  17 10  18 48  00 00
            31   06 06  07 56  12 39  14 44  17 11  18 49  00 00
 
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 19  07 05  12 38  15 23  18 02  19 35  00 00
            28   05 17  07 03  12 38  15 24  18 04  19 36  00 00
 
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 01  06 54  13 30  16 58  19 57  21 34  00 00
            31   04 58  06 51  13 30  16 59  19 59  21 37  00 00
 
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 53  05 48  13 23  17 23  20 48  22 30  00 00
            30   03 53  05 46  13 23  17 24  20 50  22 30  00 00
 
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 33  05 00  13 23  17 42  21 36  22 53  00 00
            31   03 33  04 59  13 23  17 43  21 37  22 54  00 00
 
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 32  04 55  13 29  17 52  21 53  23 06  00 00
            30   03 33  04 56  13 29  17 52  21 53  23 06  00 00
 
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 54  05 31  13 32  17 43  21 23  22 50  00 00
            31   03 54  05 33  13 32  17 43  21 22  22 49  00 00
 
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 18  06 21  13 26  17 11  20 22  22 07  00 00
            31   04 21  06 23  13 26  17 10  20 19  22 04  00 00
 
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 24  07 11  13 16  16 24  19 11  20 45  00 00
            30   05 25  07 12  13 16  16 22  19 09  20 42  00 00
 
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 17  07 05  12 09  14 32  17 04  18 38  00 00
            31   05 19  07 07  12 09  14 30  17 02  18 37  00 00
 
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 01  07 57  12 14  13 59  16 21  18 03  00 00
            30   06 02  07 58  12 14  13 58  16 20  18 03  00 00
 
-                              SARSTEDT_N           
+                              SARSTEDT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

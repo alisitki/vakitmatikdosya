@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 37  08 04  13 18  15 57  18 21  19 43  00 00
            31   06 36  08 03  13 18  15 58  18 22  19 44  00 00
 
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 06  07 30  13 17  16 22  18 55  20 13  00 00
            28   06 05  07 28  13 17  16 23  18 56  20 14  00 00
 
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 14  06 40  13 09  16 41  19 28  20 49  00 00
            31   05 12  06 38  13 09  16 41  19 29  20 50  00 00
 
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 18  05 54  13 02  16 51  19 59  21 29  00 00
            30   04 16  05 53  13 02  16 51  20 00  21 31  00 00
 
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 33  05 25  13 02  16 59  20 29  22 13  00 00
            31   03 32  05 25  13 02  17 00  20 29  22 14  00 00
 
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 27  05 25  13 08  17 06  20 41  22 30  00 00
            30   03 27  05 25  13 08  17 07  20 41  22 30  00 00
 
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 03  05 47  13 11  17 05  20 24  22 01  00 00
            31   04 05  05 48  13 11  17 05  20 23  22 00  00 00
 
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 47  06 17  13 05  16 46  19 43  21 07  00 00
            31   04 49  06 18  13 05  16 45  19 41  21 05  00 00
 
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 23  06 46  12 55  16 14  18 53  20 12  00 00
            30   05 24  06 47  12 55  16 13  18 52  20 10  00 00
 
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 55  07 20  12 48  15 39  18 07  19 26  00 00
            31   05 56  07 21  12 48  15 38  18 05  19 25  00 00
 
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 24  07 54  12 52  15 19  17 41  19 05  00 00
            30   06 25  07 55  12 53  15 19  17 41  19 05  00 00
 
-                              PAMUKOVA_N           
+                              PAMUKOVA           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

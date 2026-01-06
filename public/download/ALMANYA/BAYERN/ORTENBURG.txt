@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 51  07 32  12 25  14 42  17 08  18 38  00 00
            31   05 50  07 31  12 25  14 43  17 10  18 39  00 00
 
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 09  06 46  12 25  15 17  17 53  19 19  00 00
            28   05 07  06 44  12 25  15 18  17 55  19 20  00 00
 
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 01  06 43  13 17  16 47  19 41  21 09  00 00
            31   04 58  06 41  13 16  16 47  19 42  21 11  00 00
 
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 49  05 44  13 10  17 07  20 25  22 09  00 00
            30   03 49  05 43  13 09  17 07  20 26  22 11  00 00
 
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 38  05 04  13 10  17 22  21 05  22 29  00 00
            31   03 38  05 03  13 10  17 22  21 06  22 29  00 00
 
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 33  05 01  13 16  17 31  21 20  22 36  00 00
            30   03 33  05 01  13 16  17 31  21 20  22 35  00 00
 
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 44  05 31  13 19  17 25  20 56  22 24  00 00
            31   03 45  05 33  13 19  17 24  20 54  22 23  00 00
 
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 25  06 14  13 13  16 57  20 02  21 36  00 00
            31   04 27  06 15  13 13  16 56  20 00  21 34  00 00
 
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 18  06 56  13 03  16 15  18 59  20 25  00 00
            30   05 20  06 58  13 02  16 13  18 57  20 22  00 00
 
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 04  06 43  11 56  14 29  16 59  18 26  00 00
            31   05 05  06 44  11 56  14 27  16 57  18 24  00 00
 
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 42  07 28  12 00  14 00  16 23  17 56  00 00
            30   05 43  07 29  12 01  14 00  16 22  17 55  00 00
 
-                              ORTENBURG_N           
+                              ORTENBURG           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

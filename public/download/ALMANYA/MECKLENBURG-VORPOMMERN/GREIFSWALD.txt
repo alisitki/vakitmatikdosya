@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 54  07 51  12 25  14 21  16 49  18 32  00 00
            31   05 53  07 49  12 25  14 23  16 51  18 33  00 00
 
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 03  06 54  12 24  15 05  17 45  19 22  00 00
            28   05 00  06 51  12 24  15 06  17 47  19 24  00 00
 
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 39  06 38  13 16  16 43  19 44  21 27  00 00
            31   04 36  06 35  13 16  16 44  19 46  21 30  00 00
 
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 36  05 28  13 09  17 11  20 40  22 19  00 00
            30   03 35  05 25  13 09  17 11  20 42  22 19  00 00
 
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 11  04 36  13 09  17 32  21 32  22 47  00 00
            31   03 11  04 35  13 09  17 32  21 33  22 48  00 00
 
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 10  04 30  13 15  17 42  21 50  23 01  00 00
            30   03 10  04 30  13 15  17 42  21 50  23 01  00 00
 
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 35  05 09  13 18  17 32  21 17  22 41  00 00
            31   03 36  05 10  13 18  17 31  21 15  22 40  00 00
 
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   03 56  06 03  13 12  16 57  20 11  22 04  00 00
            31   03 57  06 05  13 12  16 56  20 09  22 01  00 00
 
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 05  06 57  13 02  16 07  18 57  20 35  00 00
            30   05 07  06 59  13 02  16 05  18 54  20 32  00 00
 
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 03  06 56  11 55  14 12  16 45  18 24  00 00
            31   05 04  06 58  11 55  14 10  16 43  18 22  00 00
 
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 49  07 52  12 00  13 36  15 57  17 46  00 00
            30   05 50  07 53  12 00  13 36  15 57  17 45  00 00
 
-                              GREIFSWALD_N           
+                              GREIFSWALD           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

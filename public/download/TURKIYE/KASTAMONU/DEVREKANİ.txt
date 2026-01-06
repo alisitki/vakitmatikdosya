@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 23  07 52  13 03  15 39  18 04  19 27  00 00
            31   06 23  07 51  13 03  15 40  18 05  19 28  00 00
 
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 51  07 16  13 02  16 06  18 39  19 59  00 00
            28   05 49  07 15  13 02  16 07  18 40  20 00  00 00
 
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 57  06 25  12 54  16 26  19 14  20 36  00 00
            31   04 55  06 23  12 54  16 26  19 15  20 37  00 00
 
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 58  05 38  12 47  16 37  19 47  21 19  00 00
            30   03 57  05 36  12 47  16 38  19 48  21 20  00 00
 
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 10  05 07  12 47  16 47  20 17  22 05  00 00
            31   03 09  05 07  12 47  16 47  20 18  22 07  00 00
 
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 03  05 06  12 53  16 54  20 30  22 23  00 00
            30   03 04  05 07  12 53  16 54  20 30  22 23  00 00
 
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 42  05 30  12 56  16 52  20 12  21 52  00 00
            31   03 44  05 31  12 56  16 52  20 11  21 51  00 00
 
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 29  06 01  12 50  16 32  19 30  20 56  00 00
            31   04 31  06 02  12 50  16 31  19 28  20 54  00 00
 
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 06  06 32  12 40  15 59  18 38  19 58  00 00
            30   05 08  06 33  12 40  15 58  18 37  19 57  00 00
 
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 40  07 07  12 33  15 22  17 50  19 11  00 00
            31   05 41  07 08  12 33  15 21  17 49  19 10  00 00
 
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 11  07 42  12 38  15 01  17 23  18 49  00 00
            30   06 12  07 43  12 38  15 01  17 23  18 49  00 00
 
-                              DEVREKANİ_N           
+                              DEVREKANİ           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

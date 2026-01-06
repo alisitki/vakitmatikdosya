@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 04  07 49  12 37  14 49  17 15  18 48  00 00
            31   06 03  07 48  12 37  14 50  17 17  18 50  00 00
 
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 20  07 00  12 37  15 26  18 03  19 32  00 00
            28   05 18  06 58  12 37  15 27  18 05  19 33  00 00
 
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 08  06 54  13 29  16 58  19 54  21 26  00 00
            31   05 05  06 52  13 28  16 59  19 55  21 28  00 00
 
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 54  05 52  13 22  17 20  20 41  22 28  00 00
            30   03 54  05 51  13 21  17 21  20 42  22 28  00 00
 
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 38  05 09  13 22  17 37  21 24  22 46  00 00
            31   03 37  05 09  13 22  17 37  21 25  22 47  00 00
 
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 37  05 06  13 28  17 46  21 40  22 58  00 00
            30   03 38  05 06  13 28  17 46  21 39  22 58  00 00
 
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 54  05 38  13 31  17 39  21 13  22 44  00 00
            31   03 55  05 39  13 31  17 38  21 12  22 44  00 00
 
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 29  06 24  13 25  17 09  20 16  21 55  00 00
            31   04 31  06 25  13 25  17 08  20 14  21 52  00 00
 
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 27  07 09  13 15  16 25  19 11  20 39  00 00
            30   05 29  07 10  13 14  16 24  19 08  20 37  00 00
 
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 16  06 58  12 08  14 37  17 08  18 37  00 00
            31   05 17  07 00  12 08  14 35  17 06  18 36  00 00
 
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 56  07 46  12 12  14 07  16 29  18 05  00 00
            30   05 57  07 47  12 13  14 06  16 28  18 05  00 00
 
-                              SCHWEINFURT_N           
+                              SCHWEINFURT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 01  07 49  12 34  14 42  17 08  18 44  00 00
            31   06 00  07 48  12 34  14 43  17 10  18 45  00 00
 
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 15  06 58  12 33  15 20  17 58  19 29  00 00
            28   05 13  06 56  12 33  15 22  18 00  19 30  00 00
 
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 00  06 49  13 25  16 54  19 51  21 26  00 00
            31   04 57  06 47  13 25  16 55  19 52  21 28  00 00
 
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 48  05 46  13 18  17 17  20 40  22 25  00 00
            30   03 47  05 44  13 18  17 18  20 42  22 26  00 00
 
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 29  05 01  13 18  17 35  21 25  22 47  00 00
            31   03 28  05 00  13 18  17 36  21 27  22 48  00 00
 
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 29  04 56  13 24  17 45  21 42  23 00  00 00
            30   03 29  04 57  13 24  17 45  21 42  23 00  00 00
 
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 48  05 30  13 27  17 37  21 14  22 44  00 00
            31   03 48  05 32  13 27  17 36  21 12  22 44  00 00
 
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 19  06 18  13 21  17 06  20 15  21 56  00 00
            31   04 22  06 20  13 21  17 05  20 12  21 54  00 00
 
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 21  07 05  13 11  16 20  19 07  20 38  00 00
            30   05 23  07 07  13 11  16 18  19 04  20 35  00 00
 
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 12  06 57  12 04  14 30  17 01  18 34  00 00
            31   05 14  06 59  12 04  14 28  17 00  18 32  00 00
 
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 54  07 47  12 09  13 58  16 20  18 00  00 00
            30   05 55  07 48  12 09  13 58  16 20  18 00  00 00
 
-                              SOMMERDA_N           
+                              SOMMERDA           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

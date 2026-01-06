@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 12  08 06  12 44  14 44  17 11  18 52  00 00
            31   06 11  08 05  12 44  14 46  17 13  18 53  00 00
 
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 23  07 11  12 43  15 26  18 05  19 40  00 00
            28   05 21  07 09  12 43  15 27  18 07  19 42  00 00
 
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 02  06 58  13 35  17 03  20 03  21 43  00 00
            31   04 59  06 55  13 35  17 04  20 04  21 45  00 00
 
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 59  05 50  13 28  17 29  20 56  22 34  00 00
            30   03 58  05 48  13 28  17 30  20 58  22 35  00 00
 
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 37  05 00  13 28  17 49  21 46  23 00  00 00
            31   03 36  04 59  13 28  17 50  21 47  23 01  00 00
 
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 36  04 55  13 34  17 59  22 03  23 14  00 00
            30   03 36  04 55  13 34  17 59  22 03  23 13  00 00
 
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 59  05 32  13 37  17 50  21 32  22 55  00 00
            31   04 00  05 34  13 37  17 49  21 30  22 54  00 00
 
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 18  06 24  13 31  17 16  20 28  22 17  00 00
            31   04 20  06 26  13 31  17 15  20 26  22 14  00 00
 
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 26  07 16  13 21  16 27  19 16  20 52  00 00
            30   05 28  07 18  13 21  16 26  19 14  20 49  00 00
 
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 22  07 12  12 14  14 34  17 06  18 43  00 00
            31   05 24  07 14  12 14  14 32  17 04  18 41  00 00
 
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 07  08 06  12 19  14 00  16 21  18 07  00 00
            30   06 08  08 08  12 19  13 59  16 20  18 06  00 00
 
-                              LEMWERDER_N           
+                              LEMWERDER           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

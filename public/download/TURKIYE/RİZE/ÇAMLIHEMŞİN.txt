@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 54  07 22  12 34  15 12  17 36  18 59  00 00
            31   05 53  07 21  12 34  15 13  17 38  19 00  00 00
 
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 22  06 47  12 34  15 38  18 11  19 30  00 00
            28   05 21  06 45  12 34  15 39  18 12  19 31  00 00
 
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 29  05 56  12 26  15 57  18 45  20 06  00 00
            31   04 27  05 55  12 25  15 58  18 46  20 07  00 00
 
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 32  05 10  12 18  16 08  19 17  20 48  00 00
            30   03 30  05 09  12 18  16 08  19 18  20 49  00 00
 
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   02 45  04 40  12 19  16 17  19 47  21 33  00 00
            31   02 44  04 40  12 19  16 17  19 48  21 34  00 00
 
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   02 39  04 39  12 24  16 24  19 59  21 50  00 00
            30   02 40  04 40  12 25  16 24  19 59  21 50  00 00
 
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 17  05 03  12 27  16 22  19 42  21 21  00 00
            31   03 18  05 04  12 27  16 22  19 41  21 19  00 00
 
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 02  05 33  12 22  16 03  19 00  20 25  00 00
            31   04 04  05 34  12 21  16 02  18 59  20 23  00 00
 
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   04 39  06 03  12 11  15 31  18 10  19 29  00 00
            30   04 40  06 04  12 11  15 29  18 08  19 27  00 00
 
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 11  06 37  12 05  14 55  17 22  18 43  00 00
            31   05 12  06 38  12 05  14 54  17 21  18 42  00 00
 
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 42  07 12  12 09  14 34  16 56  18 21  00 00
            30   05 42  07 13  12 09  14 34  16 56  18 21  00 00
 
-                              ÇAMLIHEMŞİN_N           
+                              ÇAMLIHEMŞİN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

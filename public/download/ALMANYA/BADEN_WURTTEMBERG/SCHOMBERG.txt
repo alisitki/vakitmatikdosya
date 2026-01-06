@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 09  07 51  12 44  15 00  17 26  18 56  00 00
            31   06 08  07 50  12 44  15 01  17 27  18 57  00 00
 
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 27  07 05  12 43  15 35  18 11  19 37  00 00
            28   05 25  07 03  12 43  15 36  18 13  19 39  00 00
 
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 18  07 01  13 35  17 05  19 59  21 28  00 00
            31   05 16  06 59  13 35  17 06  20 00  21 30  00 00
 
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 05  06 02  13 28  17 25  20 44  22 29  00 00
            30   04 05  06 00  13 28  17 26  20 45  22 31  00 00
 
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 52  05 21  13 28  17 41  21 24  22 48  00 00
            31   03 52  05 21  13 28  17 41  21 25  22 49  00 00
 
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 49  05 18  13 34  17 50  21 40  22 58  00 00
            30   03 50  05 19  13 34  17 50  21 39  22 58  00 00
 
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 03  05 49  13 37  17 43  21 15  22 45  00 00
            31   04 03  05 50  13 37  17 43  21 13  22 44  00 00
 
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 42  06 32  13 31  17 15  20 20  21 55  00 00
            31   04 44  06 33  13 31  17 14  20 18  21 53  00 00
 
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 36  07 15  13 21  16 33  19 17  20 43  00 00
            30   05 37  07 16  13 21  16 31  19 15  20 41  00 00
 
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 22  07 01  12 14  14 46  17 17  18 44  00 00
            31   05 23  07 03  12 14  14 45  17 15  18 43  00 00
 
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 01  07 47  12 19  14 18  16 40  18 14  00 00
            30   06 02  07 48  12 19  14 17  16 39  18 13  00 00
 
-                              SCHOMBERG_N           
+                              SCHOMBERG           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

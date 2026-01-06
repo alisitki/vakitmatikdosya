@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 11  07 55  12 44  14 58  17 24  18 56  00 00
            31   06 09  07 53  12 44  14 59  17 26  18 57  00 00
 
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 27  07 07  12 44  15 34  18 11  19 38  00 00
            28   05 25  07 05  12 44  15 35  18 13  19 40  00 00
 
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 16  07 01  13 36  17 05  20 00  21 31  00 00
            31   05 14  06 59  13 35  17 06  20 02  21 33  00 00
 
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 01  06 01  13 29  17 26  20 46  22 35  00 00
            30   04 00  05 59  13 28  17 27  20 48  22 37  00 00
 
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 45  05 19  13 29  17 43  21 29  22 54  00 00
            31   03 44  05 18  13 29  17 43  21 30  22 54  00 00
 
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 44  05 15  13 35  17 52  21 44  23 05  00 00
            30   03 44  05 15  13 35  17 52  21 44  23 05  00 00
 
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 59  05 47  13 38  17 45  21 18  22 51  00 00
            31   04 00  05 48  13 38  17 45  21 17  22 51  00 00
 
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 39  06 31  13 32  17 16  20 22  22 00  00 00
            31   04 41  06 33  13 32  17 15  20 20  21 57  00 00
 
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 35  07 15  13 22  16 33  19 18  20 45  00 00
            30   05 37  07 17  13 21  16 31  19 16  20 43  00 00
 
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 23  07 04  12 15  14 45  17 16  18 45  00 00
            31   05 24  07 06  12 15  14 43  17 14  18 43  00 00
 
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 03  07 51  12 19  14 15  16 38  18 13  00 00
            30   06 04  07 52  12 20  14 15  16 37  18 13  00 00
 
-                              LAMPERTHEIM_N           
+                              LAMPERTHEIM           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 55  07 41  12 28  14 37  17 04  18 38  00 00
            31   05 53  07 40  12 28  14 39  17 06  18 39  00 00
 
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 09  06 51  12 27  15 15  17 53  19 22  00 00
            28   05 07  06 49  12 27  15 17  17 55  19 24  00 00
 
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 56  06 44  13 19  16 48  19 44  21 18  00 00
            31   04 53  06 42  13 19  16 49  19 46  21 20  00 00
 
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 41  05 41  13 12  17 11  20 32  22 20  00 00
            30   03 41  05 39  13 12  17 11  20 34  22 20  00 00
 
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 23  04 57  13 12  17 28  21 17  22 40  00 00
            31   03 23  04 56  13 12  17 29  21 18  22 41  00 00
 
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 23  04 53  13 18  17 37  21 33  22 52  00 00
            30   03 24  04 54  13 18  17 37  21 32  22 52  00 00
 
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 41  05 26  13 21  17 30  21 05  22 38  00 00
            31   03 42  05 28  13 21  17 29  21 04  22 37  00 00
 
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 17  06 13  13 15  17 00  20 07  21 48  00 00
            31   04 19  06 15  13 15  16 59  20 05  21 45  00 00
 
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 16  06 59  13 05  16 15  19 01  20 30  00 00
            30   05 18  07 01  13 05  16 13  18 59  20 28  00 00
 
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 06  06 50  11 58  14 25  16 57  18 28  00 00
            31   05 08  06 51  11 58  14 24  16 55  18 26  00 00
 
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 47  07 38  12 03  13 55  16 17  17 55  00 00
            30   05 48  07 40  12 03  13 54  16 16  17 54  00 00
 
-                              SCHNEEBERG_N           
+                              SCHNEEBERG           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

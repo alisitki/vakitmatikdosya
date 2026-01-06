@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 06  07 51  12 40  14 52  17 19  18 51  00 00
            31   06 05  07 50  12 40  14 54  17 20  18 52  00 00
 
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 22  07 02  12 39  15 29  18 06  19 34  00 00
            28   05 20  07 00  12 39  15 30  18 08  19 35  00 00
 
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 11  06 56  13 31  17 01  19 56  21 27  00 00
            31   05 08  06 54  13 31  17 01  19 57  21 29  00 00
 
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 55  05 55  13 24  17 22  20 43  22 32  00 00
            30   03 55  05 54  13 24  17 23  20 44  22 32  00 00
 
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 39  05 13  13 24  17 39  21 25  22 50  00 00
            31   03 38  05 12  13 24  17 39  21 26  22 51  00 00
 
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 38  05 09  13 30  17 48  21 41  23 02  00 00
            30   03 39  05 10  13 30  17 48  21 41  23 02  00 00
 
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 55  05 41  13 33  17 41  21 15  22 48  00 00
            31   03 55  05 43  13 33  17 40  21 13  22 47  00 00
 
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 33  06 26  13 27  17 12  20 18  21 56  00 00
            31   04 35  06 28  13 27  17 11  20 16  21 54  00 00
 
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 30  07 11  13 17  16 28  19 13  20 41  00 00
            30   05 32  07 12  13 17  16 26  19 11  20 39  00 00
 
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 18  07 00  12 10  14 40  17 11  18 40  00 00
            31   05 20  07 02  12 10  14 38  17 09  18 38  00 00
 
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 58  07 47  12 15  14 10  16 32  18 08  00 00
            30   06 00  07 49  12 15  14 09  16 31  18 08  00 00
 
-                              MARKTHEIDENFELD_N           
+                              MARKTHEIDENFELD           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

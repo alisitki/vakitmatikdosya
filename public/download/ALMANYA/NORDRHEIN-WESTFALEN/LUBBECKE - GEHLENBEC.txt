@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 12  08 03  12 44  14 47  17 14  18 52  00 00
            31   06 11  08 02  12 44  14 49  17 16  18 54  00 00
 
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 24  07 10  12 43  15 28  18 07  19 40  00 00
            28   05 22  07 08  12 43  15 29  18 09  19 41  00 00
 
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 06  06 59  13 35  17 03  20 02  21 40  00 00
            31   05 03  06 56  13 35  17 04  20 04  21 42  00 00
 
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 54  05 52  13 28  17 28  20 54  22 38  00 00
            30   03 54  05 50  13 28  17 29  20 55  22 39  00 00
 
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 33  05 05  13 28  17 47  21 41  23 03  00 00
            31   03 33  05 04  13 28  17 48  21 42  23 03  00 00
 
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 33  05 00  13 34  17 57  21 58  23 16  00 00
            30   03 33  05 00  13 34  17 57  21 58  23 15  00 00
 
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 54  05 36  13 37  17 48  21 28  22 59  00 00
            31   03 54  05 37  13 37  17 48  21 27  22 58  00 00
 
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 23  06 26  13 31  17 16  20 27  22 12  00 00
            31   04 25  06 28  13 31  17 15  20 24  22 09  00 00
 
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 28  07 16  13 21  16 29  19 16  20 50  00 00
            30   05 30  07 17  13 21  16 27  19 14  20 47  00 00
 
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 22  07 10  12 14  14 36  17 09  18 43  00 00
            31   05 24  07 12  12 14  14 35  17 07  18 42  00 00
 
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 06  08 02  12 19  14 04  16 25  18 08  00 00
            30   06 07  08 04  12 19  14 03  16 24  18 08  00 00
 
-                              LUBBECKE - GEHLENBEC_N           
+                              LUBBECKE - GEHLENBEC           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

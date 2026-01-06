@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 09  08 06  12 40  14 36  17 03  18 47  00 00
            31   06 08  08 04  12 40  14 38  17 05  18 48  00 00
 
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 18  07 08  12 39  15 19  18 00  19 37  00 00
            28   05 15  07 06  12 39  15 21  18 02  19 39  00 00
 
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 54  06 53  13 31  16 58  19 59  21 42  00 00
            31   04 50  06 50  13 31  16 59  20 01  21 45  00 00
 
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 51  05 42  13 24  17 26  20 55  22 34  00 00
            30   03 50  05 40  13 24  17 26  20 57  22 34  00 00
 
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 26  04 51  13 24  17 47  21 47  23 02  00 00
            31   03 26  04 50  13 24  17 47  21 48  23 03  00 00
 
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 25  04 45  13 30  17 57  22 05  23 16  00 00
            30   03 25  04 45  13 30  17 57  22 05  23 16  00 00
 
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 50  05 24  13 33  17 47  21 32  22 56  00 00
            31   03 51  05 25  13 33  17 46  21 30  22 55  00 00
 
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 11  06 18  13 27  17 12  20 26  22 19  00 00
            31   04 12  06 20  13 27  17 11  20 24  22 15  00 00
 
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 19  07 12  13 17  16 22  19 12  20 50  00 00
            30   05 22  07 14  13 17  16 20  19 09  20 47  00 00
 
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 18  07 11  12 10  14 27  16 59  18 39  00 00
            31   05 19  07 13  12 10  14 25  16 57  18 37  00 00
 
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 04  08 07  12 15  13 51  16 12  18 01  00 00
            30   06 05  08 08  12 15  13 51  16 11  18 00  00 00
 
-                              HOHENWESTEDT_N           
+                              HOHENWESTEDT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

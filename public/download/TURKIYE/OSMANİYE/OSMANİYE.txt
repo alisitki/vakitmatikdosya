@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 10  07 33  12 53  15 40  18 04  19 21  00 00
            31   06 10  07 32  12 53  15 41  18 05  19 22  00 00
 
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 43  07 02  12 53  16 02  18 33  19 48  00 00
            28   05 42  07 01  12 53  16 03  18 34  19 49  00 00
 
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 56  06 17  12 45  16 16  19 02  20 18  00 00
            31   04 54  06 16  12 44  16 17  19 03  20 19  00 00
 
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 07  05 36  12 37  16 23  19 29  20 52  00 00
            30   04 05  05 35  12 37  16 23  19 30  20 53  00 00
 
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 29  05 11  12 38  16 28  19 54  21 29  00 00
            31   03 28  05 10  12 38  16 28  19 55  21 30  00 00
 
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 26  05 11  12 43  16 35  20 06  21 44  00 00
            30   03 26  05 11  12 44  16 35  20 06  21 44  00 00
 
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 56  05 31  12 47  16 35  19 52  21 21  00 00
            31   03 57  05 32  12 46  16 35  19 51  21 19  00 00
 
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 32  05 57  12 41  16 20  19 15  20 34  00 00
            31   04 34  05 58  12 41  16 19  19 13  20 32  00 00
 
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 02  06 21  12 30  15 52  18 30  19 44  00 00
            30   05 03  06 22  12 30  15 51  18 28  19 42  00 00
 
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 29  06 50  12 24  15 21  17 48  19 03  00 00
            31   05 30  06 51  12 24  15 20  17 46  19 02  00 00
 
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 56  07 20  12 28  15 04  17 26  18 45  00 00
            30   05 57  07 21  12 28  15 04  17 26  18 45  00 00
 
-                              OSMANİYE_N           
+                              OSMANİYE           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

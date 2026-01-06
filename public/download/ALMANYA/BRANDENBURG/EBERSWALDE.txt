@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 51  07 44  12 23  14 25  16 52  18 31  00 00
            31   05 50  07 43  12 23  14 26  16 53  18 33  00 00
 
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 02  06 50  12 23  15 06  17 45  19 19  00 00
            28   05 00  06 48  12 22  15 07  17 47  19 21  00 00
 
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 43  06 37  13 14  16 42  19 41  21 21  00 00
            31   04 40  06 35  13 14  16 43  19 43  21 23  00 00
 
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 35  05 30  13 07  17 08  20 34  22 16  00 00
            30   03 34  05 28  13 07  17 09  20 36  22 17  00 00
 
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 13  04 41  13 07  17 28  21 23  22 42  00 00
            31   03 12  04 40  13 07  17 28  21 24  22 43  00 00
 
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 12  04 36  13 13  17 37  21 41  22 55  00 00
            30   03 12  04 36  13 13  17 37  21 40  22 55  00 00
 
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 34  05 13  13 16  17 28  21 10  22 37  00 00
            31   03 35  05 14  13 16  17 28  21 08  22 37  00 00
 
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   03 58  06 04  13 11  16 56  20 07  21 55  00 00
            31   04 01  06 06  13 10  16 54  20 05  21 52  00 00
 
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 06  06 55  13 00  16 07  18 55  20 30  00 00
            30   05 08  06 57  13 00  16 05  18 53  20 28  00 00
 
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 01  06 51  11 53  14 14  16 46  18 22  00 00
            31   05 03  06 52  11 53  14 12  16 44  18 21  00 00
 
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 46  07 44  11 58  13 40  16 02  17 46  00 00
            30   05 47  07 45  11 58  13 40  16 01  17 46  00 00
 
-                              EBERSWALDE_N           
+                              EBERSWALDE           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

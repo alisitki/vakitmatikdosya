@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 08  08 06  12 39  14 34  17 01  18 45  00 00
            31   06 07  08 05  12 39  14 36  17 03  18 47  00 00
 
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 16  07 08  12 38  15 18  17 59  19 37  00 00
            28   05 14  07 06  12 38  15 19  18 01  19 39  00 00
 
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 51  06 52  13 30  16 57  19 59  21 43  00 00
            31   04 48  06 49  13 30  16 58  20 01  21 45  00 00
 
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 47  05 40  13 23  17 25  20 56  22 36  00 00
            30   03 46  05 38  13 23  17 26  20 58  22 37  00 00
 
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 21  04 48  13 23  17 47  21 48  23 06  00 00
            31   03 20  04 47  13 23  17 47  21 50  23 07  00 00
 
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 19  04 41  13 29  17 57  22 07  23 20  00 00
            30   03 20  04 42  13 29  17 57  22 07  23 20  00 00
 
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 44  05 21  13 32  17 47  21 33  23 00  00 00
            31   03 45  05 23  13 32  17 46  21 31  22 59  00 00
 
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 07  06 17  13 26  17 12  20 26  22 20  00 00
            31   04 08  06 19  13 26  17 10  20 24  22 17  00 00
 
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 18  07 11  13 16  16 20  19 11  20 50  00 00
            30   05 20  07 13  13 16  16 19  19 08  20 47  00 00
 
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 17  07 11  12 09  14 25  16 58  18 38  00 00
            31   05 19  07 13  12 09  14 23  16 56  18 36  00 00
 
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 04  08 08  12 14  13 49  16 10  18 00  00 00
            30   06 05  08 10  12 14  13 48  16 09  17 59  00 00
 
-                              ECKERNFORDE_N           
+                              ECKERNFORDE           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

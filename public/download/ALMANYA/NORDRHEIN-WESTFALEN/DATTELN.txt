@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              DATTELN_N           
+                              DATTELN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 16  08 06  12 49  14 55  17 22  18 58  00 00
            31   06 15  08 04  12 49  14 56  17 23  19 00  00 00
 
-                              DATTELN_N           
+                              DATTELN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 29  07 14  12 48  15 34  18 13  19 44  00 00
            28   05 27  07 12  12 48  15 35  18 14  19 46  00 00
 
-                              DATTELN_N           
+                              DATTELN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 13  07 04  13 40  17 09  20 06  21 42  00 00
            31   05 10  07 02  13 40  17 10  20 08  21 44  00 00
 
-                              DATTELN_N           
+                              DATTELN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 00  05 59  13 33  17 33  20 57  22 42  00 00
            30   04 00  05 57  13 33  17 33  20 58  22 43  00 00
 
-                              DATTELN_N           
+                              DATTELN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 40  05 13  13 33  17 51  21 43  23 05  00 00
            31   03 40  05 12  13 33  17 52  21 44  23 06  00 00
 
-                              DATTELN_N           
+                              DATTELN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 40  05 08  13 39  18 01  22 00  23 18  00 00
            30   03 40  05 09  13 39  18 01  21 59  23 18  00 00
 
-                              DATTELN_N           
+                              DATTELN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 00  05 43  13 42  17 52  21 31  23 03  00 00
            31   04 00  05 45  13 42  17 52  21 29  23 02  00 00
 
-                              DATTELN_N           
+                              DATTELN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 32  06 32  13 36  17 21  20 30  22 14  00 00
            31   04 34  06 34  13 36  17 20  20 28  22 11  00 00
 
-                              DATTELN_N           
+                              DATTELN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 35  07 20  13 26  16 34  19 22  20 54  00 00
            30   05 37  07 22  13 26  16 33  19 19  20 51  00 00
 
-                              DATTELN_N           
+                              DATTELN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 27  07 13  12 19  14 43  17 15  18 48  00 00
            31   05 29  07 15  12 19  14 42  17 13  18 47  00 00
 
-                              DATTELN_N           
+                              DATTELN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 10  08 04  12 24  14 11  16 33  18 14  00 00
            30   06 11  08 06  12 24  14 11  16 32  18 14  00 00
 
-                              DATTELN_N           
+                              DATTELN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

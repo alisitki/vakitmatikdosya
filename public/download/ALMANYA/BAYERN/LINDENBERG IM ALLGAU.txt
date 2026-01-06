@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 04  07 43  12 39  14 59  17 24  18 52  00 00
            31   06 03  07 42  12 39  15 00  17 26  18 53  00 00
 
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 23  06 59  12 38  15 33  18 08  19 32  00 00
            28   05 21  06 57  12 38  15 34  18 10  19 33  00 00
 
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 17  06 57  13 30  17 01  19 53  21 20  00 00
            31   05 15  06 55  13 30  17 01  19 55  21 22  00 00
 
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 02  06 00  13 23  17 19  20 36  22 17  00 00
            30   04 00  05 59  13 23  17 20  20 37  22 19  00 00
 
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 38  05 22  13 23  17 34  21 15  22 53  00 00
            31   03 38  05 21  13 23  17 34  21 16  22 54  00 00
 
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 32  05 19  13 29  17 42  21 29  23 01  00 00
            30   03 32  05 19  13 29  17 42  21 29  23 01  00 00
 
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 46  05 48  13 32  17 37  21 06  22 47  00 00
            31   03 47  05 50  13 32  17 36  21 05  22 47  00 00
 
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 43  06 29  13 26  17 10  20 14  21 46  00 00
            31   04 45  06 30  13 26  17 09  20 12  21 43  00 00
 
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 33  07 09  13 16  16 29  19 13  20 37  00 00
            30   05 35  07 11  13 16  16 28  19 11  20 34  00 00
 
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 17  06 54  12 09  14 45  17 15  18 40  00 00
            31   05 18  06 56  12 09  14 43  17 13  18 38  00 00
 
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 54  07 38  12 14  14 18  16 40  18 11  00 00
            30   05 55  07 39  12 14  14 17  16 39  18 10  00 00
 
-                              LINDENBERG IM ALLGAU_N           
+                              LINDENBERG IM ALLGAU           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

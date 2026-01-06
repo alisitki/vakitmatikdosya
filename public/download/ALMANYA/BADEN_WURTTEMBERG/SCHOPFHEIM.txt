@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 12  07 51  12 47  15 06  17 32  19 00  00 00
            31   06 11  07 50  12 47  15 08  17 34  19 01  00 00
 
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 31  07 07  12 47  15 41  18 16  19 40  00 00
            28   05 30  07 05  12 46  15 42  18 18  19 41  00 00
 
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 25  07 05  13 38  17 09  20 02  21 28  00 00
            31   05 23  07 03  13 38  17 09  20 03  21 30  00 00
 
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 10  06 08  13 31  17 27  20 44  22 25  00 00
            30   04 07  06 07  13 31  17 28  20 45  22 27  00 00
 
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 47  05 30  13 31  17 42  21 23  23 01  00 00
            31   03 46  05 29  13 31  17 42  21 24  23 01  00 00
 
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 41  05 27  13 37  17 51  21 38  23 09  00 00
            30   03 41  05 27  13 37  17 51  21 38  23 08  00 00
 
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 55  05 56  13 40  17 45  21 14  22 55  00 00
            31   03 55  05 57  13 40  17 44  21 13  22 54  00 00
 
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 50  06 37  13 35  17 19  20 22  21 54  00 00
            31   04 52  06 38  13 34  17 17  20 20  21 52  00 00
 
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 41  07 18  13 24  16 38  19 21  20 45  00 00
            30   05 43  07 19  13 24  16 36  19 19  20 43  00 00
 
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 25  07 02  12 17  14 53  17 23  18 48  00 00
            31   05 27  07 04  12 17  14 51  17 21  18 46  00 00
 
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 03  07 46  12 22  14 25  16 48  18 19  00 00
            30   06 04  07 47  12 22  14 25  16 47  18 19  00 00
 
-                              SCHOPFHEIM_N           
+                              SCHOPFHEIM           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

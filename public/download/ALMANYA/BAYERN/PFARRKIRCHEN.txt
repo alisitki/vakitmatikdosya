@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 52  07 33  12 26  14 44  17 10  18 39  00 00
            31   05 51  07 32  12 27  14 45  17 11  18 40  00 00
 
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 10  06 47  12 26  15 19  17 55  19 20  00 00
            28   05 08  06 45  12 26  15 20  17 56  19 21  00 00
 
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 02  06 44  13 18  16 48  19 42  21 10  00 00
            31   05 00  06 42  13 18  16 49  19 43  21 12  00 00
 
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 47  05 46  13 11  17 08  20 25  22 09  00 00
            30   03 46  05 44  13 11  17 08  20 27  22 12  00 00
 
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 35  05 06  13 11  17 23  21 06  22 34  00 00
            31   03 35  05 05  13 11  17 23  21 07  22 34  00 00
 
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 29  05 03  13 17  17 32  21 21  22 41  00 00
            30   03 30  05 03  13 17  17 32  21 21  22 40  00 00
 
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 42  05 33  13 20  17 26  20 56  22 28  00 00
            31   03 42  05 34  13 20  17 25  20 55  22 28  00 00
 
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 26  06 15  13 14  16 58  20 03  21 37  00 00
            31   04 28  06 17  13 14  16 57  20 01  21 34  00 00
 
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 19  06 57  13 04  16 16  19 00  20 26  00 00
            30   05 21  06 59  13 03  16 15  18 58  20 23  00 00
 
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 05  06 43  11 57  14 30  17 00  18 27  00 00
            31   05 06  06 45  11 57  14 29  16 59  18 26  00 00
 
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 43  07 29  12 01  14 02  16 24  17 57  00 00
            30   05 44  07 30  12 02  14 02  16 24  17 57  00 00
 
-                              PFARRKIRCHEN_N           
+                              PFARRKIRCHEN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

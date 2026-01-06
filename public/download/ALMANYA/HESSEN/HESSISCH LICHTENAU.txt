@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 07  07 55  12 39  14 47  17 14  18 49  00 00
            31   06 05  07 53  12 40  14 48  17 16  18 51  00 00
 
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 21  07 04  12 39  15 26  18 04  19 34  00 00
            28   05 19  07 02  12 39  15 27  18 06  19 36  00 00
 
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 06  06 55  13 31  17 00  19 57  21 31  00 00
            31   05 03  06 53  13 30  17 00  19 58  21 33  00 00
 
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 54  05 51  13 24  17 23  20 46  22 31  00 00
            30   03 54  05 49  13 23  17 24  20 48  22 31  00 00
 
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 36  05 06  13 24  17 41  21 31  22 52  00 00
            31   03 35  05 05  13 24  17 41  21 32  22 52  00 00
 
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 35  05 02  13 30  17 50  21 48  23 04  00 00
            30   03 36  05 02  13 30  17 50  21 47  23 04  00 00
 
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 54  05 36  13 33  17 42  21 20  22 49  00 00
            31   03 55  05 37  13 33  17 42  21 18  22 49  00 00
 
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 25  06 24  13 27  17 12  20 20  22 02  00 00
            31   04 27  06 25  13 27  17 10  20 18  21 59  00 00
 
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 26  07 11  13 17  16 26  19 12  20 43  00 00
            30   05 28  07 13  13 16  16 24  19 10  20 41  00 00
 
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 18  07 03  12 10  14 35  17 07  18 39  00 00
            31   05 19  07 05  12 10  14 34  17 05  18 38  00 00
 
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 00  07 53  12 14  14 04  16 26  18 06  00 00
            30   06 01  07 54  12 15  14 03  16 25  18 05  00 00
 
-                              HESSISCH LICHTENAU_N           
+                              HESSISCH LICHTENAU           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

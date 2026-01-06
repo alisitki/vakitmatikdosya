@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 49  07 38  12 21  14 28  16 55  18 31  00 00
            31   05 48  07 36  12 21  14 30  16 57  18 32  00 00
 
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 02  06 46  12 21  15 07  17 45  19 16  00 00
            28   05 00  06 44  12 21  15 08  17 47  19 18  00 00
 
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 46  06 37  13 13  16 41  19 39  21 14  00 00
            31   04 44  06 34  13 12  16 42  19 40  21 16  00 00
 
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 38  05 32  13 05  17 05  20 29  22 11  00 00
            30   03 37  05 31  13 05  17 06  20 30  22 11  00 00
 
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 19  04 47  13 06  17 23  21 14  22 32  00 00
            31   03 19  04 46  13 06  17 24  21 15  22 33  00 00
 
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 19  04 42  13 11  17 33  21 31  22 45  00 00
            30   03 19  04 43  13 12  17 33  21 31  22 45  00 00
 
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 38  05 17  13 15  17 25  21 02  22 29  00 00
            31   03 39  05 18  13 14  17 24  21 01  22 29  00 00
 
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 05  06 05  13 09  16 54  20 03  21 45  00 00
            31   04 08  06 07  13 09  16 52  20 00  21 43  00 00
 
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 08  06 53  12 59  16 07  18 54  20 26  00 00
            30   05 10  06 55  12 58  16 06  18 52  20 23  00 00
 
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 00  06 45  11 52  14 17  16 48  18 21  00 00
            31   05 01  06 47  11 52  14 15  16 46  18 19  00 00
 
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 42  07 36  11 56  13 45  16 07  17 47  00 00
            30   05 43  07 37  11 57  13 44  16 06  17 47  00 00
 
-                              HOYERSWERDA_N           
+                              HOYERSWERDA           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

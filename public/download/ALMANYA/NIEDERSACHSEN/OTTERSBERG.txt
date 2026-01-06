@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 10  08 04  12 42  14 42  17 09  18 50  00 00
            31   06 09  08 02  12 42  14 44  17 11  18 51  00 00
 
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 21  07 09  12 41  15 24  18 03  19 38  00 00
            28   05 19  07 07  12 41  15 25  18 05  19 40  00 00
 
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 00  06 56  13 33  17 01  20 00  21 40  00 00
            31   04 57  06 53  13 33  17 02  20 02  21 43  00 00
 
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 54  05 48  13 26  17 27  20 54  22 35  00 00
            30   03 53  05 46  13 26  17 28  20 56  22 36  00 00
 
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 32  04 58  13 26  17 47  21 43  23 01  00 00
            31   03 31  04 58  13 26  17 47  21 45  23 01  00 00
 
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 31  04 53  13 32  17 57  22 01  23 14  00 00
            30   03 31  04 54  13 32  17 57  22 01  23 14  00 00
 
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 54  05 30  13 35  17 47  21 30  22 55  00 00
            31   03 54  05 32  13 35  17 47  21 28  22 55  00 00
 
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 15  06 22  13 29  17 14  20 26  22 15  00 00
            31   04 18  06 24  13 29  17 13  20 24  22 12  00 00
 
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 24  07 14  13 19  16 25  19 14  20 50  00 00
            30   05 26  07 16  13 19  16 24  19 12  20 47  00 00
 
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 20  07 10  12 12  14 32  17 04  18 41  00 00
            31   05 21  07 12  12 12  14 30  17 02  18 39  00 00
 
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 05  08 04  12 17  13 58  16 19  18 05  00 00
            30   06 06  08 05  12 17  13 57  16 19  18 04  00 00
 
-                              OTTERSBERG_N           
+                              OTTERSBERG           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

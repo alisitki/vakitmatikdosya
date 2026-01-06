@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 17  08 06  12 49  14 55  17 22  18 58  00 00
            31   06 15  08 04  12 49  14 57  17 24  19 00  00 00
 
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 30  07 14  12 49  15 35  18 13  19 44  00 00
            28   05 28  07 12  12 48  15 36  18 15  19 46  00 00
 
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 14  07 04  13 40  17 09  20 06  21 42  00 00
            31   05 11  07 02  13 40  17 10  20 08  21 44  00 00
 
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 03  06 00  13 33  17 33  20 57  22 41  00 00
            30   04 02  05 58  13 33  17 34  20 58  22 42  00 00
 
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 43  05 14  13 33  17 51  21 43  23 03  00 00
            31   03 43  05 13  13 33  17 52  21 44  23 04  00 00
 
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 43  05 09  13 39  18 01  21 59  23 16  00 00
            30   03 43  05 10  13 39  18 01  21 59  23 16  00 00
 
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 02  05 44  13 42  17 53  21 31  23 00  00 00
            31   04 03  05 45  13 42  17 52  21 29  23 00  00 00
 
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 32  06 33  13 37  17 21  20 30  22 14  00 00
            31   04 35  06 34  13 36  17 20  20 28  22 11  00 00
 
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 35  07 21  13 26  16 35  19 22  20 54  00 00
            30   05 37  07 22  13 26  16 33  19 20  20 51  00 00
 
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 27  07 13  12 19  14 44  17 16  18 49  00 00
            31   05 29  07 15  12 19  14 42  17 14  18 47  00 00
 
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 10  08 04  12 24  14 12  16 34  18 15  00 00
            30   06 11  08 05  12 24  14 12  16 33  18 14  00 00
 
-                              CASTROP-RAUXEL_N           
+                              CASTROP-RAUXEL           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

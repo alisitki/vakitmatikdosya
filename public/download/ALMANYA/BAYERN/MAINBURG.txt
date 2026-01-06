@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 57  07 39  12 31  14 47  17 14  18 43  00 00
            31   05 56  07 37  12 31  14 49  17 15  18 45  00 00
 
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 15  06 52  12 31  15 23  17 59  19 24  00 00
            28   05 13  06 50  12 30  15 24  18 01  19 26  00 00
 
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 06  06 49  13 22  16 52  19 46  21 15  00 00
            31   05 04  06 47  13 22  16 53  19 48  21 17  00 00
 
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 54  05 50  13 15  17 12  20 31  22 15  00 00
            30   03 54  05 48  13 15  17 13  20 32  22 18  00 00
 
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 42  05 09  13 15  17 28  21 11  22 35  00 00
            31   03 42  05 09  13 16  17 28  21 12  22 35  00 00
 
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 38  05 06  13 21  17 37  21 26  22 43  00 00
            30   03 39  05 07  13 22  17 37  21 26  22 43  00 00
 
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 51  05 37  13 24  17 31  21 02  22 31  00 00
            31   03 51  05 38  13 24  17 30  21 00  22 30  00 00
 
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 30  06 20  13 19  17 03  20 08  21 42  00 00
            31   04 32  06 21  13 18  17 02  20 06  21 40  00 00
 
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 24  07 02  13 08  16 21  19 05  20 31  00 00
            30   05 25  07 03  13 08  16 19  19 03  20 28  00 00
 
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 09  06 49  12 02  14 34  17 05  18 32  00 00
            31   05 11  06 50  12 02  14 33  17 03  18 30  00 00
 
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 48  07 34  12 06  14 06  16 28  18 01  00 00
            30   05 49  07 35  12 06  14 05  16 27  18 01  00 00
 
-                              MAINBURG_N           
+                              MAINBURG           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

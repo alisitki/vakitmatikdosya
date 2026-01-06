@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 07  07 31  12 49  15 34  17 58  19 16  00 00
            31   06 07  07 30  12 50  15 35  17 59  19 17  00 00
 
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 39  06 59  12 49  15 57  18 29  19 44  00 00
            28   05 37  06 58  12 49  15 58  18 30  19 45  00 00
 
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 50  06 13  12 41  16 13  18 59  20 16  00 00
            31   04 49  06 11  12 41  16 13  19 00  20 17  00 00
 
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 59  05 31  12 34  16 20  19 27  20 52  00 00
            30   03 57  05 29  12 34  16 20  19 28  20 54  00 00
 
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 19  05 04  12 34  16 27  19 54  21 31  00 00
            31   03 18  05 03  12 34  16 27  19 54  21 32  00 00
 
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 15  05 04  12 40  16 33  20 06  21 47  00 00
            30   03 15  05 04  12 40  16 34  20 06  21 46  00 00
 
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 47  05 25  12 43  16 33  19 51  21 22  00 00
            31   03 48  05 26  12 43  16 33  19 50  21 21  00 00
 
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 26  05 52  12 37  16 17  19 12  20 33  00 00
            31   04 27  05 53  12 37  16 16  19 11  20 31  00 00
 
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   04 57  06 18  12 27  15 48  18 26  19 41  00 00
            30   04 58  06 19  12 26  15 47  18 24  19 40  00 00
 
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 26  06 48  12 20  15 15  17 42  18 59  00 00
            31   05 27  06 49  12 20  15 14  17 41  18 58  00 00
 
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 53  07 20  12 24  14 57  17 19  18 40  00 00
            30   05 54  07 21  12 25  14 57  17 19  18 40  00 00
 
-                              ELBİSTAN_N           
+                              ELBİSTAN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

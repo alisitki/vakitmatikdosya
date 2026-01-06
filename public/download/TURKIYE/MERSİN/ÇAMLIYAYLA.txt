@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 17  07 39  13 00  15 46  18 10  19 28  00 00
            31   06 16  07 39  13 00  15 47  18 11  19 29  00 00
 
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 49  07 09  12 59  16 09  18 40  19 54  00 00
            28   05 48  07 08  12 59  16 09  18 41  19 55  00 00
 
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 03  06 24  12 51  16 23  19 09  20 25  00 00
            31   05 01  06 22  12 51  16 23  19 10  20 26  00 00
 
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 13  05 43  12 44  16 29  19 35  20 59  00 00
            30   04 11  05 42  12 44  16 29  19 36  21 00  00 00
 
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 35  05 17  12 44  16 35  20 01  21 36  00 00
            31   03 34  05 17  12 44  16 35  20 02  21 37  00 00
 
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 32  05 17  12 50  16 41  20 13  21 51  00 00
            30   03 32  05 18  12 50  16 42  20 13  21 51  00 00
 
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 02  05 38  12 53  16 42  19 59  21 28  00 00
            31   04 03  05 38  12 53  16 42  19 58  21 26  00 00
 
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 39  06 03  12 47  16 27  19 22  20 40  00 00
            31   04 40  06 04  12 47  16 26  19 20  20 39  00 00
 
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 08  06 28  12 37  15 59  18 36  19 51  00 00
            30   05 09  06 29  12 37  15 58  18 35  19 49  00 00
 
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 36  06 57  12 30  15 27  17 54  19 10  00 00
            31   05 37  06 58  12 30  15 26  17 53  19 09  00 00
 
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 02  07 27  12 35  15 10  17 32  18 52  00 00
            30   06 03  07 28  12 35  15 10  17 32  18 52  00 00
 
-                              ÇAMLIYAYLA_N           
+                              ÇAMLIYAYLA           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

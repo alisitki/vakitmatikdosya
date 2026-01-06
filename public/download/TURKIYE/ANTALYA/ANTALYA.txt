@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 32  07 54  13 15  16 03  18 27  19 44  00 00
            31   06 32  07 54  13 16  16 03  18 28  19 45  00 00
 
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 05  07 24  13 15  16 25  18 56  20 10  00 00
            28   06 04  07 23  13 15  16 25  18 57  20 11  00 00
 
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 19  06 40  13 07  16 39  19 24  20 40  00 00
            31   05 17  06 38  13 07  16 39  19 25  20 41  00 00
 
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 30  05 59  13 00  16 45  19 51  21 14  00 00
            30   04 28  05 58  13 00  16 45  19 51  21 15  00 00
 
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 52  05 33  13 00  16 50  20 16  21 50  00 00
            31   03 51  05 33  13 00  16 50  20 17  21 51  00 00
 
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 49  05 34  13 06  16 57  20 28  22 05  00 00
            30   03 49  05 34  13 06  16 57  20 28  22 05  00 00
 
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 19  05 54  13 09  16 57  20 14  21 42  00 00
            31   04 20  05 55  13 09  16 57  20 13  21 41  00 00
 
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 55  06 19  13 03  16 42  19 37  20 55  00 00
            31   04 56  06 20  13 03  16 41  19 35  20 54  00 00
 
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 24  06 44  12 53  16 14  18 52  20 06  00 00
            30   05 25  06 44  12 52  16 13  18 50  20 05  00 00
 
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 51  07 12  12 46  15 43  18 10  19 26  00 00
            31   05 52  07 13  12 46  15 43  18 09  19 25  00 00
 
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 18  07 42  12 50  15 27  17 49  19 08  00 00
            30   06 19  07 43  12 51  15 27  17 48  19 08  00 00
 
-                              ANTALYA_N           
+                              ANTALYA           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

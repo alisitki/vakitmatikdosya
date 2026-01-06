@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 09  07 52  12 43  14 57  17 23  18 54  00 00
            31   06 08  07 51  12 43  14 58  17 25  18 56  00 00
 
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 26  07 05  12 42  15 33  18 10  19 36  00 00
            28   05 24  07 03  12 42  15 34  18 12  19 38  00 00
 
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 16  07 00  13 34  17 04  19 58  21 29  00 00
            31   05 13  06 58  13 34  17 05  20 00  21 30  00 00
 
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 04  06 00  13 27  17 25  20 44  22 31  00 00
            30   04 03  05 58  13 27  17 25  20 45  22 32  00 00
 
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 49  05 18  13 27  17 41  21 26  22 48  00 00
            31   03 49  05 18  13 27  17 41  21 27  22 48  00 00
 
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 48  05 15  13 33  17 50  21 41  22 58  00 00
            30   03 48  05 15  13 33  17 50  21 41  22 58  00 00
 
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 02  05 46  13 36  17 43  21 16  22 45  00 00
            31   04 03  05 48  13 36  17 42  21 14  22 45  00 00
 
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 39  06 30  13 30  17 15  20 20  21 57  00 00
            31   04 41  06 32  13 30  17 13  20 18  21 54  00 00
 
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 34  07 14  13 20  16 31  19 16  20 43  00 00
            30   05 36  07 15  13 20  16 30  19 14  20 41  00 00
 
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 21  07 02  12 13  14 44  17 15  18 43  00 00
            31   05 23  07 03  12 13  14 43  17 13  18 42  00 00
 
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 01  07 48  12 18  14 15  16 37  18 12  00 00
            30   06 02  07 49  12 18  14 15  16 37  18 12  00 00
 
-                              SINSHEIM_N           
+                              SINSHEIM           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

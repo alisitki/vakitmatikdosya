@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              DERBENT_N           
+                              DERBENT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 28  07 51  13 10  15 55  18 19  19 37  00 00
            31   06 27  07 51  13 10  15 56  18 20  19 38  00 00
 
-                              DERBENT_N           
+                              DERBENT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 00  07 20  13 10  16 18  18 49  20 05  00 00
            28   05 58  07 19  13 10  16 19  18 51  20 06  00 00
 
-                              DERBENT_N           
+                              DERBENT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 11  06 34  13 02  16 33  19 19  20 37  00 00
            31   05 10  06 32  13 01  16 34  19 20  20 38  00 00
 
-                              DERBENT_N           
+                              DERBENT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 20  05 52  12 54  16 41  19 47  21 12  00 00
            30   04 19  05 50  12 54  16 41  19 48  21 14  00 00
 
-                              DERBENT_N           
+                              DERBENT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 41  05 25  12 54  16 47  20 14  21 51  00 00
            31   03 40  05 25  12 55  16 47  20 15  21 52  00 00
 
-                              DERBENT_N           
+                              DERBENT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 37  05 25  13 00  16 54  20 26  22 06  00 00
            30   03 37  05 25  13 01  16 54  20 26  22 06  00 00
 
-                              DERBENT_N           
+                              DERBENT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 08  05 46  13 03  16 54  20 11  21 42  00 00
            31   04 10  05 47  13 03  16 53  20 10  21 40  00 00
 
-                              DERBENT_N           
+                              DERBENT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 47  06 13  12 58  16 37  19 33  20 53  00 00
            31   04 48  06 14  12 57  16 37  19 31  20 51  00 00
 
-                              DERBENT_N           
+                              DERBENT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 18  06 39  12 47  16 08  18 46  20 02  00 00
            30   05 19  06 39  12 47  16 07  18 45  20 00  00 00
 
-                              DERBENT_N           
+                              DERBENT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 46  07 08  12 41  15 36  18 03  19 20  00 00
            31   05 47  07 09  12 41  15 35  18 02  19 19  00 00
 
-                              DERBENT_N           
+                              DERBENT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 14  07 40  12 45  15 19  17 40  19 01  00 00
            30   06 15  07 41  12 45  15 18  17 40  19 01  00 00
 
-                              DERBENT_N           
+                              DERBENT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 45  07 12  12 26  15 06  17 30  18 51  00 00
            31   05 44  07 11  12 26  15 07  17 31  18 52  00 00
 
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 14  06 38  12 25  15 31  18 03  19 21  00 00
            28   05 13  06 36  12 25  15 32  18 04  19 22  00 00
 
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 23  05 48  12 17  15 49  18 36  19 56  00 00
            31   04 21  05 47  12 17  15 49  18 37  19 57  00 00
 
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 28  05 03  12 10  15 59  19 07  20 36  00 00
            30   03 26  05 02  12 10  15 59  19 08  20 37  00 00
 
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   02 43  04 34  12 10  16 07  19 36  21 19  00 00
            31   02 42  04 34  12 10  16 07  19 36  21 20  00 00
 
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   02 38  04 34  12 16  16 14  19 48  21 35  00 00
            30   02 38  04 34  12 16  16 14  19 48  21 35  00 00
 
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 13  04 57  12 19  16 13  19 32  21 07  00 00
            31   03 15  04 57  12 19  16 12  19 31  21 06  00 00
 
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   03 57  05 26  12 13  15 54  18 51  20 14  00 00
            31   03 58  05 27  12 13  15 53  18 49  20 12  00 00
 
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   04 31  05 55  12 03  15 23  18 02  19 20  00 00
            30   04 32  05 56  12 03  15 22  18 00  19 18  00 00
 
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 03  06 27  11 56  14 48  17 15  18 35  00 00
            31   05 04  06 28  11 56  14 47  17 14  18 33  00 00
 
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 32  07 01  12 01  14 28  16 50  18 14  00 00
            30   05 33  07 02  12 01  14 28  16 50  18 14  00 00
 
-                              KAĞIZMAN_N           
+                              KAĞIZMAN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

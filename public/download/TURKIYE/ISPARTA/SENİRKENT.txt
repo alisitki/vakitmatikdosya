@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 34  07 57  13 16  16 00  18 25  19 43  00 00
            31   06 33  07 57  13 16  16 01  18 26  19 44  00 00
 
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   06 05  07 26  13 16  16 24  18 55  20 11  00 00
            28   06 04  07 25  13 15  16 24  18 56  20 12  00 00
 
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 17  06 40  13 07  16 39  19 25  20 42  00 00
            31   05 15  06 38  13 07  16 39  19 26  20 44  00 00
 
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 26  05 57  13 00  16 47  19 53  21 18  00 00
            30   04 24  05 56  13 00  16 47  19 54  21 20  00 00
 
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 46  05 31  13 00  16 53  20 20  21 57  00 00
            31   03 45  05 30  13 00  16 53  20 21  21 58  00 00
 
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 42  05 31  13 06  17 00  20 32  22 13  00 00
            30   03 43  05 31  13 06  17 00  20 32  22 12  00 00
 
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   04 14  05 52  13 09  17 00  20 17  21 48  00 00
            31   04 15  05 52  13 09  16 59  20 16  21 47  00 00
 
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 53  06 19  13 04  16 43  19 39  20 59  00 00
            31   04 54  06 19  13 03  16 43  19 37  20 57  00 00
 
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 24  06 44  12 53  16 14  18 52  20 08  00 00
            30   05 25  06 45  12 53  16 13  18 51  20 06  00 00
 
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 52  07 14  12 46  15 42  18 09  19 26  00 00
            31   05 53  07 15  12 46  15 41  18 08  19 25  00 00
 
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 20  07 46  12 51  15 24  17 46  19 07  00 00
            30   06 21  07 47  12 51  15 24  17 46  19 07  00 00
 
-                              SENİRKENT_N           
+                              SENİRKENT           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

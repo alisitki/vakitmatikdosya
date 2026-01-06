@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   05 54  07 46  12 26  14 29  16 56  18 35  00 00
            31   05 53  07 44  12 26  14 31  16 58  18 36  00 00
 
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 06  06 52  12 25  15 10  17 49  19 22  00 00
            28   05 04  06 50  12 25  15 11  17 51  19 24  00 00
 
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   04 47  06 41  13 17  16 45  19 44  21 22  00 00
            31   04 44  06 38  13 17  16 46  19 46  21 24  00 00
 
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   03 39  05 34  13 10  17 10  20 36  22 19  00 00
            30   03 38  05 32  13 10  17 11  20 38  22 19  00 00
 
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 18  04 47  13 10  17 30  21 24  22 43  00 00
            31   03 17  04 46  13 10  17 30  21 25  22 44  00 00
 
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 17  04 41  13 16  17 39  21 41  22 56  00 00
            30   03 17  04 42  13 16  17 39  21 41  22 56  00 00
 
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 38  05 17  13 19  17 31  21 11  22 39  00 00
            31   03 39  05 19  13 19  17 30  21 09  22 38  00 00
 
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 04  06 08  13 14  16 58  20 09  21 55  00 00
            31   04 07  06 10  13 13  16 57  20 07  21 52  00 00
 
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 10  06 58  13 03  16 11  18 59  20 32  00 00
            30   05 12  07 00  13 03  16 09  18 56  20 30  00 00
 
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 04  06 52  11 56  14 18  16 50  18 25  00 00
            31   05 06  06 54  11 56  14 17  16 49  18 24  00 00
 
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   05 48  07 45  12 01  13 45  16 07  17 50  00 00
            30   05 49  07 46  12 01  13 45  16 06  17 50  00 00
 
-                              POSTDAM_N           
+                              POSTDAM           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----

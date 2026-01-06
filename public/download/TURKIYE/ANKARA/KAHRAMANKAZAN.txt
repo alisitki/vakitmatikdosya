@@ -2,7 +2,7 @@
                          CUMHURBA�KANLI�I                  
                      D�YANET ��LER� BA�KANLI�I             
               PUSULA KIBLE SEMTi (KUZEYDEN)  147 Derece
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - OCAK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -38,7 +38,7 @@
            30   06 27  07 53  13 08  15 47  18 12  19 33  00 00
            31   06 26  07 53  13 08  15 48  18 13  19 34  00 00
 
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - SUBAT
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -71,7 +71,7 @@
            27   05 56  07 19  13 07  16 13  18 45  20 03  00 00
            28   05 55  07 18  13 07  16 13  18 46  20 04  00 00
 
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - MART
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -107,7 +107,7 @@
            30   05 04  06 30  12 59  16 31  19 18  20 38  00 00
            31   05 03  06 28  12 59  16 31  19 19  20 39  00 00
 
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - NISAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -142,7 +142,7 @@
            29   04 09  05 45  12 52  16 40  19 49  21 18  00 00
            30   04 07  05 44  12 52  16 41  19 50  21 19  00 00
 
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - MAYIS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -178,7 +178,7 @@
            30   03 25  05 16  12 52  16 49  20 18  22 01  00 00
            31   03 24  05 16  12 52  16 49  20 18  22 02  00 00
 
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - HAZIRAN
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -213,7 +213,7 @@
            29   03 19  05 16  12 58  16 56  20 30  22 18  00 00
            30   03 20  05 16  12 58  16 56  20 30  22 17  00 00
 
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - TEMMUZ
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -249,7 +249,7 @@
            30   03 55  05 38  13 01  16 54  20 14  21 50  00 00
            31   03 56  05 39  13 01  16 54  20 13  21 48  00 00
 
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - AGUSTOS
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -285,7 +285,7 @@
            30   04 38  06 08  12 55  16 36  19 33  20 56  00 00
            31   04 39  06 09  12 55  16 35  19 31  20 54  00 00
 
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - EYLUL
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -320,7 +320,7 @@
            29   05 13  06 36  12 45  16 05  18 43  20 01  00 00
            30   05 14  06 37  12 44  16 03  18 42  20 00  00 00
 
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - EKIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -356,7 +356,7 @@
            30   05 44  07 09  12 38  15 30  17 57  19 16  00 00
            31   05 45  07 10  12 38  15 29  17 56  19 15  00 00
 
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - KASIM
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
@@ -391,7 +391,7 @@
            29   06 14  07 43  12 42  15 10  17 32  18 56  00 00
            30   06 15  07 44  12 43  15 10  17 32  18 55  00 00
 
-                              KAHRAMANKAZAN_N           
+                              KAHRAMANKAZAN           
                              2026 - ARALIK
            GUN  �MSAK  GUNES  ��LE   �K�ND� AK�AM  YATSI  K.SAT
            ---  -----  -----  ----   ------ -----  -----  -----
